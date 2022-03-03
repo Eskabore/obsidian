@@ -1,0 +1,7 @@
+Tags: #scheduling #scheduler
+
+In computing, [scheduling](https://en.wikipedia.org/wiki/Scheduling_(computing)) is the method by which work is assigned to resources that complete the work. The work may be virtual computation elements such as threads, processes or data flows, which are in turn scheduled onto hardware resources such as processors, network links or expansion cards.
+
+A scheduler is what carries out the scheduling activity. Schedulers are often implemented so they keep all computer resources busy (as in load balancing), allow multiple users to share system resources effectively, or to achieve a target quality of service. Scheduling is fundamental to computation itself, and an intrinsic part of the [execution model](https://en.wikipedia.org/wiki/Execution_model)[^exem] of a computer system; the concept of scheduling makes it possible to have <strong>computer multitasking with a single central processing unit</strong> (**CPU**).
+
+[^exem]: A programming language consists of a grammar/syntax plus an execution model. The execution model specifies the behavior of elements of the language. By applying it, one can derive the behavior of a program that was written in terms of that programming language. An **execution model covers things such as what is an indivisible unit of work, and what are the constraints on the order in which those units of work take place**. <br> ==Ex:== the addition operation is an indivisible unit of work in many languages, and in sequential languages such units of work are constrained to take place one after the other

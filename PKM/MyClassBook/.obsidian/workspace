@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "fd0a7bfa5e116428",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddcedd9fa94886ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DicoDefLex/Général/Untitled.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a329bec7bc9be8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f97827ea31f016cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44fef04726219016",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab0f0ebfe64ee5ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"DOM\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f76c13e95f896887",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f47b7c368453e74",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332
+  },
+  "right": {
+    "id": "e5ccc6660886db9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "85a481e5438f152e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d500bf67f932a25f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DicoDefLex/Général/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9ab6c8968675bcf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DicoDefLex/Général/Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "b68acdafe2a9183e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1427c517400a5e36",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380
+  },
+  "active": "ddcedd9fa94886ec",
+  "lastOpenFiles": [
+    "DicoDefLex/Général/Untitled.md",
+    "Books/Version Control.md",
+    "atomic actions.md",
+    "Travail/Documents/Untitled.md",
+    "Connection-oriented communication.md",
+    "Data serialization.md",
+    "DicoDefLex/IT/Software/Kubernetes.md",
+    "DicoDefLex/IT/Software/Application Binary Interface (ABI).md",
+    "DicoDefLex/IT/Architecture/Software Architecture/MVC.md",
+    "Website/DiFFrenZZ/Likorsblack/Map diagram/Draft/Plan.md"
+  ]
+}

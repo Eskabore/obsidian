@@ -1,0 +1,32 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: rgba(0, 128, 0, 1);
+}
+
+h1  {
+background-color: none;
+text-decoration: overline underline;
+text-align: center;
+color: #FFD777;
+}
+
+h2, h3, h4, h5, h6 {
+text-decoration: underline;
+}
+
+
+p {
+text-indent: 20px;
+}
+
+.mark {
+color: black;
+}
+
+ol { list-style-type: upper-roman; }
+ol ol { list-style-type: upper-alpha; }
+ol ol ol { list-style-type: decimal; }
+ol ol ol ol { list-style-type: lower-greek; }
+ol ol ol ol ol { list-style-type: lower-roman; }
+ol ol ol ol ol ol { list-style-type: disc; }

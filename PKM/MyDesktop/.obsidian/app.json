@@ -1,0 +1,28 @@
+{
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "spellcheckDictionary": [
+    "Zettelkasten",
+    "transclusion",
+    "Transclusion",
+    "subclasses",
+    "Joggings",
+    "instantiation",
+    "bundler"
+  ],
+  "readableLineLength": false,
+  "obsidianCss": true,
+  "promptDelete": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Drafts",
+  "autoConvertHtml": false,
+  "legacyEditor": false,
+  "livePreview": true
+}

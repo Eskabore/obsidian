@@ -1,0 +1,4 @@
+
+An '''event-driven process chain''' ('''EPC''') is a type of [[flowchart|flow chart]] for [[Business Process Model|business process modeling]]. EPC can be used to configure [[enterprise resource planning]] execution, and for [[business process]] improvement. It can be used to control an autonomous workflow instance in work sharing.
+
+The event-driven process chain method was developed within the framework of [[Architecture of Integrated Information Systems]] (ARIS) by [[August-Wilhelm Scheer]] at the Institut für Wirtschaftsinformatik, Universität des Saarlandes (Institute for Business Information Systems at the University of Saarland) in the early 1990s.<ref><trans oldtip="A.-W. Scheer (2002). " newtip="A.-W.Scheer(2002年)。">A.-W.Scheer(2002年)。</trans>''<trans oldtip="ARIS. Vom Geschäftsprozess zum Anwendungssystem" newtip="阿里斯。vm Gesch ftsprozess zum Anwendungssystem">阿里斯。vm Gesch ftsprozess zum Anwendungssystem</trans>''. Springer. p.20.</ref>

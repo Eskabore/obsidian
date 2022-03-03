@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "bdb56499c04e3068",
+    "type": "split",
+    "children": [
+      {
+        "id": "3146e01a353caccf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Drafts/JobCenter Info 01.020.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0425ceb6fff75c40",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Inventory.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62678f187d80ead6",
+    "type": "split",
+    "children": [
+      {
+        "id": "589631ca8453eb0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca8ef80322d1be54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb18f80bb6573cc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f41071605209d27",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ba130e207411e42",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "right": {
+    "id": "47a9f8560bd91d21",
+    "type": "split",
+    "children": [
+      {
+        "id": "a93df6039450111b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38cda445c60f4930",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57e82bccfd8eca3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Drafts/JobCenter Info 01.020.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "348502bb91b63cdf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Drafts/JobCenter Info 01.020.md"
+              }
+            }
+          },
+          {
+            "id": "eed617c811864052",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "017118b287a0a4bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e32a6eef2e736532",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396,
+    "collapsed": true
+  },
+  "active": "3146e01a353caccf",
+  "lastOpenFiles": [
+    "Drafts/JobCenter Info 01.020.md",
+    "Inventory.md",
+    "Index.md",
+    "Instance.md",
+    "HTML.md",
+    "Class-based programming.md",
+    "Drafts/CV - Lebenslauf Ideas 15012022.md",
+    "Drafts/live chat.md",
+    "Drafts/Widgets Elfsight.md",
+    "Drafts/Bouge-toi 2022.md"
+  ]
+}

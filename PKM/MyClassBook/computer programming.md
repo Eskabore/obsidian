@@ -1,0 +1,16 @@
+# Computer programming
+---
+
+https://en.wikipedia.org/wiki/Computer_programming
+
+***Computer programming is***  
+**<span style="background-color: darkgreen" >the process of designing and building an executable computer program to accomplish a specific computing result or to perform a specific task</span>**.
+
+**Programming** involves tasks such as:
+   - analysis
+   - generating algorithms
+   - profiling algorithms' acuracy and resource consumption
+   - the implementation of algorithms in a chosen programming language (commonly referred to as **coding**)
+
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit. The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem. Proficient programming thus often requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic. 
+    

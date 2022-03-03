@@ -1,0 +1,1 @@
+[Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson "en:Ted Nelson") coined the term "transclusion", as well as "[hypertext](https://en.wikipedia.org/wiki/hypertext "w:hypertext")" and "[hypermedia](https://en.wikipedia.org/wiki/hypermedia "w:hypermedia")", in his 1982 book _[Literary Machines](https://en.wikipedia.org/wiki/Literary_Machines "w:Literary Machines")_.

@@ -1,0 +1,7 @@
+# Computer engineering
+Tags: #computer #engineer #engineering
+
+**Computer engineering** (**CoE** or **CpE**) is a branch of engineering that integrates several fields of **computer science** and **[[electronic engineering]]** required to develop computer hardware and software
+
+Computer engineers usually have training in:
+    - Electronic engineering (or Electrical engineering)

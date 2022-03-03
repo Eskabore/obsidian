@@ -1,0 +1,23 @@
+{
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "spellcheckDictionary": [
+    "Syncword",
+    "deliverables",
+    "Organigram"
+  ],
+  "attachmentFolderPath": "Attachments",
+  "obsidianCss": false,
+  "defaultViewMode": "source",
+  "showFrontmatter": true,
+  "newLinkFormat": "relative",
+  "lineWrap": true,
+  "readableLineLength": false,
+  "vimMode": false,
+  "strictLineBreaks": false,
+  "legacyEditor": false,
+  "livePreview": true
+}

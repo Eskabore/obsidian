@@ -1,0 +1,3 @@
+- Leo Lecocq : env. 200 (rent et services)
+- Stephanie Turquin: Over 1000
+- Jane E. Agbat: Amount to consider

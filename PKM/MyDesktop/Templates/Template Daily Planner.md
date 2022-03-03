@@ -1,0 +1,52 @@
+<iframe src="https://www.youtube.com/embed/bkXn38__Gy0" class="resize-both" style="height: 191px; width: 735px;"></iframe>
+
+![[Checklist#Morning Checklist]]
+
+### Morning Prep
+
+*Coffee and energy drinks are not a "need"...just a "plus"*
+
+- [ ] 05:30 Wake up
+- [ ] 06:00 Shower
+- [ ] 06:30 Dress up
+- [ ] 06:45 Make the ![[Inventory]]
+- [ ] 06:50 Go out !
+
+
+### Work
+
+- [ ] 07:30 Work starts
+- [ ] 14:30 Work ends
+
+* Read a book in the train
+* Buy ticket
+
+### Reading
+
+Remember to "EXTRACT INFORMATION"
+
+1. Articles.
+2. Book chapters assigned for the day.
+3. Re-reading past notes.
+   
+- [ ] 12:00 Reading
+  - [ ] Article 1
+  - [ ] Article 2
+  - [ ] Article notes review
+- [ ] 12:25 BREAK
+- [ ] 12:30 Reading
+- [ ] 14:00 BREAK
+
+### Afternoon Review
+
+- [ ] 15:00 Review notes and update daily note 
+- [ ] 15:45 Walk
+- [ ] 16:30 Reading
+- [ ] 17:20 Prep for tomorrow's meetings
+- [ ] 18:00 END
+
+[[Checklist#Moonlight Checklist]]
+
+## Review
+
+This is what I should have achieved or completed {{yesterday}}

@@ -1,0 +1,4 @@
+Tags: #axiome #postulat
+
+- [Axiome](https://fr.wikipedia.org/wiki/Axiome): Un axiome est une proposition non démontrée, utilisée comme fondement d’un raisonnement ou d’une théorie mathématique.
+L'ensemble des axiomes d'une théorie est appelé axiomatique ou théorie axiomatique. Cette axiomatique doit être non contradictoire. Cette axiomatique définit la théorie. Un axiome représente donc un point de départ dans un système de logique. La pertinence d'une théorie dépend de la pertinence de ses axiomes et de leur interprétation. L'axiome est donc à la logique mathématique, ce qu'est le [postulat] à la physique théorique.

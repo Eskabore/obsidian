@@ -1,0 +1,3 @@
+En informatique, trunk (ou tronc) est le nom de la branche principale1 d'un logiciel, un matériel....
+
+Un trunk (en) est aussi un lien physique permettant le transit de plusieurs VLANs par exemple au sein d'un réseau Ethernet. 

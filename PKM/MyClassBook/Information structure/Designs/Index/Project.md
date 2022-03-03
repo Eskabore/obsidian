@@ -1,0 +1,90 @@
+---
+object: draft
+description: portfolio.draft
+type: list
+title: index
+---
+
+# Project - Portfolio
+
+NB: 
+* Differences between Project Brief and Scope of work
+    - Project Brief is a raw overview of a project. Written at the very start. Unskilled workers can participate. Should not be returned to the client.
+    -> Once modified, evolves into Scope of Work
+    - Scope of Work is a sketch, summary of key markers submitted to specialists, clients or stakeholders to give a perspective on the (sometimes ongoing) projects.
+
+
+## Index
+
+
+#### Project Requirement:
+
+### Project Brief
+
+#### Option A
+-   Project goals
+-   The client or team’s intended process or methodology
+-   The team and their expertise
+-   Expectations on deliverables, including iteration and collaboration when creating and revising them
+-   Who your client’s stakeholders and, specifically, main decision-makers are
+-   The amount of time the client will need to review work and provide feedback
+-   Dependencies
+-   Deadlines
+
+#### Option B
+* What are the major deliverables? 
+* How will we get to those deliverables and deadlines?
+* Who is in the project team and what role will they play in those deliverables?
+* When will the team meet milestones, and when will other members of the team play a role in contributing to or providing feedback on those deliverables?
+
+
+### Scope ( bottom)
+
+
+- Project goals
+- Requirements
+- Major deliverables
+- Key milestones
+- Assumptions
+- Exclusions:
+- Costs:
+- Constraints 
+
+
+- List of knowledge
+- Business Case:
+- Project Objectives:
+- Major Deliverable:
+- Roles & Responsibilities:
+- Stakeholder:
+- Assumptions: 
+
+ 
+
+
+#### Quick Notes:
+
+PKM involves the application to problem solving of analytical, information, social, and learning dimensions, which are interrelated ([Wright 2007](https://www.wikiwand.com/en/Personal_knowledge_management#CITEREFWright2007)), and so is inherently social.
+
+Skills associated with personal knowledge management include:
+
+   - [ ] Reflection. Continuous improvement on how the individual operates.
+   - [ ] Manage learning. Manage how and when the individual learns.
+    - [ ] Information literacy. Understanding what information is important and how to find unknown information.
+    - [ ] Organizational skills. Personal librarianship. Personal categorization and taxonomies.
+    - [ ] Networking with others. Knowing what your network of people knows. Knowing who might have additional knowledge and resources to help you
+    - [ ] Researching, canvassing, paying attention, interviewing and observational "cultural anthropology" skills
+    - [ ] Communication skills. Perception, intuition, expression, visualization and interpretation.
+    - [ ] Creative skills. Imagination, pattern recognition, appreciation, innovation, inference. Understanding of complex adaptive systems.
+    - [ ] Collaboration skills. Coordination, synchronization, experimentation, cooperation and design.
+
+
+"Portfolio" showcases skills in:
+- Personal Information Management
+- Project Management
+- Repositories management
+- Editing & Writing
+- Coding
+- Debugging
+- Tools & Methodologies
+- Social Presence 

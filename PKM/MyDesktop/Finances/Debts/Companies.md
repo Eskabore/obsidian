@@ -1,0 +1,10 @@
+- VexCash
+- Car2Go
+- Vodafone
+- 1&1
+- BVG
+- S-Bahn
+- Mobile Telecom
+- Paypal
+- N26
+- Google Suite

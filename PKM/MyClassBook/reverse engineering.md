@@ -1,0 +1,2 @@
+# Reverse engineering
+also called **backwards engineering** or **back engineering**, is the process by which <u>an artificial object is deconstructed to reveal its designs, architecture, code, or to extract knowledge from the object</u>. It is ==similar to scientific research==, the only difference being that scientific research is conducted into a natural phenomenon.

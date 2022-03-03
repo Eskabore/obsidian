@@ -1,0 +1,4 @@
+# Scripting language
+#computer #programming #language 
+
+A **scripting** or **script language** is a [[programming language]] for a special [[run-time environment|"Run-time environment"]] that automates the [execution](https://en.wikipedia.org/wiki/Execution_(computing) "Execution (computing)") of tasks;[\[1\]](https://en.wikipedia.org/wiki/Scripting_language#cite_note-ecma262-1) the tasks could alternatively be executed one-by-one by a human operator. Scripting languages are often [interpreted](https://en.wikipedia.org/wiki/Interpreted_language "Interpreted language"), rather than [compiled](https://en.wikipedia.org/wiki/Compiler "Compiler")
