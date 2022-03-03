@@ -1,0 +1,3 @@
+# Ignore plugins (added,deleted, updated)# 
+PKM/MyDesktop/.obsidian/plugins/*
+PKM/MyClassbook/.obsidian/plugins/*
