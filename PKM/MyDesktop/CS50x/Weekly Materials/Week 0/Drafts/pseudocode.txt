@@ -1,0 +1,67 @@
+Prompt user for Input
+    If input is valid
+            Draw right-aligned pyramid
+                For each new row
+                   Print decrementing number of 'space'.
+                   Print incrementing number of 'hashes'.
+                   Print a new line
+    While value height > 0 & < 9:
+
+    Tell user Input is Invalid
+    Go back to line 1
+
+  Algorithm :
+
+for x = n;
+for x = y;
+
+for z = 8;
+z (n)
+x(n) = z + y(n)
+
+
+
+line 1 = 1 hashes + 6 dots
+line 2 = 2 hashes + 7 dots
+
+int height = n = received value
+
+int i = return to the line
+
+   for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < n; j++)
+        {
+            printf("#");
+        }
+        printf("\n");
+
+For "n" > 0 && < 9
+
+
+
+int i  = (n x number of rows); // New row = return to the line
+/*
+for i = 0; Row 0 = line 1
+*/
+
+int j = (n x number of " "); //
+
+int k = (n x number of hashes);
+       printf(n x "#");
+/*
+int
+*/
+
+do
+  for ( i = height )
+      printf("\n");
+
+
+    do print dots
+int j = (n x number of hashes)
+
+for (n=1)
+ {
+   printf n("*", "#")
+ }
