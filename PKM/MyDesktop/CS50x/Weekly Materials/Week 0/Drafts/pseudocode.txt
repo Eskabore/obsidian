@@ -65,3 +65,79 @@ for (n=1)
  {
    printf n("*", "#")
  }
+
+ ------------------------------
+
+ 12 - 13/03/2022
+
+ Prompt user for Input
+Check Input validity
+If input is valid
+  Draw right-aligned pyramid
+    For each new row
+      Print decrementing number of space
+      Print incrementing number of hashes
+      Print a new line
+Else
+Go back to line 1
+
+
+// Draft ideas
+
+First & Last pyramid's row should have NO dot
+// Current Algorithm suggests:
+ that the row-1 start with 7-spaces (then "#") and decrease of 1 every newer row
+For n = user input (digit 1-8)
+// Correcting Algorithm:
+From a value of n(1) -> 0 space
+     a value of n(2) -> 1 space row 1
+then 0 space row 2
+From a value of n(2) -> 2 spaces row 1
+then 1 space row 2
+then 0 space row 2
+When row is superior to 1 and row grows of +1 then programs adds a number of space from row-1 that
+is n-1 in a decreasing order from the first row
+If user type 1: pyramid should display
+# (0 space)
+If user type 2: pyramid should display
+ # (1 space)
+## (0 space)
+If user type 3: pyramid should display
+  # (2 spaces)
+ ## (1 spaces)
+### (0 spaces)
+If user type 4: pyramid should display
+   # (3 spaces)
+  ## (2 spaces)
+ ### (1 space)
+#### (0 space)
+If user type 5: pyramid should display
+    # (4 spaces)
+   ## (3 spaces)
+  ### (2 spaces)
+ #### (1 space)
+##### (0 space)
+If user type 6: pyramid should display
+     # (5 spaces)
+    ## (4 spaces)
+   ### (3 spaces)
+  #### (2 spaces)
+ ##### (1 space)
+###### (0 space)
+If user type 7: pyramid should display
+      # (6 spaces)
+     ## (5 spaces)
+    ### (4 spaces)
+   #### (3 spaces)
+  ##### (2 spaces)
+ ###### (1 space)
+####### (0 space)
+If user type 8: pyramid should display
+       # (7 spaces)
+      ## (6 spaces)
+     ### (5 spaces)
+    #### (4 spaces)
+   ##### (3 spaces)
+  ###### (2 spaces)
+ ####### (1 space)
+######## (0 space)
