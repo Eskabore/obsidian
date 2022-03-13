@@ -51,7 +51,6 @@ int calculate_quarters(int cents)
 {
     // TODO
     int dividend, divisor, quotient, remainder;
-    int helper;
     dividend = cents;
     divisor = 25;
     quotient = dividend / divisor;
@@ -73,7 +72,6 @@ int calculate_dimes(int cents)
 {
     // TODO
     int dividend, divisor, quotient, remainder;
-    int helper;
     dividend = cents;
     divisor = 10;
     quotient = dividend / divisor;
@@ -94,7 +92,6 @@ int calculate_nickels(int cents)
 {
     // TODO
     int dividend, divisor, quotient, remainder;
-    int helper;
     dividend = cents;
     divisor = 5;
     quotient = dividend / divisor;
@@ -115,7 +112,6 @@ int calculate_pennies(int cents)
 {
     // TODO
     int dividend, divisor, quotient, remainder;
-    int helper;
     dividend = cents;
     divisor = 1;
     quotient = dividend / divisor;
