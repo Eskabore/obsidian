@@ -9,8 +9,77 @@
     <body>
         <header>
             <h1 id="title">Survey Form</h1>
-            <p id="description" class="description"></p>
+            <p id="description" class="description">description will be here</p>
         </header>
-            <form id="survey-form"></form>
+            <form id="survey-form">
+                <div class="form-elements">
+                    <label for="name" id="name-label">
+                        Name:
+                    </label>
+                    <input id="name" type="text" name="name" class="form-field" placeholder="Enter your name:" required="">
+                </div>
+                <div class="form-elements">
+                    <label for="email" id="email-label">
+                        Email:
+                        <input id="email" type="email" class="form-field" name="email" placeholder="Enter your mail adress:" required>
+                    </label>
+                </div>
+                <div class="form-elements">
+                    <label for="phone" id="phone-label">
+                        Phone:
+                        <input type="tel" id="phone" class="form-field" name="phone" placeholder="Enter your phone number" pattern="[0-9]{2}-[0-9]{3}-[0-9]{4}-[0-9]{2}" required>
+                    </label>
+                </div>
+                <div class="form-elements">
+                    <label for="number" id="number-label">
+                        Age:
+                        <input type="number" id="number" class="form-field" name="number" min="1" max="99" placeholder="Enter your age:">
+                    </label>
+                </div>
+                <div class="form-elements">
+                    <p>Which option describe best your center of interest?</p>
+                    <label for="dropdown" id="dropdown-label">
+                        <select name="interest" id="dropdown" class="form-field">
+                            <option value="" selected disabled>Select your current interest</option>
+                            <option value="gaming">Gaming</option>
+                            <option value="reading">Reading</option>
+                            <option value="dansing">Dansing</option>
+                            <option value="walking">Walking</option>
+                            <option value="other">Other</option>
+                        </select>
+                        </label>
+                        <div class="form-elements">
+                            <p>What could you help you learning better?</p>
+                            <input type="radio" id="radio" name="tools" value="Internet">
+                            <label for="internet">Internet</label><br>
+                            <input type="radio" id="radio" name="tools" value="Books">
+                            <label for="books">Books</label><br>
+                            <input type="radio" id="radio" name="tools" value="Colleagues">
+                            <label for="colleagues">Colleagues</label><br>
+                            <input type="radio" id="radio" name="tools" value="Meditation">
+                            <label for="meditation">Meditation</label><br>
+                            <input type="radio" id="radio" name="tools" value="Other">
+                            <label for="other">Other</label>
+                        </div>
+                        <div class="form-elements">
+                            <p>What is your daily ride?</p>
+                            <input type="checkbox" name="vehicle1" value="Bike">
+                            <label for="vehicle1">I have a bike</label>
+                            <input type="checkbox" name="vehicle2" value="Scooter">
+                            <label for="vehicle2">I have a scooter</label>
+                            <input type="checkbox" name="vehicle3" value="Car">
+                            <label for="vehicle3">I have a car</label>
+                            <input type="checkbox" name="vehicle3" value="Boat">
+                            <label for="vehicle4">I have a boat</label>
+                        </div>
+                        <div class="form-elements">
+                            <label for="comments">Please, leave us a short comment</label>
+                            <textarea name="comment" id="comment" cols="30" rows="10"></textarea>
+                        </div>
+                        <div class="form-elements">
+                            <input type="submit" id="submit" class="submit-button">
+                        </div>
+                </div>
+            </form>
     </body>
 </html>
