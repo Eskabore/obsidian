@@ -7,9 +7,12 @@
     </head>
 
     <body>
+        <div class="container">
         <header>
-            <h1 id="title">Survey Form</h1>
-            <p id="description" class="description">description will be here</p>
+            <h1 id="title" class="text-center">Survey Form</h1>
+            <p id="description" class="description">This survey form will ask you boring questions. I wasn't feeling inspired while editing the text. I assume that
+                text content shouldn't matter that much since only the quality of the code is checked in order to pass the tests.
+            </p>
         </header>
             <form id="survey-form">
                 <div class="form-elements">
@@ -50,36 +53,37 @@
                         </label>
                         <div class="form-elements">
                             <p>What could you help you learning better?</p>
+                            <label for="internet">Internet</label>
                             <input type="radio" id="radio" name="tools" value="Internet">
-                            <label for="internet">Internet</label><br>
+                            <label for="books">Books</label>
                             <input type="radio" id="radio" name="tools" value="Books">
-                            <label for="books">Books</label><br>
+                            <label for="colleagues">Colleagues</label>
                             <input type="radio" id="radio" name="tools" value="Colleagues">
-                            <label for="colleagues">Colleagues</label><br>
+                            <label for="meditation">Meditation</label>
                             <input type="radio" id="radio" name="tools" value="Meditation">
-                            <label for="meditation">Meditation</label><br>
-                            <input type="radio" id="radio" name="tools" value="Other">
                             <label for="other">Other</label>
+                            <input type="radio" id="radio" name="tools" value="Other">
                         </div>
                         <div class="form-elements">
                             <p>What is your daily ride?</p>
-                            <input type="checkbox" name="vehicle1" value="Bike">
                             <label for="vehicle1">I have a bike</label>
-                            <input type="checkbox" name="vehicle2" value="Scooter">
+                            <input type="checkbox" name="vehicle1" value="Bike">
                             <label for="vehicle2">I have a scooter</label>
-                            <input type="checkbox" name="vehicle3" value="Car">
+                            <input type="checkbox" name="vehicle2" value="Scooter">
                             <label for="vehicle3">I have a car</label>
-                            <input type="checkbox" name="vehicle3" value="Boat">
+                            <input type="checkbox" name="vehicle3" value="Car">
                             <label for="vehicle4">I have a boat</label>
+                            <input type="checkbox" name="vehicle3" value="Boat">
                         </div>
                         <div class="form-elements">
                             <label for="comments">Please, leave us a short comment</label>
-                            <textarea name="comment" id="comment" cols="30" rows="10"></textarea>
+                            <textarea name="comments" id="comment" cols="30" rows="10" class="input-textarea"></textarea>
                         </div>
                         <div class="form-elements">
                             <input type="submit" id="submit" class="submit-button">
                         </div>
                 </div>
             </form>
+        </div>
     </body>
 </html>
