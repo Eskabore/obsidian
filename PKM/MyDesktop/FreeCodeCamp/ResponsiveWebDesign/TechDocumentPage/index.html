@@ -53,9 +53,9 @@
     <main id="main-doc">
         <section class="main-section" id="Components_and_Props">
             <header>
-                <p>
+                <h1>
                     Components and Props
-                </p>
+                </h1>
             </header>
             <article>
                 <p>
@@ -83,20 +83,96 @@
                     because they are literally JavaScript functions.
                 </p>
                 <p>
-                    You can also use an <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes" nam></a>
+                    You can also use an
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes" name="ES6_class">
+                        ES6 class
+                    </a>
+                    to define a component:
+                    <pre>
+                        <code>
+                            class Welcome extends Reacts.Component {
+                                render() {
+                                    return Hello, {this.props.name};
+                                }
+                            }
+                        </code>
+                    </pre>
+                    The above two components are equivalent from React's point of view.
                 </p>
             </article>
         </section>
         <section class="main-section" id="Composition_vs_Inheritance">
             <header>
-                <p>
-                    Composition_vs_Inheritance
-                </p>
+                <h1>
+                    Composition vs Inheritance
+                </h1>
             </header>
             <article>
-                <p></p>
+                <p>
+                    React has a powerful composition model, and we recommend using composition instead of
+                    Inheritance to reuse code between components.
+                </p>
+                <p>
+                    In this section, we will consider a few problems where developers new to React often
+                    reach for inheritnce, and show how we can solve them with composition.
+                </p>
+                <h2 id="containment">Containment</h2>
+                <p>
+                    Some components don't know their children ahead of time. This especially common for
+                    components like <code>Sidebar</code> or <code>Dialog</code> that represent generic
+                    boxes.
+                </p>
+                <p>
+                    We recommend that such components use the special <code>children</code> prop to pass children
+                    elements directly into their output:
+                    <pre>
+                        <code>
+                            function WelcomeDialog() {
+                                return (
+                                    FancyBorder color="blue"
+                                    h1 className="Dialog-title"
+                                    Welcome
+                                    /h1
+                                    p className="Dialog-message"
+                                    Thank you for visiting our spacecraft!
+                                    /p
+                                    /FancyBorder
+                                    );                                )
+                            }
+                        </code>
+                    </pre>
+                </p>
+                <p>
+                    Anything inside the <code>FancyBorder</code>JSX tag gets passed into the <code>FancyBorder</code>
+                    component as a <code>children</code> prop. Since <code>FancyBorder</code> renders
+                    <code>{props.children}</code> inside a <code>div</code>, the passed elements appear in the final
+                    output.
+                </p>
+                <p>
+                    While this is less common, sometimes you might need multiple "holes" in a component. In such cases
+                    you may come up with your own convention instead of using <code>children</code>.
+                </p>
             </article></section>
-        <section class="main-section" id="Conditional_Rendering"><header></header><article></article></section>
+        <section class="main-section" id="Conditional_Rendering">
+            <header>
+                <h1>
+                    Conditional Rendering
+                </h1>
+            </header>
+            <article>
+                <p>
+                    In React, you can create distinct components that encapsulate behavior you need.
+                    Then, you can render only some of them, depending on the state of your application.
+                </p>
+                <p>
+                    Conditional rendering in React works the same way conditions work in JavaScript.
+                    Use JavaScript operators like <code>if</code> or the
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator" name="conditional_operator">
+                        conditional operator
+                    </a>
+                    to create elements representing the current state, and let React update the Ui to match them.
+                </p>
+            </article></section>
         <section class="main-section" id="Forms"><header></header><article></article></section>
         <section class="main-section" id="Handling_Events"><header></header><article></article></section>
         <section class="main-section" id="Introducing_JSX"><header></header><article></article></section>
