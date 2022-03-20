@@ -10,71 +10,80 @@
 
 <body>
     <!-- Header -->
-    <header id="header">
-        <div class="header container">
-            <!-- Nav-Bar -->
-            <nav id="nav-bar">
-                <div class="upperleft">
-
-                    <div class="logo">
-                        <figure>
-                        <img src="https://i.postimg.cc/jd7ZfBd2/Logo2.png" alt="my logo" class="header-img">
-                    </div>
-                    <figcaption class="brand">
-                        <a href="#hero">
-                                <span class="fast-flicker">J</span>
-                                ean
-                                <span class="fast-flicker">L</span>
-                                uc
-                        </a>
-                    </figcaption>
-                </figure>
+    <div id="page-wrapper">
+        <header id="header">
+            <div class="header container" style="background-color: rgb(41, 50, 60);">
+                <!-- Nav-Bar -->
+                <nav id="nav-bar" class="nav-bar">
+                    <div class="brand">
+                        <div class="nav-list">
+                            <ul>
+                                <li>
+                                    <a href="#about" class="nav-link">About</a>
+                                </li>
+                                <li>
+                                    <a href="#services" class="nav-link">Services</a>
+                                </li>
+                                <li>
+                                    <a href="#contacts" class="nav-link">Contacts</a>
+                                </li>
+                                <li>
+                                    <a href="#footer" class="nav-link">Footer</a>
+                                </li>
+                            </ul>
+                        </div>
+                </nav>
+                <!-- End of Nav-Bar -->
+                <div class="logo">
+                    <figure>
+                        <img src="https://i.postimg.cc/jd7ZfBd2/Logo2.png" alt="my logo" id="header-img">
+                        <figcaption class="brand">
+                            <a href="#hero">
+                                <h1>
+                                    <span class="fast-flicker">J</span>
+                                    ean
+                                    <span class="flicker">L</span>
+                                    uc
+                            </a>
+                            </h1>
+                        </figcaption>
+                    </figure>
                 </div>
-
-
-                <div class="nav-list">
-                    <ul>
-                        <li>
-                            <a href="#about" class="nav-link">About</a>
-                        </li>
-                        <li>
-                            <a href="#services" class="nav-link">Services</a>
-                        </li>
-                        <li>
-                            <a href="#contacts" class="nav-link">Contacts</a>
-                        </li>
-                        <li>
-                            <a href="#footer" class="nav-link">Footer</a>
-                        </li>
-                    </ul>
-                </div>
-            </nav>
-            <!-- End of Nav-Bar -->
-        </div>
+            </div>
+    </div>
     </header>
+    </div>
     <!-- End of Header -->
 
     <main>
         <!-- Hero -->
         <section id="hero">
             <div class="hero container">
-                <h3>
-                    Hero
-                </h3>
+                <p>
+                    Hero Section
+                </p>
                 <!-- Form -->
                 <form action="https://www.freecodecamp.com/email-submit" id="form">
                     <fieldset>
-                        <legend>Order</legend>
+                        <legend>
+                            <p><span></span></p>
+                        </legend>
 
-                        <label for="name"></label>
+                        <label for="name">
+                            <p>Name:</p>
+                        </label>
                         <input type="text" id="name" name="name" placeholder="Enter your Name:">
                         <br><br>
 
-                        <label for="phone"></label>
+                        <label for="phone">
+                            <p>Phone:</p>
+                        </label>
                         <input type="tel" id="phone" name="name" placeholder="Enter your Phone/Mobile Numeber">
                         <br><br>
 
-                        <label for="email">E-mail</label>
+                        <label for="email">
+                            <p>E-mail:</p>
+                        </label>
                         <input type="email" id="email" name="email" placeholder="Enter your E-mail:">
                         <br><br>
 
@@ -84,41 +93,65 @@
                 </form>
                 <!-- End of Form -->
             </div>
+            ::after
         </section>
 
         <!-- About -->
         <section id="about">
             <div class="about container">
-                <h3>
-                    About
-                </h3>
+                <div class="col-left">
+                    <div class="about-img">
+                        <img src="https://i.postimg.cc/1X6s7XwC/tangerine-newt-a9rxef-N9vg-Y-unsplash.jpg"
+                            alt="Kiwi slices falling down">
+                        <!--::after -->
+                    </div>
+                </div>
+                <div class="col-right">
+                    <h1 class="section-title">
+                        About
+                        <span>Our Products</span>
+                    </h1>
+                    <p>Our prouducts are fresh and certified by the WHO has organic and healthy.</p>
+                </div>
             </div>
         </section>
 
         <!-- Services -->
         <section id="services">
             <div class="services container">
-                <h3>
-                    Services
-                </h3>
+            <div class="col-left">
+                    <h1 class="section-title">
+                        Services
+                    </h1>
+                    <p>We cut kiwis like chef. We gladly share that knowledge with you. Come to our workshops and
+                        develop sought-after skills that will grant you new amazing breakfast experiences.
+                    </p>
+                </div>
+                <div class="col-right">
+                    <iframe src="https://i.ytimg.com/an_webp/HjOFtlkev-o/mqdefault_6s.webp?du=3000&sqp=CNSk3JEG&rs=AOn4CLBSBgW5vDUkzbdHs6pX9LxvP64DMA" style="border:0px #ffffff none;" id="video" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+                </div>
             </div>
         </section>
 
         <!-- Contacts -->
         <section id="contacts">
             <div class="contacts container">
-                <h3>
-                    Contacts
-                </h3>
+                <div class="brand">
+                    <h1>
+                        Contacts
+                    </h1>
+                </div>
             </div>
         </section>
 
         <!-- Footer -->
         <section id="footer">
             <div class="footer container">
-                <h3>
-                    Footer
-                </h3>
+                <div class="brand">
+                    <h1>
+                        Footer
+                    </h1>
+                </div>
             </div>
         </section>
     </main>
