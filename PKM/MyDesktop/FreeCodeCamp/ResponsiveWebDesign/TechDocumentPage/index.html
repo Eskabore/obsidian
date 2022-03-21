@@ -16,37 +16,37 @@
         </header>
         <ul>
             <li>
-                <a class="nav-link" href="#Components_and_Props">Components_and_Props</a>
+                <a class="nav-link" href="#Components_and_Props">Components and Props</a>
             </li>
             <li>
-                <a class="nav-link" href="#Composition_vs_Inheritance">Composition_vs_Inheritance</a>
+                <a class="nav-link" href="#Composition_vs_Inheritance">Composition vs Inheritance</a>
             </li>
             <li>
-                <a class="nav-link" href="#Conditional_Rendering">Conditional_Rendering</a>
+                <a class="nav-link" href="#Conditional_Rendering">Conditional Rendering</a>
             </li>
             <li>
                 <a class="nav-link" href="#Forms">Forms</a>
             </li>
             <li>
-                <a class="nav-link" href="#Handling_Events">Handling_Events</a>
+                <a class="nav-link" href="#Handling_Events">Handling Events</a>
             </li>
             <li>
-                <a class="nav-link" href="#Introducing_JSX">Introducing_JSX</a>
+                <a class="nav-link" href="#Introducing_JSX">Introducing JSX</a>
             </li>
             <li>
-                <a class="nav-link" href="#Lifting_State_Up">Lifting_State_Up</a>
+                <a class="nav-link" href="#Lifting_State_Up">Lifting State Up</a>
             </li>
             <li>
-                <a class="nav-link" href="#Lists_and_Keys">Lists_and_Keys</a>
+                <a class="nav-link" href="#Lists_and_Keys">Lists and Keys</a>
             </li>
             <li>
-                <a class="nav-link" href="#Rendering_Elements">Rendering_Elements</a>
+                <a class="nav-link" href="#Rendering_Elements">Rendering Elements</a>
             </li>
             <li>
-                <a class="nav-link" href="#State_and_Lifecycle">State_and_Lifecycle</a>
+                <a class="nav-link" href="#State_and_Lifecycle">State and Lifecycle</a>
             </li>
             <li>
-                <a class="nav-link" href="#Thinking_in_React">Components_and_Props</a>
+                <a class="nav-link" href="#Thinking_in_React">Components and Props</a>
             </li>
         </ul>
     </nav>
@@ -172,15 +172,160 @@
                     </a>
                     to create elements representing the current state, and let React update the Ui to match them.
                 </p>
-            </article></section>
-        <section class="main-section" id="Forms"><header></header><article></article></section>
-        <section class="main-section" id="Handling_Events"><header></header><article></article></section>
-        <section class="main-section" id="Introducing_JSX"><header></header><article></article></section>
-        <section class="main-section" id="Lifting_State_Up"><header></header><article></article></section>
-        <section class="main-section" id="Lists_and_Keys"><header></header><article></article></section>
-        <section class="main-section" id="Rendering_Elements"><header></header><article></article></section>
-        <section class="main-section" id="State_and_Lifecycle"><header></header><article></article></section>
-        <section class="main-section" id="Thinking_in_React"><header></header><article></article></section>
+                <p>
+                    Consider those two components:
+                    <pre>
+                        <code>
+                            // first component
+                            function UserGreeting(props) {
+                                return *h1*Welcome back!*h1*;
+                              }
+                            // Second component
+                              function GuestGreeting(props) {
+                                return *h1*Please sign up*h1*.</h1>;
+                              }
+                        </code>
+                    </pre>
+                </p>
+                <h3 id="element-variables">
+                    Element Variables
+                </h3>
+                <p>
+                    You can use variables to store elements. This can help you conditionally
+                    render a part of the component while the rest of the output doesn not change.
+                </p>
+            </article>
+        </section>
+        <section class="main-section" id="Forms">
+            <header>
+                <h1>
+                    Forms
+                </h1>
+            </header>
+            <p>
+                HTML form elements work a bit differently from other DOM elements in React,
+                because form elements naturally keep some internal state. For example, this
+                form in plain HTML accepts a single name:
+                <pre>
+                    <code>
+                        &lt;form&gt;
+                            &lt;label&gt;
+                              Name:
+                              &lt;input type="text" name="name" /&gt;
+                              &lt;/label&gt;
+                              &lt;input type="submit" value="Submit" /&gt;
+                              &lt;/form&gt;
+                    </code>
+                </pre>
+                This form has the default HTML form behavior of browsing to a new page
+                when the user submits the form. If you want this behavior in React,
+                it just works. But in most cases, it is convenient to have a JavaScript function
+                that handles the submission of the form and has access to the data
+                that the user entered into the form. The standard way
+                to achieve this is with a technique called “controlled components”.
+            </p>
+            <h2 id="controlled-components">
+                Controlled Components
+            </h2>
+            <p>
+                In HTML form elements such as <code>&lt;input&gt;</code>, <code>&lt;textarea&gt;</code>,
+                and <code>&lt;select&gt;</code> typically maintain their own state and update it based on
+                user input. In React, mutable state is typically kept in the state property of components,
+                and only updated with <a href="https://devdocs.io/react/react-component#setstate">
+                    <code>
+                        setState()
+                    </code>
+                </a>
+            </p>
+            <p>
+                We can combine the two by making the React state be the “single source of truth”.
+                Then the React component that renders a form also controls what happens in that form
+                on subsequent user input. An input form element whose value is controlled
+                by React in this way is called a “controlled component”.
+            </p>
+            <article>
+                <p></p>
+            </article>
+        </section>
+        <section class="main-section" id="Handling_Events">
+            <header>
+                <h1>
+                    Handling Events
+                </h1>
+            </header>
+            <p>
+                Handling events with React elements is very similar to handling events on DOM elements.
+                There are some syntax differences:
+                <ul>
+                    <li>
+                        React events are named using camelCase, rather than lowercase.
+                    </li>
+                    <li>
+                        With JSX you pass a function as the event handler, rather than a string.
+                    </li>
+                </ul>
+            </p>
+            <article></article></section>
+        <section class="main-section" id="Introducing_JSX">
+            <header>
+                <h1>
+                    Introducing JSX
+                </h1>
+            </header
+            ><article>
+                <p></p>
+            </article>
+        </section>
+        <section class="main-section" id="Lifting_State_Up">
+            <header>
+                <h1>
+                    Lifting State Up
+                </h1>
+            </header>
+            <article>
+                <p></p>
+            </article>
+        </section>
+        <section class="main-section" id="Lists_and_Keys">
+            <header>
+                <h1>
+                    Lists and Keys
+                </h1>
+            </header>
+            <article>
+                <p></p>
+            </article>
+        </section>
+        <section class="main-section" id="Rendering_Elements">
+            <header>
+                <h1>
+                    Rendering Elements
+                </h1>
+            </header>
+            <article>
+                <p></p>
+            </article>
+        </section>
+        <section class="main-section" id="State_and_Lifecycle">
+            <header>
+                <h1>
+                    State and Lifecycle
+                </h1>
+            </header>
+            <article>
+                <p></p>
+            </article>
+        </section>
+        <section class="main-section" id="Thinking_in_React">
+            <header>
+                <h1>
+                    Thinking in React
+                </h1>
+            </header>
+            <article>
+                <p></p>
+            </article>
+        </section>
     </main>
 </body>
 </html>
