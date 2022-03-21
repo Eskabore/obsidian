@@ -1,24 +1,292 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <link rel="stylesheet" href="style.css" />
-        <!-- Favicons -->
-        <!-- Animate CSS CDN -->
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-    />
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="style.css" />
+    <!-- Favicons -->
+    <!-- Animate CSS CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <title>Personal Portfolio</title>
-    </head>
-    <body>
-        <!-- Navbar -->
-        <nav id="navbar"></nav>
-        <main></main>
-        <footer></footer>
-        <!-- Website scripts -->
-        <script src="app.js"></script>
-    </body>
+</head>
+
+<body>
+    <!-- Header -->
+    <section id="header" class="header">
+        <!-- NavBar -->
+        <nav id="navbar" class="nav-bar">
+            <div class="brand">
+                    <h1>
+                        <span class="fast-flicker">J</span>ean <span class="flicker">L</span>uc
+                    </h1>
+                </a>
+            </div>
+            <div class="nav-list">
+                </div>
+                <ul>
+                    <li>
+                        <a href="#welcome-section" data-after="Welcome">Welcome</a>
+                    </li>
+                    <li>
+                        <a href="#services" data-after="Services">Services</a>
+                    </li>
+                    <li>
+                        <a href="#projects" data-after="Projects">Projects</a>
+                    </li>
+                    <li>
+                        <a href="#about" data-after="About">About</a>
+                    </li>
+                    <li>
+                        <a href="#contact" data-after="Contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <!-- End of NavBar-->
+    </section>
+    <!-- End of Header -->
+    <!-- Hero Section  -->
+    <section id="welcome-section">
+        <div class="hero container">
+            <div>
+                <h1>I make Websites<span></span></h1>
+                <h1>My Name is <span></span></h1>
+                <h1>Jean-Luc <span></span></h1>
+                <h1>KABORE-TURQUIN<span></span></h1>
+                <a href="#about" type="button" class="cta">MORE...</a>
+            </div>
+        </div>
+    </section>
+    <!-- End Hero Section  -->
+
+    <!-- Service Section -->
+    <section id="services">
+        <div class="services container">
+            <div class="service-top">
+                <h1 class="section-title">Serv<span>i</span>ces</h1>
+                <p>Today, a successful web page must be able to articulate your story using proper layout, well-thought
+                    navigation, copywriting, and usability. All these must be considered in order to find a consistent
+                    style that will enhance the character of your product and will make it stand out.<br>
+                    DiFfrenzZ propose custom tailored services and technologies to design and shape pages that reflect
+                    the essence of your brand, display your products, manage your content and attract users and
+                    prospects.</p>
+            </div>
+            <div class="service-bottom">
+                <div class="service-item">
+                    <div class="icon"><img src="./svgs/rulers.svg" /></div>
+                    <h2>Web Design</h2>
+                    <p>I design your entire web interface: the interactional architecture, the organization of the
+                        pages, the tree structure, and the navigation of your website.
+                        I take into account the specific constraints of the Internet medium, especially in terms of
+                        ergonomics, usability, and accessibility.</p>
+                </div>
+                <div class="service-item">
+                    <div class="icon"><img src="./svgs/modem.svg" /></div>
+                    <h2>Custom WordPress Development Services</h2>
+                    <p>We bring you on a journey to build powerful digital solutions and enjoyable user experience with
+                        our WordPress Development Services by:</p>
+                    <div>
+                        <ul>
+                            <li>Developing clean and responsive websites in a seamless process-driven manner.</li>
+                            <li>Helping your business develop a growth-oriented WooCommerce store and even migrating
+                                your existing store to WooCommerce.</li>
+                            <li>Ensuring a seamless data sync and offer mobile app integration services with your site,
+                                extending your WordPress website capabilities.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="service-item">
+                    <div class="icon"><img src="./svgs/mobile-app.svg" /></div>
+                    <h2>Web Design</h2>
+                    <p>I design your entire web interface: the interactional architecture, the organization of the
+                        pages, the tree structure, and the navigation of your website.
+                        I take into account the specific constraints of the Internet medium, especially in terms of
+                        ergonomics, usability, and accessibility.</p>
+                </div>
+                <div class="service-item">
+                    <div class="icon"><img src="https://img.icons8.com/dusk/64/000000/internet--v2.png" /></div>
+                    <h2>Web Design</h2>
+                    <p></p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Service Section -->
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <div class="projects container">
+            <div class="projects-header">
+                <h1 class="section-title">Recent <span>Projects</span></h1>
+            </div>
+            <div class="all-projects">
+                <div class="project-tile">
+                    <div class="project-info">
+                        <h1>Web Platform</h1>
+                        <h2>Cattle Trading Platform</h2>
+                        <p>Creating the first online cattle trading platform in Burkina-Faso. Despite the country
+                            knowing a rapid economic growth, many challenges such as a reliable internet, are important
+                            factors to consider while developing a nationwide website.</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./images/project1.png" alt="img">
+                    </div>
+                </div>
+                <div class="project-tile">
+                    <div class="project-info">
+                        <h1>IOT with Salesforce</h1>
+                        <h2>Solar Panels Management</h2>
+                        <p>Creating, customizing and managing a Sales Cloud and a Service Cloud consoles for a company
+                            selling and maintaining solar panels. Data collection, filtering, transmission, ... every
+                            bit of information collected either from a technician or a solar panel itself, has to be
+                            examined then send to multiple sources while displaying relevant dataaccordingly.</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./images/project2.png" alt="img">
+                    </div>
+                </div>
+                <div class="project-tile">
+                    <div class="project-info">
+                        <h1>Project 3</h1>
+                        <h2>Codtbr</h2>
+                        <p></p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./images/project3.jpg" alt="img">
+                    </div>
+                </div>
+                <div class="project-tile">
+                    <div class="project-info">
+                        <h1><a href="https://eskabore.github.io/#hero" name="link-portfolio">Portfolio</a></h1>
+                        <h2>We help you editing your privacy policies</h2>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad, iusto cupiditate voluptatum
+                            impedit unde rem ipsa distinctio illum quae mollitia ut, accusantium eius odio ducimus illo
+                            neque atque libero non sunt harum? Ipsum repellat animi, fugit architecto voluptatum odit
+                            et!</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./images/project4.jpg" alt="img">
+                    </div>
+                </div>
+                <div class="project-tile">
+                    <div class="project-info">
+                        <h1>SalesForce</h1>
+                        <h2>Solar Panels</h2>
+                        <p>Console built to manage sales teams, technical support department and marketing resources of
+                            SOLAR Tech LTD. a company whose main activities revolve around Solar Panels.</p>
+                    </div>
+                    <div class="project-img">
+                        <img src="./images/project5.jpg" alt="img">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Projects Section -->
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="about container">
+            <div class="col-left">
+                <div class="about-img">
+                    <img src="./images/jean-luc_pro-matrix.jpg" alt="img">
+                </div>
+            </div>
+            <div class="col-right">
+                <h1 class="section-title">About <span>Me</span></h1>
+                <h2>I am <span class="metiers"></span></h2>
+                <p>
+                    I design custom sites or adapt existing technical solutions according to the project and the
+                    client's request.
+                    Working on customizing and maintaining Salesforce consoles sums up the skills and strengths that
+                    Jean-Luc has refined over the years. He improved his communication and persuasive skills as a Sales,
+                    learned marketing, business development, and miscellaneous organizational structures while achieving
+                    his Bachelor's Degree in Business Administration, and ran throughout all aspects and specifications
+                    of the Salesforce Platform at FRG as a Salesforce Consultant and Specialists Recruiter.
+                    Eager to work for others, he understands the importance of being reliable and achieving company
+                    goals as success, -according to himself-, is a common goal that needs personal involvement.
+                    Better than few words, this CV details some proven successful tracks that make Jean-Luc, the
+                    valuable asset your company requires.</p>
+                <a href="#" class="cta" download="CV-jl_kabore-turquin.pdf">Download Resume</a>
+            </div>
+        </div>
+    </section>
+    <!-- End About Section -->
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="contact container">
+            <div>
+                <h1 class="section-title">Contact <span>info</span></h1>
+            </div>
+            <div class="contact-items">
+                <div class="contact-item">
+                    <div class="icon"><img src="./icons/telephone.ico" /></div>
+                    <div class="contact-info">
+                        <h1>Phone</h1>
+                        <h2>+44 736 783 3037</h2>
+                        <h2>+49 1 639 4482 005</h2>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="icon"><img src="./icons/email.ico" /></div>
+                    <div class="contact-info">
+                        <h1>Email</h1>
+                        <h2>jl.turquin@diffrenzz.com</h2>
+                        <h2>info@diffrenzz.com</h2>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <div class="icon"><img src="./icons/map.ico" /></div>
+                    <div class="contact-info">
+                        <h1>Address</h1>
+                        <h2>Mohabit, Berlin, Germany</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End Contact Section -->
+
+    <!-- Footer -->
+    <section id="footer">
+        <div class="footer container">
+            <div class="brand">
+                <h1><span>J</span>ean <span>L</span>uc &nbsp<span>T</span>urquin</h1>
+            </div>
+            <h2>Your Complete Web Solution</h2>
+            <div class="social-icon">
+                <div class="social-item">
+                    <a href="https://www.facebook.com/diffrenzz" target="_blank"><img src="./icons/facebook.ico" /></a>
+                </div>
+                <div class="social-item">
+                    <a href="https://postimg.cc/2qYx8TGd" target="_blank"><img src="./icons/instagram.ico" /></a>
+                </div>
+                <div class="social-item">
+                    <a id="profile-link" href="https://github.com/Eskabore" target="_blank"><img
+                            src="./icons/github.ico" /></a>
+                </div>
+                <div class="social-item">
+                    <a href="https://dev.to/eskabore" target="_blank"><img src="./icons/dev-to.ico" /></a>
+                </div>
+                <div class="social-item">
+                    <a href="https://twitter.com/luc_turquin" target="_blank"><img src="./icons/twitter.ico" /></a>
+                </div>
+                <div class="social-item">
+                    <a href="https://www.linkedin.com/in/jlkabore-turquin/" target="_blank"><img
+                            src="./icons/linkedin.ico" /></a>
+                </div>
+            </div>
+            <p>Copyright © 2021 DiFfrenzZ. All rights reserved</p>
+            <a href="https://icons8.com/icon/qEwDbmXzlQrx/internet">Internet icon by Icons8</a>
+        </div>
+    </section>
+    <!-- End Footer -->
+
+    <!-- Website scripts -->
+    <script src="app.js"></script>
+</body>
+
 </html>
