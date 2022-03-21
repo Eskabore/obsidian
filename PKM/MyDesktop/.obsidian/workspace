@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/JobCenter Info 01.020.md",
+            "file": "Agenda/Organizer/Pele-Mele/21032022.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 252
   },
   "right": {
     "id": "47a9f8560bd91d21",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/JobCenter Info 01.020.md",
+                "file": "Agenda/Organizer/Pele-Mele/21032022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/JobCenter Info 01.020.md"
+                "file": "Agenda/Organizer/Pele-Mele/21032022.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "3146e01a353caccf",
   "lastOpenFiles": [
-    "Drafts/JobCenter Info 01.020.md",
-    "Inventory.md",
-    "Index.md",
-    "Instance.md",
-    "HTML.md",
-    "Class-based programming.md",
-    "Drafts/CV - Lebenslauf Ideas 15012022.md",
-    "Drafts/live chat.md",
-    "Drafts/Widgets Elfsight.md",
-    "Drafts/Bouge-toi 2022.md"
+    "Agenda/Organizer/Pele-Mele/21032022.md",
+    "Drafts/Spice.md",
+    "Drafts/Studies.md",
+    "Drafts/Adress_Book.md",
+    "Workbench Note.md",
+    "Drafts/Untitled.md",
+    "Day Planners/Day Planner-20201225.md",
+    "Drafts/Bouge-toi 2022.md",
+    "Zettelkasten/2022-03-21 bouge toi.md",
+    "Inventory.md"
   ]
 }

@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "JobCenter Info 01.020",
-      "path": "Drafts/JobCenter Info 01.020.md"
+      "basename": "21032022",
+      "path": "Agenda/Organizer/Pele-Mele/21032022.md"
+    },
+    {
+      "basename": "Spice",
+      "path": "Drafts/Spice.md"
+    },
+    {
+      "basename": "Studies",
+      "path": "Drafts/Studies.md"
+    },
+    {
+      "basename": "Adress_Book",
+      "path": "Drafts/Adress_Book.md"
+    },
+    {
+      "basename": "Workbench Note",
+      "path": "Workbench Note.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Drafts/Untitled.md"
+    },
+    {
+      "basename": "Day Planner-20201225",
+      "path": "Day Planners/Day Planner-20201225.md"
+    },
+    {
+      "basename": "Bouge-toi 2022",
+      "path": "Drafts/Bouge-toi 2022.md"
+    },
+    {
+      "basename": "2022-03-21 bouge toi",
+      "path": "Zettelkasten/2022-03-21 bouge toi.md"
     },
     {
       "basename": "Inventory",
       "path": "Inventory.md"
+    },
+    {
+      "basename": "Hostel Mansion",
+      "path": "Drafts/Hostel Mansion.md"
+    },
+    {
+      "basename": "JobCenter Info 01.020",
+      "path": "Drafts/JobCenter Info 01.020.md"
     },
     {
       "basename": "Index",
@@ -37,10 +77,6 @@
       "path": "Drafts/Widgets Elfsight.md"
     },
     {
-      "basename": "Bouge-toi 2022",
-      "path": "Drafts/Bouge-toi 2022.md"
-    },
-    {
       "basename": "02JAN21",
       "path": "IT/JavaScript/Definitions/02JAN21.md"
     },
@@ -49,16 +85,8 @@
       "path": "IT/ReactJS/Calepin/ReactJS Tic Tac Toe.md"
     },
     {
-      "basename": "Workbench Note",
-      "path": "Workbench Note.md"
-    },
-    {
       "basename": "Workbench",
       "path": "Workbench.md"
-    },
-    {
-      "basename": "Hostel Mansion",
-      "path": "Drafts/Hostel Mansion.md"
     },
     {
       "basename": "Thu, 31 12 2020",
@@ -171,34 +199,6 @@
     {
       "basename": "Daily  Notes",
       "path": "Templates/Daily  Notes.md"
-    },
-    {
-      "basename": "Fri, 01 01 2021",
-      "path": "Daily Notes/Fri, 01 01 2021.md"
-    },
-    {
-      "basename": "dim., 31 01 2021",
-      "path": "Daily Notes/dim., 31 01 2021.md"
-    },
-    {
-      "basename": "Github Profile-2",
-      "path": "Drafts/Github Profile-2.md"
-    },
-    {
-      "basename": "Github Profile",
-      "path": "Drafts/Github Profile.md"
-    },
-    {
-      "basename": "Wed, 30 12 2020",
-      "path": "Daily Notes/Wed, 30 12 2020.md"
-    },
-    {
-      "basename": "lun., 05 04 2021 Disqus Comments",
-      "path": "Daily Notes/lun., 05 04 2021 Disqus Comments.md"
-    },
-    {
-      "basename": "lun., 05 04 2021 Tiny MCE Editor test",
-      "path": "Daily Notes/lun., 05 04 2021 Tiny MCE Editor test.md"
     }
   ],
   "omittedPaths": [],
