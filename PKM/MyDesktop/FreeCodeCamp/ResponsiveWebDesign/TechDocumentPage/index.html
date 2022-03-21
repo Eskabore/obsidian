@@ -33,21 +33,6 @@
             <li>
                 <a class="nav-link" href="#Introducing_JSX">Introducing JSX</a>
             </li>
-            <li>
-                <a class="nav-link" href="#Lifting_State_Up">Lifting State Up</a>
-            </li>
-            <li>
-                <a class="nav-link" href="#Lists_and_Keys">Lists and Keys</a>
-            </li>
-            <li>
-                <a class="nav-link" href="#Rendering_Elements">Rendering Elements</a>
-            </li>
-            <li>
-                <a class="nav-link" href="#State_and_Lifecycle">State and Lifecycle</a>
-            </li>
-            <li>
-                <a class="nav-link" href="#Thinking_in_React">Components and Props</a>
-            </li>
         </ul>
     </nav>
     <main id="main-doc">
@@ -253,6 +238,7 @@
                     Handling Events
                 </h1>
             </header>
+            <article>
             <p>
                 Handling events with React elements is very similar to handling events on DOM elements.
                 There are some syntax differences:
@@ -265,65 +251,121 @@
                     </li>
                 </ul>
             </p>
-            <article></article></section>
+            <p>
+                For example, the HTML:
+                <pre>
+                    <code>
+                        &lt;button onclick="activateLasers()"&gt;
+                            Activate Lasers
+                          &lt;/button&gt;
+                    </code>
+                </pre>
+                is slightly different in React:
+                <pre>
+                    <code>
+                        &lt;button onClick={activateLasers}&gt;
+                            Activate Lasers
+                          &lt;/button&gt;
+                    </code>
+                </pre>
+            </p>
+            <p>
+                Another difference is that you cannot return <pre><code>false</code></pre> to prevent
+                default behavior in React. You must call <pre><code>preventDefautlt</code></pre>
+                explicitly. For example, with plain HTML, to prevent the default form behavior of
+                submitting, you can write:
+                <pre>
+                    <code>
+                        &lt;form onsubmit="console.log('You clicked submit.'); return false"&gt;
+                            &lt;button type="submit"&gt;Submit&lt;/button&gt;
+                          &lt;/form&gt;
+                    </code>
+                </pre>
+                In React this should be instead:
+                <pre>
+                    <code>
+                        function Form() {
+                            function handleSubmit(e) {
+                              e.preventDefault();
+                              console.log('You clicked submit.');
+                            }
+
+                            return (
+                              &lt;form onSubmit={handleSubmit}&gt;
+                                &lt;button type="submit"&gt;Submit&lt;/button&gt;
+                              &lt;/form&gt;
+                            );
+                          }
+                    </code>
+                </pre>
+            </p>
+            <p>
+                Here, <pre><code>e</code></pre> is a synthetic event. React defines these synthetic events
+                according to the <a href="https://www.w3.org/TR/DOM-Level-3-Events/" name="W3C">W3C spec</a>,
+                so you do not need to worry about cross-browser compatibility. React events do not work
+                exactly th same as native events.
+            </p>
+            <p>
+                When using React, you generally do not need to call <pre><code>addEventListener</code></pre> to
+                add listeners to a DOM element after it is created. Instead, just provide a listener when the
+                element is initially rendered.
+            </p>
+            <p>
+                When you define a component using an ES6class, a common pattern is for an event handler to be
+                a method on the class.
+            </p>
+            </article>
+        </section>
         <section class="main-section" id="Introducing_JSX">
             <header>
                 <h1>
                     Introducing JSX
                 </h1>
-            </header
-            ><article>
-                <p></p>
-            </article>
-        </section>
-        <section class="main-section" id="Lifting_State_Up">
-            <header>
-                <h1>
-                    Lifting State Up
-                </h1>
             </header>
             <article>
-                <p></p>
-            </article>
-        </section>
-        <section class="main-section" id="Lists_and_Keys">
-            <header>
-                <h1>
-                    Lists and Keys
-                </h1>
-            </header>
-            <article>
-                <p></p>
-            </article>
-        </section>
-        <section class="main-section" id="Rendering_Elements">
-            <header>
-                <h1>
-                    Rendering Elements
-                </h1>
-            </header>
-            <article>
-                <p></p>
-            </article>
-        </section>
-        <section class="main-section" id="State_and_Lifecycle">
-            <header>
-                <h1>
-                    State and Lifecycle
-                </h1>
-            </header>
-            <article>
-                <p></p>
-            </article>
-        </section>
-        <section class="main-section" id="Thinking_in_React">
-            <header>
-                <h1>
-                    Thinking in React
-                </h1>
-            </header>
-            <article>
-                <p></p>
+                <p>
+                    Consider this variable declaration:
+                    <pre>
+                        <code>
+                            const element = &lt;h1&gt;Hello, world!&lt;/h1&gt;
+                        </code>
+                    </pre>
+                    This funny tag syntax is neither a string nor HTML.
+                </p>
+                <p>
+                    It is called JSX, and it is a syntax extension to JavaScript. We recommend using
+                    it with React to describe what the UI should look like. JSX may remind you of
+                    a template language, but it comes with the full power of JavaScript.
+                </p>
+                <p>
+                    JSX produces React "elements".
+                </p>
+                <h3>
+                    Why JSX
+                </h3>
+                <p>
+                    React embraces the fact that rendering logic is inherently coupled with other UI
+                    logic:
+                    <ul>
+                        <li>
+                            how events are handled
+                        </li>
+                        <li>
+                            how the state changes over time
+                        </li>
+                        <li>
+                            how the data is prepared for display
+                        </li>
+                    </ul>
+                </p>
+                <p>
+                    Instead of artificiallyseparating technologies by putting markup and logic in separate
+                    files, React <a href="https://www.wikiwand.com/en/Separation_of_concerns" name="separate-concerns">separates concerns
+                    </a> with loosely coupled units called "components".
+                </p>
+                <p>
+                    With that out of the way, let us get started!
+                </p>
             </article>
         </section>
     </main>
