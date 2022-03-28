@@ -5,6 +5,10 @@
       "path": "Agenda/Organizer/Pele-Mele/21032022.md"
     },
     {
+      "basename": "Marlena",
+      "path": "Drafts/Marlena.md"
+    },
+    {
       "basename": "Spice",
       "path": "Drafts/Spice.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Template Zettelkasten",
       "path": "Templates/Template Zettelkasten.md"
-    },
-    {
-      "basename": "Daily  Notes",
-      "path": "Templates/Daily  Notes.md"
     }
   ],
   "omittedPaths": [],
