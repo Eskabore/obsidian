@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Drafts/Studies.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cs50",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,14 +162,14 @@
   "active": "3146e01a353caccf",
   "lastOpenFiles": [
     "Drafts/Studies.md",
+    "Drafts/LLVM.md",
+    "Inventory.md",
     "Agenda/Organizer/Pele-Mele/21032022.md",
     "Drafts/Marlena.md",
     "Drafts/Spice.md",
     "Drafts/Adress_Book.md",
     "Workbench Note.md",
     "Drafts/Untitled.md",
-    "Day Planners/Day Planner-20201225.md",
-    "Drafts/Bouge-toi 2022.md",
-    "Zettelkasten/2022-03-21 bouge toi.md"
+    "Day Planners/Day Planner-20201225.md"
   ]
 }

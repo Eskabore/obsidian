@@ -5,6 +5,14 @@
       "path": "Drafts/Studies.md"
     },
     {
+      "basename": "LLVM",
+      "path": "Drafts/LLVM.md"
+    },
+    {
+      "basename": "Inventory",
+      "path": "Inventory.md"
+    },
+    {
       "basename": "21032022",
       "path": "Agenda/Organizer/Pele-Mele/21032022.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "2022-03-21 bouge toi",
       "path": "Zettelkasten/2022-03-21 bouge toi.md"
-    },
-    {
-      "basename": "Inventory",
-      "path": "Inventory.md"
     },
     {
       "basename": "Hostel Mansion",
@@ -195,10 +199,6 @@
     {
       "basename": "Template Daily Planner",
       "path": "Templates/Template Daily Planner.md"
-    },
-    {
-      "basename": "Template Zettelkasten",
-      "path": "Templates/Template Zettelkasten.md"
     }
   ],
   "omittedPaths": [],
