@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Agenda/Organizer/Pele-Mele/21032022.md",
-            "mode": "source",
+            "file": "Drafts/Studies.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cs50",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252
+    "width": 240
   },
   "right": {
     "id": "47a9f8560bd91d21",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agenda/Organizer/Pele-Mele/21032022.md",
+                "file": "Drafts/Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda/Organizer/Pele-Mele/21032022.md"
+                "file": "Drafts/Studies.md"
               }
             }
           },
@@ -161,10 +161,10 @@
   },
   "active": "3146e01a353caccf",
   "lastOpenFiles": [
+    "Drafts/Studies.md",
     "Agenda/Organizer/Pele-Mele/21032022.md",
     "Drafts/Marlena.md",
     "Drafts/Spice.md",
-    "Drafts/Studies.md",
     "Drafts/Adress_Book.md",
     "Workbench Note.md",
     "Drafts/Untitled.md",
