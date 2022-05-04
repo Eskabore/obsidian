@@ -7,12 +7,8 @@
         "id": "ddcedd9fa94886ec",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DicoDefLex/Général/Untitled.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"DOM\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +61,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 332,
+    "collapsed": true
   },
   "right": {
     "id": "e5ccc6660886db9c",
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DicoDefLex/Général/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DicoDefLex/Général/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -130,19 +125,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 380,
+    "collapsed": true
   },
   "active": "ddcedd9fa94886ec",
   "lastOpenFiles": [
-    "DicoDefLex/Général/Untitled.md",
-    "Books/Version Control.md",
-    "atomic actions.md",
-    "Travail/Documents/Untitled.md",
-    "Connection-oriented communication.md",
-    "Data serialization.md",
-    "DicoDefLex/IT/Software/Kubernetes.md",
-    "DicoDefLex/IT/Software/Application Binary Interface (ABI).md",
     "DicoDefLex/IT/Architecture/Software Architecture/MVC.md",
-    "Website/DiFFrenZZ/Likorsblack/Map diagram/Draft/Plan.md"
+    "computer programming.md",
+    "concurrent programming.md",
+    "Data serialization.md",
+    "Relational database.md",
+    "Projects.md",
+    "systems engineering.md",
+    "syncword.md",
+    "system software.md",
+    "Structured Query Language.md"
   ]
 }

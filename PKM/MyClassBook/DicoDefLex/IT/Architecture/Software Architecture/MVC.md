@@ -1,4 +1,4 @@
-Tags: #mvc #model #view #control #vue
+Tags: #mvc #model #view #control #vue #reactjs 
 
 
 # Modèle-vue-contrôleur ou MVC

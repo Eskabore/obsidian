@@ -20,5 +20,6 @@ int compute_score(string word)
             // Add the points to the score
             score += points[word[i] - 'a'];
         }
+        
     }
 }
