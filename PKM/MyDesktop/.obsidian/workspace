@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/04052022.md",
+            "file": "Drafts/1052022.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/04052022.md",
+                "file": "Drafts/1052022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/04052022.md"
+                "file": "Drafts/1052022.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "3146e01a353caccf",
   "lastOpenFiles": [
+    "Drafts/1052022.md",
     "Drafts/04052022.md",
     "Drafts/JobCenter Info 01.020.md",
     "JC_F/JobCenter.md",
@@ -169,7 +170,6 @@
     "Drafts/LLVM.md",
     "Inventory.md",
     "Drafts/Marlena.md",
-    "Drafts/Spice.md",
-    "Drafts/Adress_Book.md"
+    "Drafts/Spice.md"
   ]
 }
