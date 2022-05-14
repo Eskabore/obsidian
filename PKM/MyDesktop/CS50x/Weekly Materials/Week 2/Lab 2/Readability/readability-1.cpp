@@ -77,3 +77,13 @@ int count_sentences(string text)
     }
     return count;
 }
+
+int coleman_liau_index(int letter_count, int word_count, int sentence_count)
+{
+    double l = (float) letter_count / word_count * 100;
+    double s = (float) sentence_count / word_count * 100;
+
+    int index = round(0.0588 * l - 0.296 * s - 15.8);
+
+    return index;
+}

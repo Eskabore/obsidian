@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3146e01a353caccf",
+        "id": "0d723ca0e730f5f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/1052022.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0425ceb6fff75c40",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Inventory.md",
+            "file": "Agenda/Organizer/Pele-Mele/21032022.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#jobcenter",
+                "query": "bouge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/1052022.md",
+                "file": "Agenda/Organizer/Pele-Mele/21032022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/1052022.md"
+                "file": "Agenda/Organizer/Pele-Mele/21032022.md"
               }
             }
           },
@@ -159,17 +147,17 @@
     "width": 396,
     "collapsed": true
   },
-  "active": "3146e01a353caccf",
+  "active": "0d723ca0e730f5f7",
   "lastOpenFiles": [
+    "Agenda/Organizer/Pele-Mele/21032022.md",
+    "Drafts/Bouge-toi 2022.md",
     "Drafts/1052022.md",
+    "Drafts/average L.md",
+    "Inventory.md",
+    "Drafts/average.md",
     "Drafts/04052022.md",
     "Drafts/JobCenter Info 01.020.md",
     "JC_F/JobCenter.md",
-    "Agenda/Organizer/Pele-Mele/21032022.md",
-    "Drafts/Studies.md",
-    "Drafts/LLVM.md",
-    "Inventory.md",
-    "Drafts/Marlena.md",
-    "Drafts/Spice.md"
+    "Drafts/Studies.md"
   ]
 }

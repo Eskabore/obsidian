@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "21032022",
+      "path": "Agenda/Organizer/Pele-Mele/21032022.md"
+    },
+    {
+      "basename": "Bouge-toi 2022",
+      "path": "Drafts/Bouge-toi 2022.md"
+    },
+    {
       "basename": "1052022",
       "path": "Drafts/1052022.md"
+    },
+    {
+      "basename": "Inventory",
+      "path": "Inventory.md"
     },
     {
       "basename": "04052022",
@@ -17,20 +29,12 @@
       "path": "JC_F/JobCenter.md"
     },
     {
-      "basename": "21032022",
-      "path": "Agenda/Organizer/Pele-Mele/21032022.md"
-    },
-    {
       "basename": "Studies",
       "path": "Drafts/Studies.md"
     },
     {
       "basename": "LLVM",
       "path": "Drafts/LLVM.md"
-    },
-    {
-      "basename": "Inventory",
-      "path": "Inventory.md"
     },
     {
       "basename": "Marlena",
@@ -55,10 +59,6 @@
     {
       "basename": "Day Planner-20201225",
       "path": "Day Planners/Day Planner-20201225.md"
-    },
-    {
-      "basename": "Bouge-toi 2022",
-      "path": "Drafts/Bouge-toi 2022.md"
     },
     {
       "basename": "2022-03-21 bouge toi",
@@ -195,10 +195,6 @@
     {
       "basename": "The following is a list of learning objectives and already known topics with links to resources.",
       "path": "Notes & Observations/The following is a list of learning objectives and already known topics with links to resources..md"
-    },
-    {
-      "basename": "Readme",
-      "path": "Presume/Readme.md"
     }
   ],
   "omittedPaths": [],
