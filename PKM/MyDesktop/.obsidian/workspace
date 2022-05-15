@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Agenda/Organizer/Pele-Mele/21032022.md",
+            "file": "CS50x/Weekly Materials/Week 2/PSets/Caesar's cypher.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Agenda/Organizer/Pele-Mele/21032022.md",
+                "file": "CS50x/Weekly Materials/Week 2/PSets/Caesar's cypher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Agenda/Organizer/Pele-Mele/21032022.md"
+                "file": "CS50x/Weekly Materials/Week 2/PSets/Caesar's cypher.md"
               }
             }
           },
@@ -149,6 +149,7 @@
   },
   "active": "0d723ca0e730f5f7",
   "lastOpenFiles": [
+    "CS50x/Weekly Materials/Week 2/PSets/Caesar's cypher.md",
     "Agenda/Organizer/Pele-Mele/21032022.md",
     "Drafts/Bouge-toi 2022.md",
     "Drafts/1052022.md",
@@ -157,7 +158,6 @@
     "Drafts/average.md",
     "Drafts/04052022.md",
     "Drafts/JobCenter Info 01.020.md",
-    "JC_F/JobCenter.md",
-    "Drafts/Studies.md"
+    "JC_F/JobCenter.md"
   ]
 }
