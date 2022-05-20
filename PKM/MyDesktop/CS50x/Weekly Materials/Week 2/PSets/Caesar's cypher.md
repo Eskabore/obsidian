@@ -15,9 +15,22 @@ Usage: ./caesar key
 $ ./caesar 1
 ```
 
+Solution:
+```cpp        
+    if (argc != 2)
+    {
+        printf("Usage: ./caesar key\n");
+        return 1;
+    }
+    else
+    {
+    return 0;
+    }
+```
 
 - If any of the characters of the command-line argument is not a decimal digit,
     your program should print the message Usage: ./caesar key and return from main a value of 1.
+    
 - Do not assume that will be less than or equal to 26. Your program should work for all non-negative
     integral values of less than . In other words, you don’t need to worry if
     your program eventually breaks if the user chooses a value for that’s too big or almost too big to fit
@@ -39,7 +52,15 @@ $ ./caesar 1
 
 ### Pseudocode Caesar
 1. Make sure is run with just one command-line argument
-2. Make sure every character in argcv[\1] is a digit
+2. Make sure every character in argv[\1] is a digit
 3. Convert argv[\1] from a `string` to an `int` 
 4. Prompt user for **_plaintext:_**
        Rotate the character if it's a letter
+
+### TODO
+
+- Get key
+  - if key = 2;
+    => Get plaintext
+    => Encipher
+    => Print ciphertext
