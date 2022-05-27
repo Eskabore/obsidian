@@ -7,8 +7,12 @@
         "id": "ddcedd9fa94886ec",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "DicoDefLex/IT/Protocols/Network/TCP.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332,
-    "collapsed": true
+    "width": 332
   },
   "right": {
     "id": "e5ccc6660886db9c",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DicoDefLex/IT/Protocols/Network/TCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DicoDefLex/IT/Protocols/Network/TCP.md"
+              }
             }
           },
           {
@@ -130,6 +136,7 @@
   },
   "active": "ddcedd9fa94886ec",
   "lastOpenFiles": [
+    "DicoDefLex/IT/Protocols/Network/TCP.md",
     "DicoDefLex/IT/Architecture/Software Architecture/MVC.md",
     "computer programming.md",
     "concurrent programming.md",
@@ -138,7 +145,6 @@
     "Projects.md",
     "systems engineering.md",
     "syncword.md",
-    "system software.md",
-    "Structured Query Language.md"
+    "system software.md"
   ]
 }

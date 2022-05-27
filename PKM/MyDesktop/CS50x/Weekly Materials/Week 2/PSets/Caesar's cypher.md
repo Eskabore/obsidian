@@ -16,7 +16,7 @@ $ ./caesar 1
 ```
 
 Solution:
-```cpp        
+```cpp 
     if (argc != 2)
     {
         printf("Usage: ./caesar key\n");
@@ -64,3 +64,9 @@ Solution:
     => Get plaintext
     => Encipher
     => Print ciphertext
+
+### Todo
+- [x] Buy apples
+- [x] Get oranges
+- [x] drink water
+- [ ] 

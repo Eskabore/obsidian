@@ -5,6 +5,10 @@
       "path": "CS50x/Weekly Materials/Week 2/PSets/Caesar's cypher.md"
     },
     {
+      "basename": "preserve case",
+      "path": "Drafts/preserve case.md"
+    },
+    {
       "basename": "21032022",
       "path": "Agenda/Organizer/Pele-Mele/21032022.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Terms & techniques to classify",
       "path": "IT/Terms & techniques to classify.md"
-    },
-    {
-      "basename": "The following is a list of learning objectives and already known topics with links to resources.",
-      "path": "Notes & Observations/The following is a list of learning objectives and already known topics with links to resources..md"
     }
   ],
   "omittedPaths": [],
