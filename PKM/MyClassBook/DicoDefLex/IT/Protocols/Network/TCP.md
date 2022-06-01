@@ -1,9 +1,9 @@
 # TCP
 
 
-{{voir homonymes|TCP}}
+#TCP 
 
-'''{{lang|en|Transmission Control Protocol}}''' (littéralement, « protocole de contrôle de transmissions »), [[abréviation|abrégé]] '''TCP''', est un protocole de transport fiable, en [[mode connecté]], documenté dans la {{RFC|793|titre= TRANSMISSION CONTROL PROTOCOL|date=Septembre 1981>}} de l’[[Internet Engineering Task Force|IETF]].
+**'''Transmission Control Protocol'''** (littéralement, « protocole de contrôle de transmissions »), [[abréviation|abrégé]] **''TCP''**, est un protocole de transport fiable, en [[mode connecté]], documenté dans la TRANSMISSION CONTROL PROTOCOL|date=Septembre 1981 de l’[[Internet Engineering Task Force|IETF]].
 
 Dans le [[Suite des protocoles Internet|modèle Internet]], aussi appelé modèle TCP/IP, TCP est situé au-dessus de IP. Dans le modèle [[Modèle OSI|OSI]], il correspond à la [[couche transport]], intermédiaire de la [[couche réseau]] et de la [[couche session]]. Les applications transmettent des flux de données sur une connexion réseau. TCP découpe le flux d’[[octet]]s en ''segments'' dont la taille dépend de la [[Maximum Transmission Unit|MTU]] du réseau sous-jacent ([[couche liaison de données]]).
 

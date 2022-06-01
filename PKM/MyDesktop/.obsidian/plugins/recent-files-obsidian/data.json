@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Caesar's cypher",
-      "path": "CS50x/Weekly Materials/Week 2/PSets/Caesar's cypher.md"
-    },
-    {
-      "basename": "preserve case",
-      "path": "Drafts/preserve case.md"
+      "basename": "Urgent",
+      "path": "Drafts/Urgent.md"
     },
     {
       "basename": "21032022",
@@ -15,6 +11,22 @@
     {
       "basename": "Bouge-toi 2022",
       "path": "Drafts/Bouge-toi 2022.md"
+    },
+    {
+      "basename": "Cover Letter",
+      "path": "Drafts/Cover Letter.md"
+    },
+    {
+      "basename": "Substitution",
+      "path": "CS50x/Weekly Materials/Week 2/PSets/Substitution.md"
+    },
+    {
+      "basename": "Caesar's cypher",
+      "path": "CS50x/Weekly Materials/Week 2/PSets/Caesar's cypher.md"
+    },
+    {
+      "basename": "preserve case",
+      "path": "Drafts/preserve case.md"
     },
     {
       "basename": "1052022",
@@ -187,18 +199,6 @@
     {
       "basename": "Main Concepts",
       "path": "IT/ReactJS/Main Concepts.md"
-    },
-    {
-      "basename": "State",
-      "path": "IT/ReactJS/State.md"
-    },
-    {
-      "basename": "Contents",
-      "path": "IT/Contents.md"
-    },
-    {
-      "basename": "Terms & techniques to classify",
-      "path": "IT/Terms & techniques to classify.md"
     }
   ],
   "omittedPaths": [],

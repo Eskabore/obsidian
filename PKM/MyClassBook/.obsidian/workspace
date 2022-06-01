@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DicoDefLex/IT/Protocols/Network/TCP.md",
+            "file": "Gestion de configuration.md",
             "mode": "source",
             "source": false
           }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DicoDefLex/IT/Protocols/Network/TCP.md",
+                "file": "Gestion de configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DicoDefLex/IT/Protocols/Network/TCP.md"
+                "file": "Gestion de configuration.md"
               }
             }
           },
@@ -126,25 +125,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 380,
-    "collapsed": true
+    "width": 380
   },
   "active": "ddcedd9fa94886ec",
   "lastOpenFiles": [
-    "DicoDefLex/IT/Protocols/Network/TCP.md",
-    "DicoDefLex/IT/Architecture/Software Architecture/MVC.md",
+    "Gestion de configuration.md",
+    "computer engineering.md",
+    "computer architecture.md",
     "computer programming.md",
+    "Expression (mathematics).md",
+    "Deployment diagram.md",
     "concurrent programming.md",
-    "Data serialization.md",
-    "Relational database.md",
-    "Projects.md",
-    "systems engineering.md",
-    "syncword.md",
-    "system software.md"
+    "Component diagram.md",
+    "automatic baud rate detection.md",
+    "application software.md"
   ]
 }

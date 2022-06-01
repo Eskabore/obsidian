@@ -1,0 +1,6 @@
+- [ ] AOK
+- [ ] CV
+- [ ] Update [online resume](https://eskabore.github.io)
+- [ ] [[Cover Letter|Cover Letter]]
+- [ ] Consult GDG and GC
+- [ ] Follow cursus

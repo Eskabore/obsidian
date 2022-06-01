@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Gestion de configuration",
+      "path": "Gestion de configuration.md"
+    },
+    {
+      "basename": "computer engineering",
+      "path": "computer engineering.md"
+    },
+    {
+      "basename": "computer architecture",
+      "path": "computer architecture.md"
+    },
+    {
+      "basename": "computer programming",
+      "path": "computer programming.md"
+    },
+    {
+      "basename": "Expression (mathematics)",
+      "path": "Expression (mathematics).md"
+    },
+    {
+      "basename": "Deployment diagram",
+      "path": "Deployment diagram.md"
+    },
+    {
+      "basename": "concurrent programming",
+      "path": "concurrent programming.md"
+    },
+    {
+      "basename": "Component diagram",
+      "path": "Component diagram.md"
+    },
+    {
+      "basename": "automatic baud rate detection",
+      "path": "automatic baud rate detection.md"
+    },
+    {
+      "basename": "application software",
+      "path": "application software.md"
+    },
+    {
+      "basename": "01-uml-diagram-types",
+      "path": "01-uml-diagram-types.png"
+    },
+    {
       "basename": "TCP",
       "path": "DicoDefLex/IT/Protocols/Network/TCP.md"
     },
@@ -59,14 +103,6 @@
     {
       "basename": "Structural Diagrams",
       "path": "Structural Diagrams.md"
-    },
-    {
-      "basename": "Deployment diagram",
-      "path": "Deployment diagram.md"
-    },
-    {
-      "basename": "Component diagram",
-      "path": "Component diagram.md"
     },
     {
       "basename": "Versionnage",
@@ -163,42 +199,6 @@
     {
       "basename": "K.I.M",
       "path": "K.I.M.md"
-    },
-    {
-      "basename": "Web Note",
-      "path": "Templates/Note-Taking/Web Note.md"
-    },
-    {
-      "basename": "Kaizen Readme",
-      "path": "Kaizen Readme.md"
-    },
-    {
-      "basename": "Day Planner-20210117",
-      "path": "Day Planners/Day Planner-20210117.md"
-    },
-    {
-      "basename": "Day Planner-20210116",
-      "path": "Day Planners/Day Planner-20210116.md"
-    },
-    {
-      "basename": "Day Planner-20201230",
-      "path": "Day Planners/Day Planner-20201230.md"
-    },
-    {
-      "basename": "Tue, 26th 2021",
-      "path": "DailyNotes(W)/Tue, 26th 2021.md"
-    },
-    {
-      "basename": "Thu, 28th 2021",
-      "path": "DailyNotes(W)/Thu, 28th 2021.md"
-    },
-    {
-      "basename": "Sun, 27th 2020",
-      "path": "DailyNotes(W)/Sun, 27th 2020.md"
-    },
-    {
-      "basename": "Projects - Portfolio",
-      "path": "Projects - Portfolio.md"
     }
   ],
   "omittedPaths": [],

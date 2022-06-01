@@ -53,3 +53,5 @@ The expression
 $$\sum_{n=1}^{3} (2nx)$$
 
 has free variable $x$, bound variable $n$, constants $1$, $2$, and $3$, two occurrences of an *implicit  __multiplication  operator__*, and a  **_summation operator_**. The expression is equivalent to the simpler expression $12x$. The value for $x = 3$ is $36$. 
+
+#math #expression

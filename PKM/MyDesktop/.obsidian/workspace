@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0d723ca0e730f5f7",
+        "id": "f0bf8bfddbaca93e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Drafts/Urgent.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -92,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Drafts/Urgent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Drafts/Urgent.md"
+              }
             }
           },
           {
@@ -140,17 +147,17 @@
     "width": 396,
     "collapsed": true
   },
-  "active": "0d723ca0e730f5f7",
+  "active": "f0bf8bfddbaca93e",
   "lastOpenFiles": [
-    "CS50x/Weekly Materials/Week 2/PSets/Caesar's cypher.md",
-    "Drafts/preserve case.md",
+    "Drafts/Urgent.md",
     "Agenda/Organizer/Pele-Mele/21032022.md",
     "Drafts/Bouge-toi 2022.md",
+    "Drafts/Cover Letter.md",
+    "CS50x/Weekly Materials/Week 2/PSets/Substitution.md",
+    "Drafts/Untitled 1.md",
+    "CS50x/Weekly Materials/Week 2/PSets/Caesar's cypher.md",
+    "Drafts/preserve case.md",
     "Drafts/1052022.md",
-    "Drafts/average L.md",
-    "Inventory.md",
-    "Drafts/average.md",
-    "Drafts/04052022.md",
-    "Drafts/JobCenter Info 01.020.md"
+    "Drafts/average L.md"
   ]
 }
