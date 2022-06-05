@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Certifications Organizer",
+      "path": "Drafts/Certifications Organizer.md"
+    },
+    {
       "basename": "Urgent",
       "path": "Drafts/Urgent.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Lexique",
       "path": "IT/ReactJS/Lexique.md"
-    },
-    {
-      "basename": "Main Concepts",
-      "path": "IT/ReactJS/Main Concepts.md"
     }
   ],
   "omittedPaths": [],

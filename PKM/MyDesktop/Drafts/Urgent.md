@@ -21,4 +21,4 @@
 ---
 #organizer #cv #calendar
 
-- [ ] 
+- [ ] [[Certifications Organizer|Create a folder for Certifications Parcour]]
