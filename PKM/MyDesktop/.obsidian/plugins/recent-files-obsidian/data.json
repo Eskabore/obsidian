@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lexicon",
+      "path": "FreeCodeCamp/FrontEndDevelopmentLibrairies/ReactJS/Lexicon.md"
+    },
+    {
       "basename": "21032022",
       "path": "Agenda/Organizer/Pele-Mele/21032022.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Videos Tuto",
       "path": "IT/ReactJS/Calepin/Videos Tuto.md"
-    },
-    {
-      "basename": "Functional",
-      "path": "IT/ReactJS/Components/Functional.md"
     }
   ],
   "omittedPaths": [],
