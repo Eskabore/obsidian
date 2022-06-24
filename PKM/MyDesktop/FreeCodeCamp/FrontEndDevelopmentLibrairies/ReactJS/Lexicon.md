@@ -13,4 +13,6 @@
 - [ ] Accessing, processing
   - [ ] Props
   - [ ] State
-- [ ] 
+- [ ] **==[[Math.random()]]==** 
+- [ ] Array.map()
+- [ ] Reactive Programming

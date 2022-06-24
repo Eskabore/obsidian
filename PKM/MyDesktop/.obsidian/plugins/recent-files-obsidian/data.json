@@ -5,6 +5,14 @@
       "path": "FreeCodeCamp/FrontEndDevelopmentLibrairies/ReactJS/Lexicon.md"
     },
     {
+      "basename": "Math.random()",
+      "path": "Drafts/Math.random().md"
+    },
+    {
+      "basename": "Nota-Bene",
+      "path": "Drafts/Nota-Bene.md"
+    },
+    {
       "basename": "21032022",
       "path": "Agenda/Organizer/Pele-Mele/21032022.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Quick Note - Ideas",
       "path": "Drafts/Quick Note - Ideas.md"
-    },
-    {
-      "basename": "271220 Notes  ReactJS",
-      "path": "IT/ReactJS/Calepin/271220 Notes  ReactJS.md"
-    },
-    {
-      "basename": "Videos Tuto",
-      "path": "IT/ReactJS/Calepin/Videos Tuto.md"
     }
   ],
   "omittedPaths": [],
