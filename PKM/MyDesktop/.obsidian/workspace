@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "FreeCodeCamp/FrontEndDevelopmentLibrairies/Redux/Lexicon Redux.md",
+            "file": "FreeCodeCamp/FrontEndDevelopmentLibrairies/React-Redux/Lexicon React_Redux.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FreeCodeCamp/FrontEndDevelopmentLibrairies/Redux/Lexicon Redux.md",
+                "file": "FreeCodeCamp/FrontEndDevelopmentLibrairies/React-Redux/Lexicon React_Redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FreeCodeCamp/FrontEndDevelopmentLibrairies/Redux/Lexicon Redux.md"
+                "file": "FreeCodeCamp/FrontEndDevelopmentLibrairies/React-Redux/Lexicon React_Redux.md"
               }
             }
           },
@@ -149,6 +149,7 @@
   },
   "active": "29065dc36bc18828",
   "lastOpenFiles": [
+    "FreeCodeCamp/FrontEndDevelopmentLibrairies/React-Redux/Lexicon React_Redux.md",
     "FreeCodeCamp/FrontEndDevelopmentLibrairies/Redux/Lexicon Redux.md",
     "FreeCodeCamp/FrontEndDevelopmentLibrairies/Untitled.md",
     "FreeCodeCamp/FrontEndDevelopmentLibrairies/ReactJS/Lexicon ReactJS.md",
@@ -157,7 +158,6 @@
     "Agenda/Organizer/Pele-Mele/21032022.md",
     "Drafts/Cover Letter EIGENSONNE GmbH.md",
     "Drafts/Certifications Organizer.md",
-    "Drafts/Urgent.md",
-    "Drafts/Bouge-toi 2022.md"
+    "Drafts/Urgent.md"
   ]
 }

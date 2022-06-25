@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Lexicon React_Redux",
+      "path": "FreeCodeCamp/FrontEndDevelopmentLibrairies/React-Redux/Lexicon React_Redux.md"
+    },
+    {
       "basename": "Lexicon Redux",
       "path": "FreeCodeCamp/FrontEndDevelopmentLibrairies/Redux/Lexicon Redux.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Footer SimpleMDRN",
       "path": "Projects/DiFfrenzZ/Footer SimpleMDRN.md"
-    },
-    {
-      "basename": "Footer2",
-      "path": "Drafts/Footer2.md"
     }
   ],
   "omittedPaths": [],
