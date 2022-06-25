@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Lexicon",
-      "path": "FreeCodeCamp/FrontEndDevelopmentLibrairies/ReactJS/Lexicon.md"
+      "basename": "Lexicon Redux",
+      "path": "FreeCodeCamp/FrontEndDevelopmentLibrairies/Redux/Lexicon Redux.md"
+    },
+    {
+      "basename": "Lexicon ReactJS",
+      "path": "FreeCodeCamp/FrontEndDevelopmentLibrairies/ReactJS/Lexicon ReactJS.md"
     },
     {
       "basename": "Math.random()",
@@ -195,10 +199,6 @@
     {
       "basename": "Footer2",
       "path": "Drafts/Footer2.md"
-    },
-    {
-      "basename": "Quick Note - Ideas",
-      "path": "Drafts/Quick Note - Ideas.md"
     }
   ],
   "omittedPaths": [],
