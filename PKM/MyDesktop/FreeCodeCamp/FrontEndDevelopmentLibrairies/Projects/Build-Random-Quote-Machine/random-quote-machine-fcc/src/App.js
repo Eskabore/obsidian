@@ -1,11 +1,9 @@
 import React from 'react';
-import 'axios';
-import moment from 'moment';
+import axios from 'axios';
 
 import './App.css';
 
-class App extends React.Component {
-  
+class App extends React.Component { 
   state = { advice: '' };
 
   componentDidMount() {
@@ -29,7 +27,7 @@ class App extends React.Component {
       const { advice } = this.state;
 
       return (
-          <div className="app">
+          <div className="app" id="quote-box">
               <div className="card">
                   <h1 className="heading">
                     {this.state.advice}
