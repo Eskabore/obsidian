@@ -145,10 +145,13 @@ The first character has the position 0, the second has position 1, and so on.
 
 > Syntax : _string_.slice(_start_, _end_)
 
+## ==`event.persist`==
+==click [here](https://findanyanswer.com/what-is-event-persist) to read more==
 
+Synthetic events is a cross-browser wrapper around the browser's native event. It has the same interface as the browser's native event, including stopPropagation() and preventDefault() , except the events work identically across all browsers. It achieves high performance by automatically using event delegation.
 
+Beside above, what is Event pooling? Event pooling means that whenever an event fires, its event data (an object) is sent to the callback. The object is then immediately cleaned up for later use. By the time we inspect the object in our browser, the event object will have already been returned to the pool.
 
+Hereof, how are React events are different from regular native DOM events?
 
-
-
-[^1]: [W3School/string.slice( )](https://www.w3schools.com/jsref/jsref_slice_string.asp)
+A React event is also known as a SyntheticEvent . SyntheticEvent contains nativeEvent , which can be used to access browser-specific events and event-handling mechanisms. DOM event : nothing but a nativeEvent mapped to the browser in which the app is running.
