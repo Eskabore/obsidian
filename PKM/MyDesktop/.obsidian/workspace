@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+            "file": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Migrating Data While Keeping IDs Consistent.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#salesforce",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.01219177246094
+    "width": 262.01219177246094
   },
   "right": {
     "id": "47a9f8560bd91d21",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+                "file": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Migrating Data While Keeping IDs Consistent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+                "file": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Migrating Data While Keeping IDs Consistent.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "29065dc36bc18828",
   "lastOpenFiles": [
-    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
+    "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Migrating Data While Keeping IDs Consistent.md",
+    "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md",
+    "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/List Views for Object Ownership.md",
+    "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Take Action Directly from a Report.md",
+    "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Test Flows and Processes Without Updating Live Data.md",
+    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
+    "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md",
+    "Drafts/Audit Trail.md",
     "Drafts/Workflow and Automation.md",
-    "Workflow/process automation.md",
-    "Drafts/Data and analytics management.md",
-    "Drafts/Productivity and collaboration.md",
-    "Drafts/Service and support applications.md",
-    "Drafts/Sales and marketing applications.md",
-    "IT/ReactJS/Lexique.md"
+    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
   ]
 }

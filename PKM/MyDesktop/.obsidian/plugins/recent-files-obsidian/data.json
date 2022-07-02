@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "III.Definitions",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+      "basename": "Migrating Data While Keeping IDs Consistent",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Migrating Data While Keeping IDs Consistent.md"
     },
     {
-      "basename": "II.Questions & Scenarii",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
+      "basename": "Highlight Key Fields on Lightning Record Pages",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md"
+    },
+    {
+      "basename": "List Views for Object Ownership",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/List Views for Object Ownership.md"
+    },
+    {
+      "basename": "Take Action Directly from a Report",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Take Action Directly from a Report.md"
+    },
+    {
+      "basename": "Test Flows and Processes Without Updating Live Data",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Test Flows and Processes Without Updating Live Data.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md"
+    },
+    {
+      "basename": "Salesforce Administrator Checklist",
+      "path": "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md"
+    },
+    {
+      "basename": "Audit Trail",
+      "path": "Drafts/Audit Trail.md"
+    },
+    {
+      "basename": "Workflow and Automation",
+      "path": "Drafts/Workflow and Automation.md"
     },
     {
       "basename": "I.Table of Content",
       "path": "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
     },
     {
-      "basename": "Workflow and Automation",
-      "path": "Drafts/Workflow and Automation.md"
+      "basename": "Salesforce Flow",
+      "path": "Drafts/Salesforce Flow.md"
+    },
+    {
+      "basename": "III.Definitions",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+    },
+    {
+      "basename": "II.Questions & Scenarii",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
     },
     {
       "basename": "process automation",
@@ -163,42 +199,6 @@
     {
       "basename": "Instance",
       "path": "Instance.md"
-    },
-    {
-      "basename": "HTML",
-      "path": "HTML.md"
-    },
-    {
-      "basename": "Class-based programming",
-      "path": "Class-based programming.md"
-    },
-    {
-      "basename": "CV - Lebenslauf Ideas 15012022",
-      "path": "Drafts/CV - Lebenslauf Ideas 15012022.md"
-    },
-    {
-      "basename": "live chat",
-      "path": "Drafts/live chat.md"
-    },
-    {
-      "basename": "Widgets Elfsight",
-      "path": "Drafts/Widgets Elfsight.md"
-    },
-    {
-      "basename": "02JAN21",
-      "path": "IT/JavaScript/Definitions/02JAN21.md"
-    },
-    {
-      "basename": "ReactJS Tic Tac Toe",
-      "path": "IT/ReactJS/Calepin/ReactJS Tic Tac Toe.md"
-    },
-    {
-      "basename": "Workbench",
-      "path": "Workbench.md"
-    },
-    {
-      "basename": "Thu, 31 12 2020",
-      "path": "Daily Notes/Thu, 31 12 2020.md"
     }
   ],
   "omittedPaths": [],
