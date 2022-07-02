@@ -1,10 +1,15 @@
-#salesforce #flow #workflow #process #automation 
+#salesforce #flow #workflow #process #automation
+
 # Salesforce Flow
 
 ==**Flows**==, which you build using **Flow Builder**, automate business processes by ==**executing logic, interacting with the Salesforce database, and collecting data from users**==.
+
 Automate processes for every app, experience, and portal with declarative tools.
 
 Link to related Trailhead's page: click [here](https://trailhead.salesforce.com/en/content/learn/modules/business_process_automation)
+
+
+# Salesforce Flow
 
 ## Choose the Right Automation Tool
 

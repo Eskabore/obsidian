@@ -96,7 +96,9 @@
             "state": {
               "type": "backlink",
               "state": {
+
                 "file": "Daily Notes/mar., 04 10 2022.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +116,7 @@
               "type": "outline",
               "state": {
                 "file": "Daily Notes/mar., 04 10 2022.md"
+
               }
             }
           },
@@ -179,5 +182,6 @@
     "YAML_F/Dump.md",
     "Google Cloud/Cloud Engineer/Road to Certification/Resource/Kubernetes/Kubernetes engine.md",
     "Drafts/Project Planning.md"
+
   ]
 }
