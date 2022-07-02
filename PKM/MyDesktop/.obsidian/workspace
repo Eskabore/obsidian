@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/ReactJS/Lexique.md",
+            "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bouge",
+                "query": "#salesforce",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240
+    "width": 238.01219177246094
   },
   "right": {
     "id": "47a9f8560bd91d21",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/ReactJS/Lexique.md",
+                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/ReactJS/Lexique.md"
+                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "29065dc36bc18828",
   "lastOpenFiles": [
-    "IT/ReactJS/Lexique.md",
-    "Day Planners/Day Planner-20201225.md",
-    "FreeCodeCamp/FrontEndDevelopmentLibrairies/React-Redux/Lexicon React_Redux.md",
-    "FreeCodeCamp/FrontEndDevelopmentLibrairies/Redux/Lexicon Redux.md",
-    "FreeCodeCamp/FrontEndDevelopmentLibrairies/Untitled.md",
-    "FreeCodeCamp/FrontEndDevelopmentLibrairies/ReactJS/Lexicon ReactJS.md",
-    "Drafts/Math.random().md",
-    "Drafts/Nota-Bene.md",
-    "Agenda/Organizer/Pele-Mele/21032022.md",
-    "Drafts/Cover Letter EIGENSONNE GmbH.md"
+    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
+    "Drafts/Workflow and Automation.md",
+    "Workflow/process automation.md",
+    "Drafts/Data and analytics management.md",
+    "Drafts/Productivity and collaboration.md",
+    "Drafts/Service and support applications.md",
+    "Drafts/Sales and marketing applications.md",
+    "IT/ReactJS/Lexique.md"
   ]
 }

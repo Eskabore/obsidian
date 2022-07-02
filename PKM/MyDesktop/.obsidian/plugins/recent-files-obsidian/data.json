@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "III.Definitions",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+    },
+    {
+      "basename": "II.Questions & Scenarii",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
+    },
+    {
+      "basename": "I.Table of Content",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
+    },
+    {
+      "basename": "Workflow and Automation",
+      "path": "Drafts/Workflow and Automation.md"
+    },
+    {
+      "basename": "process automation",
+      "path": "Workflow/process automation.md"
+    },
+    {
+      "basename": "Data and analytics management",
+      "path": "Drafts/Data and analytics management.md"
+    },
+    {
+      "basename": "Productivity and collaboration",
+      "path": "Drafts/Productivity and collaboration.md"
+    },
+    {
+      "basename": "Service and support applications",
+      "path": "Drafts/Service and support applications.md"
+    },
+    {
+      "basename": "Sales and marketing applications",
+      "path": "Drafts/Sales and marketing applications.md"
+    },
+    {
       "basename": "Lexique",
       "path": "IT/ReactJS/Lexique.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Thu, 31 12 2020",
       "path": "Daily Notes/Thu, 31 12 2020.md"
-    },
-    {
-      "basename": "Footer 5colors",
-      "path": "Projects/DiFfrenzZ/Footer 5colors.md"
-    },
-    {
-      "basename": "Personal Project Management - Activity measuring bar",
-      "path": "Projects/DiFfrenzZ/Sfax/Personal Project Management - Activity measuring bar.md"
-    },
-    {
-      "basename": "Activity History",
-      "path": "Projects/DiFfrenzZ/Sfax/Activity History.md"
-    },
-    {
-      "basename": "dim., 28 03 2021 - Footer Blue",
-      "path": "Daily Notes/dim., 28 03 2021 - Footer Blue.md"
-    },
-    {
-      "basename": "dim., 07 03 2021",
-      "path": "Daily Notes/dim., 07 03 2021.md"
-    },
-    {
-      "basename": "Button - Download  lun., 05 04 2021",
-      "path": "Daily Notes/Button - Download  lun., 05 04 2021.md"
-    },
-    {
-      "basename": "Quick Note - TODOs",
-      "path": "Drafts/Quick Note - TODOs.md"
-    },
-    {
-      "basename": "25th-December-2020",
-      "path": "Daily Notes/25th-December-2020.md"
-    },
-    {
-      "basename": "My Social Icons - jeu., 08 04 2021",
-      "path": "Daily Notes/My Social Icons - jeu., 08 04 2021.md"
     }
   ],
   "omittedPaths": [],
