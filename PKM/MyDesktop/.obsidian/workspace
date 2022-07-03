@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+            "file": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+                "file": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+                "file": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "29065dc36bc18828",
   "lastOpenFiles": [
+    "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md",
+    "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/List Views for Object Ownership.md",
+    "Drafts/Workflow and Automation.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
+    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
+    "Salesforce/Administrator/Routine/Mynotes.md",
     "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
     "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
     "Salesforce/Administrator/NOTABENE.md",
-    "Salesforce/Administrator/Routine/Mynotes.md",
-    "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md",
-    "Drafts/Configuration and setup.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
-    "Drafts/Object Manager and Lightning App Builder.md",
-    "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/List Views for Object Ownership.md",
-    "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md"
+    "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md"
   ]
 }

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Highlight Key Fields on Lightning Record Pages",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md"
+    },
+    {
+      "basename": "List Views for Object Ownership",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/List Views for Object Ownership.md"
+    },
+    {
+      "basename": "Workflow and Automation",
+      "path": "Drafts/Workflow and Automation.md"
+    },
+    {
+      "basename": "I.Table of Content",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
+    },
+    {
+      "basename": "Plan",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md"
+    },
+    {
+      "basename": "Mynotes",
+      "path": "Salesforce/Administrator/Routine/Mynotes.md"
+    },
+    {
       "basename": "III.Definitions",
       "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
     },
@@ -13,10 +37,6 @@
       "path": "Salesforce/Administrator/NOTABENE.md"
     },
     {
-      "basename": "Mynotes",
-      "path": "Salesforce/Administrator/Routine/Mynotes.md"
-    },
-    {
       "basename": "Salesforce Administrator Checklist",
       "path": "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md"
     },
@@ -25,20 +45,8 @@
       "path": "Drafts/Configuration and setup.md"
     },
     {
-      "basename": "I.Table of Content",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
-    },
-    {
       "basename": "Object Manager and Lightning App Builder",
       "path": "Drafts/Object Manager and Lightning App Builder.md"
-    },
-    {
-      "basename": "List Views for Object Ownership",
-      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/List Views for Object Ownership.md"
-    },
-    {
-      "basename": "Highlight Key Fields on Lightning Record Pages",
-      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md"
     },
     {
       "basename": "Migrating Data While Keeping IDs Consistent",
@@ -53,16 +61,8 @@
       "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Test Flows and Processes Without Updating Live Data.md"
     },
     {
-      "basename": "Plan",
-      "path": "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md"
-    },
-    {
       "basename": "Audit Trail",
       "path": "Drafts/Audit Trail.md"
-    },
-    {
-      "basename": "Workflow and Automation",
-      "path": "Drafts/Workflow and Automation.md"
     },
     {
       "basename": "Salesforce Flow",
