@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "III.Definitions",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+    },
+    {
+      "basename": "II.Questions & Scenarii",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
+    },
+    {
+      "basename": "NOTABENE",
+      "path": "Salesforce/Administrator/NOTABENE.md"
+    },
+    {
+      "basename": "Mynotes",
+      "path": "Salesforce/Administrator/Routine/Mynotes.md"
+    },
+    {
+      "basename": "Salesforce Administrator Checklist",
+      "path": "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md"
+    },
+    {
       "basename": "Configuration and setup",
       "path": "Drafts/Configuration and setup.md"
     },
@@ -11,14 +31,6 @@
     {
       "basename": "Object Manager and Lightning App Builder",
       "path": "Drafts/Object Manager and Lightning App Builder.md"
-    },
-    {
-      "basename": "II.Questions & Scenarii",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
-    },
-    {
-      "basename": "III.Definitions",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
     },
     {
       "basename": "List Views for Object Ownership",
@@ -43,10 +55,6 @@
     {
       "basename": "Plan",
       "path": "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md"
-    },
-    {
-      "basename": "Salesforce Administrator Checklist",
-      "path": "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md"
     },
     {
       "basename": "Audit Trail",
@@ -191,14 +199,6 @@
     {
       "basename": "Untitled",
       "path": "Drafts/Untitled.md"
-    },
-    {
-      "basename": "2022-03-21 bouge toi",
-      "path": "Zettelkasten/2022-03-21 bouge toi.md"
-    },
-    {
-      "basename": "Hostel Mansion",
-      "path": "Drafts/Hostel Mansion.md"
     }
   ],
   "omittedPaths": [],
