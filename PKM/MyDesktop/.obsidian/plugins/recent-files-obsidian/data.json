@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Migrating Data While Keeping IDs Consistent",
-      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Migrating Data While Keeping IDs Consistent.md"
+      "basename": "Configuration and setup",
+      "path": "Drafts/Configuration and setup.md"
+    },
+    {
+      "basename": "I.Table of Content",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
+    },
+    {
+      "basename": "Object Manager and Lightning App Builder",
+      "path": "Drafts/Object Manager and Lightning App Builder.md"
+    },
+    {
+      "basename": "II.Questions & Scenarii",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
+    },
+    {
+      "basename": "III.Definitions",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+    },
+    {
+      "basename": "List Views for Object Ownership",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/List Views for Object Ownership.md"
     },
     {
       "basename": "Highlight Key Fields on Lightning Record Pages",
       "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md"
     },
     {
-      "basename": "List Views for Object Ownership",
-      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/List Views for Object Ownership.md"
+      "basename": "Migrating Data While Keeping IDs Consistent",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Migrating Data While Keeping IDs Consistent.md"
     },
     {
       "basename": "Take Action Directly from a Report",
@@ -37,20 +57,8 @@
       "path": "Drafts/Workflow and Automation.md"
     },
     {
-      "basename": "I.Table of Content",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
-    },
-    {
       "basename": "Salesforce Flow",
       "path": "Drafts/Salesforce Flow.md"
-    },
-    {
-      "basename": "III.Definitions",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
-    },
-    {
-      "basename": "II.Questions & Scenarii",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
     },
     {
       "basename": "process automation",
@@ -191,14 +199,6 @@
     {
       "basename": "Hostel Mansion",
       "path": "Drafts/Hostel Mansion.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Index.md"
-    },
-    {
-      "basename": "Instance",
-      "path": "Instance.md"
     }
   ],
   "omittedPaths": [],

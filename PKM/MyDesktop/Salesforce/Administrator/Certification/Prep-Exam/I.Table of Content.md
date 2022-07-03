@@ -13,8 +13,8 @@ The Salesforce Administrator credential is designed for individuals who have adm
 This exam covers these key topics, each making up a certain percentage of the exam:
 
 ### Internal Sources
-- Configuration and setup 20%
-- Object Manager and Lightning App Builder 20%
+- [[Configuration and setup]] 20%
+- [[Object Manager and Lightning App Builder ]]20%
 - [[Sales and marketing applications]] 12%
 - [[Service and support applications]] 11%
 - [[Productivity and collaboration]] 7%
@@ -24,8 +24,8 @@ This exam covers these key topics, each making up a certain percentage of the ex
 By successfully passing the Salesforce Administrator exam, you demonstrate a thorough knowledge and understanding of the Salesforce platform across Sales, Service, and Collaboration clouds.
 
 ### Links :
-- Configuration and setup 20%
-- Object Manager and Lightning App Builder 20%
+- [Configuration and setup](https://trailhead.salesforce.com/de/content/learn/modules/administrator-certification-prep-setup-and-objects/study-up-on-org-setup?trail_id=administrator-certification-prep) 20%
+- [Object Manager and Lightning App Builder](https://trailhead.salesforce.com/de/content/learn/modules/administrator-certification-prep-setup-and-objects/practice-user-setup?trail_id=administrator-certification-prep) 20%
 - [Sales and marketing applications](https://trailhead.salesforce.com/de/content/learn/modules/administrator-certification-prep-applications-activities-and-mobile/review-sales-and-marketing-applications) 12%
 - [Service and support applications](https://trailhead.salesforce.com/de/content/learn/modules/administrator-certification-prep-applications-activities-and-mobile/prep-for-service-and-support-applications) 11%
 - [Productivity and collaboration](https://trailhead.salesforce.com/de/content/learn/modules/administrator-certification-prep-applications-activities-and-mobile/study-up-on-activity-management-and-collaboration) 7%
