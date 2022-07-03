@@ -33,3 +33,7 @@ IF(Session_Manager__r.Username = $User.Username, TRUE, FALSE)
 When a user logs in and goes to the new “My Sessions” list view, they see only records for which they are the Session Manager because the view filter criteria look like this:
 
 ![[HIST3.png]]
+
+### Results
+
+Now, all the session managers can use the same list view 🎉 so no need for everyone to create their own! No more list view proliferation AND time saved! An #AwesomeAdmin’s dream!
