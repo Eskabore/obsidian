@@ -1,7 +1,7 @@
-#### Permission Sets
+### Permission Sets
 **Permission Sets** are collections of settings and permissions. Profiles allow users to perform some tasks, but permission sets allow additional tasks (tasks not enabled by profiles). For example, you can add permissions to create and customize list views, activate contracts, or any number of other permissions. 
 
-#### Permissions Set Group
+### Permissions Set Group
 **Permission Set Groups** bundle permission sets together. Users assigned to a permission set group receive the combined permissions of all the permission sets in the group. Permission set groups correspond to the job functions of users.
 Trailhead: [Create a Permission Set Group](https://trailhead.salesforce.com/content/learn/modules/permission-set-groups/create-a-permission-set-group)
 
@@ -17,5 +17,43 @@ TIP:
   * Manage Permission Set Groups
  
 
-#### Profile
-Profiles provide default settings for each user, such as default record type, IP range, and so on. Salesforce recommends using the **_Minimum Access - Salesforce_** profile as a best practice for assignment to users. _Each user has only one profile_. 
+### Profile
+Profiles provide default settings for each user, such as default record type, IP range, and so on. Salesforce recommends using the **_Minimum Access - Salesforce_** profile as a best practice for assignment to users. _Each user has only one profile_.
+
+### Formula Fields
+Link to Obsidian [[Formula Fields|page]]
+
+### Roll-Up Summary  Fields
+**Roll-up summary fields** calculate values from a set of related records, such as those in a related list.
+ou can perform different types of calculations with roll-up summary fields. You can count the number of detail records related to a master record, or calculate the sum, minimum value, or maximum value of a field in the detail records.
+> Ex :
+>   - A custom account field that calculates the total of all related pending opportunities.
+>   - A custom order field that sums the unit prices of products that contain a description you specify.
+
+You define a roll-up summary field on the object that is on the master side of a master-detail relationship. For example, you can create a roll-up summary field on the Account object, summarizing related opportunities:
+
+![[887465109a8c39ed443cbaf62138e071_rollup-1.webp]]
+There are a few different types of summaries you can use.
+Type  |	Description
+--- | ---
+COUNT | Totals the number of related records.
+SUM | Totals the values in the field you select in the Field to Aggregate option. Only number, currency, and percent fields are available.
+MIN | Displays the lowest value of the field you select in the Field to Aggregate option for all directly related records. Only number, currency, percent, date, and date/time fields are available.
+MAX | Displays the highest value of the field you select in the Field to Aggregate option for all directly related records. Only number, currency, percent, date, and date/time fields are available.
+
+
+#### Creating the Summary Field
+
+1. From Setup, open Object Manager and click Account.
+2. On the left sidebar, click Fields & Relationships.
+3. Click New.
+4. Choose the Roll-Up Summary field type, and click Next.
+5. For Field Label, enter Sum of Opportunities and click Next.
+6. The Summarized Object is the detail object that you want to summarize. Choose Opportunities.
+7. Choose the SUM summary type and choose Amount as the Field to Aggregate.
+8. Click Next, Next, and Save.
+
+
+
+### Master-Detail Relationships
+**Master-detail relationships** closely link objects together so that the **_master record_** ==controls specific behaviors== of the **_detail_** and **_subdetail record_**.

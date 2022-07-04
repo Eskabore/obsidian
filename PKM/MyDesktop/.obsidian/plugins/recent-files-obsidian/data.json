@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Formula Fields",
+      "path": "Drafts/Formula Fields.md"
+    },
+    {
+      "basename": "III.Definitions",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+    },
+    {
+      "basename": "Using Flow to Create a Custom Report Link",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Using Flow to Create a Custom Report Link.md"
+    },
+    {
       "basename": "Take Action Directly from a Report",
       "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Take Action Directly from a Report.md"
+    },
+    {
+      "basename": "Test Flows and Processes Without Updating Live Data",
+      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Test Flows and Processes Without Updating Live Data.md"
     }
   ],
   "omittedPaths": [],

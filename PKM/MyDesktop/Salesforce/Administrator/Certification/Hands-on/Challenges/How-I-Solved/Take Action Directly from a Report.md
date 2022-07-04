@@ -47,9 +47,21 @@ HYPERLINK(‘/flow/Survey_Mark_Dealt_With?varExitTicketId=’& Id, ‘Mark Dealt
 
 This is a formula field that returns Text as the data type. And look at the formula, which I’ll break down:
 
-It’s a HYPERLINK function, so it’s going to create a hyperlink or URL.
-It includes the API name of my flow (Survey_Mark_Dealt_With).
-It indicates the name of a flow variable that it’s going to define (varExitTicketId).
-It indicates that it’s going to put the Id of this record into that flow variable (=&Id).
-And it indicates the text it’s going to display in the field (‘Mark Dealt With’).
-That’s it. It’s like you’ve added a button that can show up on the report, but it’s a link instead!
+- It’s a HYPERLINK function, so it’s going to create a hyperlink or URL.
+- It includes the API name of my flow (Survey_Mark_Dealt_With).
+- It indicates the name of a flow variable that it’s going to define (varExitTicketId).
+- It indicates that it’s going to put the Id of this record into that flow variable (=&Id).
+- And it indicates the text it’s going to display in the field (‘Mark Dealt With’).
+
+ It’s like you’ve added a button that can show up on the report, but it’s a link instead!
+
+4. Add the new field to the report
+
+![[Pasted image 20220704015454.png]]
+
+Clicking the words “Mark Dealt With” launches the flow, which does its work in a moment. When you refresh the report, the dealt with check-ins are no longer there because we’re filtering for check-ins that don’t have a value in that field:
+
+![[Pasted image 20220704015518.png]]
+
+### Business results
+It sounds simple, but we’ve now turned a report into a checklist for program staff! As long as we make things this easy and efficient, there’s no excuse for not updating the records. And the program management can easily look in to see that problematic check-ins aren’t being ignored.
