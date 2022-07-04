@@ -150,6 +150,7 @@
   "active": "29065dc36bc18828",
   "lastOpenFiles": [
     "Drafts/Formula Fields.md",
+    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
     "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
     "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Using Flow to Create a Custom Report Link.md",
     "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Take Action Directly from a Report.md",
@@ -157,7 +158,6 @@
     "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Migrating Data While Keeping IDs Consistent.md",
     "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Highlight Key Fields on Lightning Record Pages.md",
     "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/List Views for Object Ownership.md",
-    "Drafts/Lightning App Builder.md",
-    "Drafts/Workflow and Automation.md"
+    "Drafts/Lightning App Builder.md"
   ]
 }
