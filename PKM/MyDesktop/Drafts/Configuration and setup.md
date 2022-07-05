@@ -17,7 +17,7 @@
 - Company information
 - Locale settings
 - Search results
-- List views
+- [[List views |List views]]
 - Currency management
 - Fiscal year
 - Default settings

@@ -69,3 +69,102 @@ If you’re not on the detail page for your new permission set, navigate back th
 1. On the detail page of the new permission set, click Manage Assignments.
 2. Click Add Assignments. On the list of users, select the checkbox next to Sia’s user. (If you wanted, you could assign up to 1,000 users at a time.)
 3. Click Assign.
+
+
+### How can I learn and develop my problem-solving skills?
+
+There are five different areas of problem solving to develop in order to be the best Salesforce Admin:
+
+- **Research:** Focus on really understanding the technical requirements of your users, the system configuration, and the process.
+- **Analysis:** Take time to understand the day-to-day issues of your users, and always be ready to work with your team to analyze the problem and offer spontaneous solutions.
+- **Decision making:** Be proactive in giving possible solutions to the problem. Don’t forget that sometimes the solutions are simpler than we initially think.
+- **Communication:** Aim to be thoughtful and work as a team, always keeping users informed of any problem that you resolve—and be happy to help.
+- **Creativity:** Stay positive as you resolve problems and ask many questions. These questions may lead you down paths to solutions that you may not have thought of at first.
+
+#### Problem-Solving skills
+- Problem solving **_involves_** ==**identifying an issue,**== ==**determining why it’s happening**==, ==**coming up with possible solutions**==, ==**implementing the best one**==, and ==**evaluating its effectiveness**==.
+- Since this skill is important to most employers, be sure to list it front and center on your resume and cover letter, and come prepared to talk about it in interviews.
+
+
+### Identify and Document a Business Problem
+- Understand how to solve a business problem.
+- Create user stories.
+- Create supporting documentation for your solution.
+
+#### How to Solve a Business Problem
+For each company you target, follow these steps:
+- Do some research on their website to understand their business.
+- Put yourself in the shoes of their customers. Evaluate their web experience and imagine how an interaction with that company might go. What problems might customers face? Complete the [Innovation Customer Discovery](https://trailhead.salesforce.com/content/learn/modules/innovation_customer_discovery?trail_id=innovation_salesforce_way) module to learn more.
+- Next, put yourself in the shoes of a decision-maker at that company. Imagine the types of decisions they make and the data they need to make informed decisions.
+- Examine their products and services. Consider their manufacturing process or support process. How could you make it more efficient?
+
+#### Document the Business Case
+To demonstrate that you have what it takes to solve real-world business problems, you must understand how to write user stories, a business case, and a project plan to get buy-in from executive, finance, and development stakeholders.
+
+**Typical Project Documents**
+Document | Description
+--- | ---
+User Stories | Document the user roles impacted by the problem and explain how the solution benefits users.
+Business Case | To give stakeholders the information they need to approve and fund the project, describe the problem, propose a solution (with timeline), and provide a cost-benefit analysis.
+Project Plan |  Define milestones, tasks, work items, and deliverables.
+
+##### Create User Stories
+User stories are often expressed in a simple sentence, structured like this:
+“As a [role], I want (or need) to [job task], so that I can [benefit].”
+
+So for the recruiter app, user stories could be:
+- As an applicant, I want to hear quickly whether I’ve been accepted or rejected, so that I can prepare for the interview or move on.
+- As a recruiter, I want to quickly make decisions about an applicant and select candidates to move forward, so that I can focus on the best candidates for the role.
+> From these two statements, it’s clear that some automation is needed. Both users want to spend their time more effectively without worrying about manual processes or waiting for a response.
+
+==Researching the companies that might benefit from your solution, and exploring some typical roles within the company, can help you make your solution relatable.==
+
+**Break the user stories into tasks.**
+As you think about who you're helping and how you’re solving a business problem, it’s helpful to break your user story into specific tasks. To decline an applicant, some tasks could be:
+1. Create a custom field for Decline or Continue on an applicant record.
+2. Create a mail template for Decline.
+3. Create an automatic workflow to send an email when Decline is selected.
+
+**Test that your solution meets the user stories’ goals.**
+> A vital part of creating use cases is documenting test cases. A tester uses test cases to validate that the solution works as intended and to identify issues to be addressed.
+
+Let’s keep thinking about the recruiting app. The hiring manager wants an easy way to tag applicants that she wants to interview or reject. A test case to support that goal could be:
+1. Select an applicant and choose Decline.
+2. Check that an automatic email is sent.
+3. Select an applicant and choose Continue.
+4. Check that the Decline email is not sent.
+==**_Be sure that you define a test case for each user story._**==
+
+After you define your user stories, you can more easily:
+==> describe the problem you’re solving, 
+==> how you’ll solve it,
+==> for whom.
+These are key components of a business case.
+
+##### Create a Business Case
+A business case can be a document or presentation slides. It portrays the benefits of the project and explains why stakeholders should invest in the project. A business case focuses on the product you are planning to deliver and should answer these questions.
+
+Who | What | How | When | Why
+--- | --- | --- | --- | ---
+Who will the solution impact? | What is the goal of the project? | How will the solution impact the business? | When will the project take place? | Why is the project needed?
+
+The key is not to go overboard on the technology or your knowledge of the product. Stakeholders want to focus on the overall purpose of the project and what return on investment the project will provide. What is the benefit to the customer? How will business improve? To learn more, review the Build Your Business Case and Roadmap unit in the [Innovation Solution](https://trailhead.salesforce.com/content/learn/modules/innovation_solution) module.
+
+A business case should contain these sections:
+
+1. Executive Summary (What? Why? How?)
+State what the project is, why it’s needed, and how it will impact the business.
+2. Current Process
+  - Show the current process flow in a diagram. Be creative here. Imagine a manual process with manual steps or highlight inefficient processes.
+3. Proposed New Process
+  - Show the proposed process flow in a diagram. Describe in detail how the new process will improve efficiency and what will be automated.
+4. Recommendations (Why? Who?)
+  - Explain why you are proposing this product and describe its benefits. Remember to keep it nontechnical and to highlight who will be impacted by the change.
+5. Timeline (When?)
+- Estimate the timeline at a high level, either written out or in a Gantt chart. This section details when the work will take place. This doesn’t take the place of your project plan, but gives an overview of the timeline.
+6. Financial Impact
+- Outline the budget for this project. Provide a breakdown of costs by department, and estimate how much money and time the new process will save.
+
+On the job, you would also **create a project plan** to **_guide the project_**, **_manage resources_**, and **_monitor constraints_**.
+
+ [Project Management Plan Lite](https://trailhead.salesforce.com/content/learn/modules/project-management-plan-lite)

@@ -1,6 +1,13 @@
 #salesforce #organizer #checklist #plan 
 
-# What to monitor:
+## To Effectively Solve a Problem
+--> First, I **DEFINE** the problem.
+--> Then, I use **DISCIPLINE**to truly understand its complexity.
+--> Next, I **DEDICATE** time to find possible solutions.
+--> And I **TEST** the solution.
+
+
+## What to monitor:
 - Daily
 - Weekly
 - Monthly
