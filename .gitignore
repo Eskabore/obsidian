@@ -1,2 +1,2 @@
 # Ignore plugins (added,deleted, updated)#
-PKM/MyDesktop/.obsidian/plugins/
+.obsidian/plugins/**
