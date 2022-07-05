@@ -168,3 +168,11 @@ State what the project is, why it’s needed, and how it will impact the busines
 On the job, you would also **create a project plan** to **_guide the project_**, **_manage resources_**, and **_monitor constraints_**.
 
  [Project Management Plan Lite](https://trailhead.salesforce.com/content/learn/modules/project-management-plan-lite)
+
+
+### Build a Discount Approval Process
+
+#### Prepare My Org
+
+##### Introduction
+

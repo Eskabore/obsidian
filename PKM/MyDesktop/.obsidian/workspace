@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a4fcf4bc28c88636",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Drafts/List views.md",
+            "file": "Salesforce/Administrator/Routine/Mynotes.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.01219177246094
+    "width": 254.01219177246094
   },
   "right": {
     "id": "47a9f8560bd91d21",
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/List views.md",
+                "file": "Salesforce/Administrator/Routine/Mynotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/List views.md"
+                "file": "Salesforce/Administrator/Routine/Mynotes.md"
               }
             }
           },
@@ -159,17 +147,17 @@
     "width": 396,
     "collapsed": true
   },
-  "active": "a4fcf4bc28c88636",
+  "active": "29065dc36bc18828",
   "lastOpenFiles": [
-    "Drafts/List views.md",
-    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
-    "Drafts/Configuration and setup.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
-    "Drafts/Validation Rules.md",
-    "Drafts/Formula Fields.md",
     "Salesforce/Administrator/Routine/Mynotes.md",
-    "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
     "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
-    "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Using Flow to Create a Custom Report Link.md"
+    "Drafts/Support Process.md",
+    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
+    "Drafts/Create Support Process.md",
+    "Salesforce/Administrator/NOTABENE.md",
+    "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md",
+    "Drafts/User Acceptance Testing.md"
   ]
 }

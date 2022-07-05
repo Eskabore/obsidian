@@ -30,3 +30,21 @@ On any object tab, click the ![[Pasted image 20220705171337.png]] icon to open t
 ==To narrow my list view:==
 --> **Edit List Filters** or the ![[Pasted image 20220705172154.png |25 x 25]] icon, and add my criteria to the filter pane.
    ==> **Add Filter Logic** to enter complex relationships.
+
+## Use List Views for Common Tasks
+Each tab can support multiple list views, so you can create several list views to use for _different tasks_.
+> If you expect to use the same view regularly, click the ![[Pasted image 20220705173039.png|25 x 25]] icon to set it as the default view on your tab. Pinning a list view affects your workspace only.
+
+![[Pasted image 20220705173100.png]]
+
+After you organize and filter your list view, you can take actions on records.
+To **_edit_**, **_clone_**, or **_delete_** an individual record, click the ![[Pasted image 20220705173318.png|25 x 25]] **Show Actions**  menu on a row.
+
+Some object tabs offer bulk actions on list views. For example, on the Contacts and Leads tabs, you can select multiple records and then click **Send List Email** to add individuals as recipients of a personalized email.
+
+![[Pasted image 20220705173411.png]]
+
+> **Note:** The default view shows up to 50 records. Scroll to see more. When selecting records for bulk actions, keep these details in mind.
+>  - To apply a bulk action to every record in a list, including records that don't appear in the current view, click the bulk action button without selecting any records.
+    - To apply a bulk action to all of the records on the current view, check every box by selecting the checkbox in the table header, and then click the bulk action button.
+    - To apply a bulk action to specific records, use the checkboxes on specific rows, and then click the bulk action button.
