@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/Approval Process.md",
+            "file": "Drafts/Apex Basics.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "custom fields",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/Approval Process.md",
+                "file": "Drafts/Apex Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/Approval Process.md"
+                "file": "Drafts/Apex Basics.md"
               }
             }
           },
@@ -125,9 +124,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "35cdfdb3c17ae0d4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "017118b287a0a4bf",
@@ -145,20 +152,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396,
-    "collapsed": true
+    "width": 406.0950927734375
   },
   "active": "3200fabaf7bb5fd5",
   "lastOpenFiles": [
-    "Drafts/Approval Process.md",
-    "Drafts/Custom Fields.md",
-    "Salesforce/Administrator/Routine/Mynotes.md",
-    "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md",
+    "Drafts/Apex Basics.md",
     "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
+    "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md",
+    "Salesforce/Administrator/Routine/Mynotes.md",
+    "Drafts/Approval Process.md",
+    "Daily Notes/dim., 07 03 2021.md",
+    "Drafts/Custom Fields.md",
     "Drafts/Support Process.md",
     "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
-    "Drafts/Nota-Bene.md",
-    "Drafts/Math.random().md"
+    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
   ]
 }

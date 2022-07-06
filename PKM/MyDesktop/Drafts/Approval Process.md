@@ -100,13 +100,62 @@ In the Read-Only column header, select the checkbox.
 In the Read-Only column, deselect the Standard User and System Administrator checkboxes.
 7. Click Next, then click Save & New.
 
-> While still in the Fields & Relationships page for Opportunity, create an Approval Status field:
+II. Create an Approval Status field:
+> While still in the Fields & Relationships page for Opportunity.
 
   1. Select the Picklist radio button, and click Next.
   2. Complete the new field details in Step 2
 
-Field	Value
-Field Label
-Approval Status
-Values
-Select: Enter values, with each value separated by a new line.
+Field  | Value
+--- | ---
+Field Label | Approval Status
+Values | Select: Enter values, with each value separated by a new line
+3. In the text box enter these values, separated by a new line:
+  - Pending
+  - Approved
+  - Not Approved
+4. Ensure **Restrict picklist to the values defined in the value set** is selected.
+5. Click **Next**, then set the field-level security:
+  - In the Read-Only column header, select the checkbox.
+  - In the Read-Only column, deselect the **Standard User** and **System Administrator** checkboxes.
+6. Click **Next**, then click **Save**.
+
+## Create an Approval Status field:
+> Set up 2 email templates: one alerts requestor that a discount is approved; one alerts requestor that a discount is rejected.
+
+1.  From Setup, enter **Classic Email Templates** in the Quick Find box, then select **Classic Email Templates**.
+2.  Click **Create New Folder**
+3.  Fill in the information
+**Field** | **Value**
+--- | ---
+Email Template Folder Label | Discount Request Responses
+Folder Unique Name | (this field auto-populates)
+Public Folder access | Read/Write
+4. Select the This folder is accessible by all users radio button.
+5. Click **Save**
+
+I. Discount Approved Email Template
+  1. From Setup, enter **Classic Email Templates** in the Quick Find box, then select **Classic Email Templates**.
+  2. Click **New Template**.
+  3. Select the **Text** radio button, then click **Next**.
+  4. Fill in these details:
+**Field** | **Value**
+--- | ---
+Select Field Type | Opportunity Fields
+Select Field | Owner Full Name
+Copy Merge Field Value | This field auto-populates. It’s copied and pasted into the email body.
+Folder | Discount Request Responses
+Available for Use | Select
+Email Template Name | Discount Approved
+Template Unique Name |	(This field auto-populates)
+Encoding | General US & Western Europe (ISO-8859, ISO-LATIN-1)
+Description | Used to alert requestors that a discount has been approved
+Subject | Your Discount Request Was Approved
+Email Body	| Dear {!Opportunity.OwnerFullName},Good news! Your discount has been approved...
+  5. Click **Save**
+![[Pasted image 20220706183929.png]]
+![[Pasted image 20220706183942.png]]
+
+II. Discount Rejected Email Template
+  1. Navigate back to the initial Classic Email Templates page, then click New Template.
+  2. Select the Text radio button, then click Next.

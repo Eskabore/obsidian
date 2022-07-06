@@ -13,7 +13,7 @@ tags: #todo #resume #cv
 - [ ]  Customize GH profile by adding third party Markdown (linked) API
     - [ ]  Add a review counter : [Link](https://www.pixelstech.net/article/1603006099-Create-customized-GitHub-profile-page)
     - [ ] Add related shields; [Link](https://shields.io/) ^task-rit2
-    - [ ] Add automated Workflow
+    - [x] Add automated Workflow
   - [ ] Request new Tommy -H. Icon to [Simple-Icons](https://github.com/simple-icons/simple-icons/blob/260080370a8c9cb67dacf062a9d42160c3927bf2/CONTRIBUTING.md)
 
 ## Professional introduction.
