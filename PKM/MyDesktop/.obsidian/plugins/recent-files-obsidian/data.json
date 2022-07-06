@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Approval Process",
+      "path": "Drafts/Approval Process.md"
+    },
+    {
+      "basename": "Workflow and Automation",
+      "path": "Drafts/Workflow and Automation.md"
+    },
+    {
+      "basename": "I.Table of Content",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
+    },
+    {
+      "basename": "Object Manager and Lightning App Builder",
+      "path": "Drafts/Object Manager and Lightning App Builder.md"
+    },
+    {
+      "basename": "Configuration and setup",
+      "path": "Drafts/Configuration and setup.md"
+    },
+    {
       "basename": "Mynotes",
       "path": "Salesforce/Administrator/Routine/Mynotes.md"
     },
     {
       "basename": "II.Questions & Scenarii",
       "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
-    },
-    {
-      "basename": "I.Table of Content",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
     },
     {
       "basename": "III.Definitions",
@@ -39,10 +55,6 @@
     {
       "basename": "List views",
       "path": "Drafts/List views.md"
-    },
-    {
-      "basename": "Configuration and setup",
-      "path": "Drafts/Configuration and setup.md"
     },
     {
       "basename": "Validation Rules",

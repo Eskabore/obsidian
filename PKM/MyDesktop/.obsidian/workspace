@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Salesforce/Administrator/Routine/Mynotes.md",
+            "file": "Drafts/Approval Process.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salesforce/Administrator/Routine/Mynotes.md",
+                "file": "Drafts/Approval Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salesforce/Administrator/Routine/Mynotes.md"
+                "file": "Drafts/Approval Process.md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "29065dc36bc18828",
   "lastOpenFiles": [
+    "Drafts/Approval Process.md",
+    "Drafts/Workflow and Automation.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
+    "Drafts/Object Manager and Lightning App Builder.md",
+    "Drafts/Configuration and setup.md",
     "Salesforce/Administrator/Routine/Mynotes.md",
     "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
     "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
     "Drafts/Support Process.md",
-    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
-    "Drafts/Create Support Process.md",
-    "Salesforce/Administrator/NOTABENE.md",
-    "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md",
-    "Drafts/User Acceptance Testing.md"
+    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md"
   ]
 }
