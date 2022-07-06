@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "29065dc36bc18828",
+        "id": "3200fabaf7bb5fd5",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#formula",
+                "query": "custom fields",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 254.01219177246094
+    "width": 251.01219177246094
   },
   "right": {
     "id": "47a9f8560bd91d21",
@@ -147,17 +148,17 @@
     "width": 396,
     "collapsed": true
   },
-  "active": "29065dc36bc18828",
+  "active": "3200fabaf7bb5fd5",
   "lastOpenFiles": [
     "Drafts/Approval Process.md",
-    "Drafts/Workflow and Automation.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
-    "Drafts/Object Manager and Lightning App Builder.md",
-    "Drafts/Configuration and setup.md",
+    "Drafts/Custom Fields.md",
     "Salesforce/Administrator/Routine/Mynotes.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+    "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md",
+    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
     "Drafts/Support Process.md",
-    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md"
+    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
+    "Drafts/Nota-Bene.md",
+    "Drafts/Math.random().md"
   ]
 }

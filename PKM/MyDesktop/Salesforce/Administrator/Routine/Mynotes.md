@@ -22,6 +22,13 @@ After a recent update to the DuckDuckGo Privacy Essentials Chrome browser extens
 #### ==Resolution:==
 In order to resolve these errors users will either need to disable the extension, or turn off the Site Privacy Protection setting in the extension for their Salesforce org URL.
 
+### Users
+- Deactivating a user, also deactivate his license and makes it available to use for another user.
+
+### Custom Fields
+> A **custom field** name and label **==must be unique for that object to avoid merge and display issues==**. For example, if you create a field label called Email and a standard field labeled Email already exists, the merge field may be unable to distinguish between them. Adding a character or a qualifier to the custom field name makes it unique. For example, Email2 or Email Leads.
+
+
 ### Secure User's Identity:
 Trailhead - [page](https://trailhead.salesforce.com/content/learn/modules/identity_login/identity_login_2fa?trailmix_creator_id=mpetroro&trailmix_slug=configuration-and-setup)
 
@@ -170,9 +177,5 @@ On the job, you would also **create a project plan** to **_guide the project_**,
  [Project Management Plan Lite](https://trailhead.salesforce.com/content/learn/modules/project-management-plan-lite)
 
 
-### Build a Discount Approval Process
-
-#### Prepare My Org
-
-##### Introduction
+### [[Approval Process|Build a Discount Approval Process]]
 
