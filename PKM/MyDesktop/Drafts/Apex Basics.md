@@ -68,3 +68,28 @@ System.debug('Groceries: ' + groceries);
 
 #### Declare an Empty List and Add Values Later
 Apex provides methods that let you work with lists. Let’s use the add method to add grocery items to the groceries list.
+1. In the Developer Console, click Debug | Open Execute Anonymous Window.
+2. Copy this code and paste it into the Enter Apex Code window
+```java
+//Create the groceries list
+List<String> groceries = new List<String>();
+  
+//The output for this statement is null
+System.debug('Groceries: ' + groceries);
+  
+//Use the add method to add an element to the list
+groceries.add('Tea');
+groceries.add('Sugar');
+groceries.add('Honey');
+groceries.add(2, 'Milk');
+  
+//The output for this statement is Tea, Sugar, Milk, Honey
+System.debug('Groceries: ' + groceries);
+```
+3. Select the Open log checkbox and then click Execute. The Execution Log opens, displaying the result of running your code.
+4. Select the Debug Only checkbox at the bottom of the window.
+ ![[Pasted image 20220707014105.png]]
+ Did you notice the dot (“.”)between `groceries` and `add`? Apex uses dot notation. Dot notation has several uses. In line 8, we connect the `add` method (that Apex provides) to the `groceries` list with a dot to add an item (Tea) to the list.
+
+Line 11 demonstrates another way to add an item to a list, by inserting the item in a specific index (position): 
+![[Pasted image 20220707014236.png]]

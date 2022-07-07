@@ -57,3 +57,7 @@ MAX | Displays the highest value of the field you select in the Field to Aggrega
 
 ### Master-Detail Relationships
 **Master-detail relationships** closely link objects together so that the **_master record_** ==controls specific behaviors== of the **_detail_** and **_subdetail record_**.
+
+### sObject
+An **sObject** is an **_Apex data type_** that corresponds to a Salesforce object (**sObject**) in an org. sObjects are complex data types that hold multiple values in one variable. They hold a single record of data from a Salesforce object, such as an Account, a Contact, or an Opportunity. Remember from Apex Basics for Admins that variables are like containers. Most variables hold one piece of information. sObjects are containers that hold other containers. The containers within the sObject container may be of different data types, such as string, date, integer or Boolean. 
+![[Pasted image 20220707044150.png]]
