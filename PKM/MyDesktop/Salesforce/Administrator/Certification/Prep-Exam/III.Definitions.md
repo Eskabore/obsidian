@@ -61,3 +61,6 @@ MAX | Displays the highest value of the field you select in the Field to Aggrega
 ### sObject
 An **sObject** is an **_Apex data type_** that corresponds to a Salesforce object (**sObject**) in an org. sObjects are complex data types that hold multiple values in one variable. They hold a single record of data from a Salesforce object, such as an Account, a Contact, or an Opportunity. Remember from Apex Basics for Admins that variables are like containers. Most variables hold one piece of information. sObjects are containers that hold other containers. The containers within the sObject container may be of different data types, such as string, date, integer or Boolean. 
 ![[Pasted image 20220707044150.png]]
+
+### Controller
+A controller is basically a collection of code that defines your app’s behavior when “things happen,” whereby “things” we mean user input, timer and other events, data updates, and so on. If you look up “Model-View-Controller” on any number of developer sites, you’ll get various definitions. For our purposes, for Lightning Components, a controller is a resource in a component bundle that holds the action handlers for that component. And action handlers are just JavaScript functions with a particular function signature.

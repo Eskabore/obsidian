@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/Visualforce.md",
+            "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/Visualforce.md",
+                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/Visualforce.md"
+                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "017118b287a0a4bf",
@@ -152,19 +152,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 743.0950927734375,
+    "collapsed": true
   },
   "active": "3200fabaf7bb5fd5",
   "lastOpenFiles": [
-    "Drafts/Visualforce.md",
-    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
     "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
+    "Drafts/Create & Edit Visualforce Pages.md",
+    "Drafts/Visualforce.md",
     "Drafts/Test Data for Apex Tests.md",
     "Drafts/Apex Testing.md",
     "Drafts/SOQL for Admins.md",
     "Drafts/Support Process.md",
     "Daily Notes/dim., 07 03 2021.md",
-    "Drafts/Apex Basics.md",
-    "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md"
+    "Drafts/Apex Basics.md"
   ]
 }
