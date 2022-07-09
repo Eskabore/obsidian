@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "III.Definitions",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+      "basename": "Pardot",
+      "path": "Drafts/Pardot.md"
     },
     {
       "basename": "Plan",
       "path": "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md"
+    },
+    {
+      "basename": "Mynotes",
+      "path": "Salesforce/Administrator/Routine/Mynotes.md"
+    },
+    {
+      "basename": "III.Definitions",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
     },
     {
       "basename": "Create & Edit Visualforce Pages",
@@ -43,10 +51,6 @@
     {
       "basename": "Salesforce Administrator Checklist",
       "path": "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md"
-    },
-    {
-      "basename": "Mynotes",
-      "path": "Salesforce/Administrator/Routine/Mynotes.md"
     },
     {
       "basename": "Approval Process",

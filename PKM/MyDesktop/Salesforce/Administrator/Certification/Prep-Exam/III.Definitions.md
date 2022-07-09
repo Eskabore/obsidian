@@ -64,3 +64,16 @@ An **sObject** is an **_Apex data type_** that corresponds to a Salesforce objec
 
 ### Controller
 A controller is basically a collection of code that defines your app’s behavior when “things happen,” whereby “things” we mean user input, timer and other events, data updates, and so on. If you look up “Model-View-Controller” on any number of developer sites, you’ll get various definitions. For our purposes, for Lightning Components, a controller is a resource in a component bundle that holds the action handlers for that component. And action handlers are just JavaScript functions with a particular function signature.
+
+### Pardot
+Lead (or demand) generation: The act of creating interest in your products or services through marketing efforts.
+
+Visitor: An anonymous person who visits your website and is now tracked in Pardot. 
+
+Conversion: Once a visitor gives you their contact information, such as an email address, by submitting a Pardot landing page or form, they are converted to a prospect.
+
+Prospect: An anonymous visitor that has converted and is now identified. A record of the prospect will exist in Pardot, similar to a lead record in Sales Cloud or other CRMs.
+
+Lead nurturing: Sending targeted messages at specific intervals based on a prospect's actions and whether or not they’ve met certain qualifying criteria. 
+
+Lead qualification: You probably have thousands (or even hundreds of thousands) of people interacting with your organization. Your sales teams can’t contact each of them, so as marketers it’s your job to help send them the best prospects. This process of finding the gold needles in the haystack of prospects is called lead qualification. You decide the threshold for when a prospect is ready to be assigned to a salesperson for them to follow up.

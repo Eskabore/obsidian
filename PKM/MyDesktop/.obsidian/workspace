@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+            "file": "Drafts/Pardot.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+                "file": "Drafts/Pardot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+                "file": "Drafts/Pardot.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "3200fabaf7bb5fd5",
   "lastOpenFiles": [
-    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+    "Drafts/Pardot.md",
     "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
+    "Salesforce/Administrator/Routine/Mynotes.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
     "Drafts/Create & Edit Visualforce Pages.md",
     "Drafts/Visualforce.md",
     "Drafts/Test Data for Apex Tests.md",
     "Drafts/Apex Testing.md",
     "Drafts/SOQL for Admins.md",
-    "Drafts/Support Process.md",
-    "Daily Notes/dim., 07 03 2021.md",
-    "Drafts/Apex Basics.md"
+    "Drafts/Support Process.md"
   ]
 }
