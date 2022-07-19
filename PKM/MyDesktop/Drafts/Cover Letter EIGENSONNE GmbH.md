@@ -57,23 +57,27 @@ Je me suis suis beaucoup inspire d’EIGENSONNE.
 
 
 ---
-I have worked with Salesforce's Sales and Service Cloud Console for over four years to help companies create, maintain, develop, and market their services.
-I have earned seven hands-on certifications (Superbadges) in configuring and managing the platform.
+[Link to Google Docs](https://docs.google.com/document/d/1to2BgpavVlPMsC_MmuU9mKSbjC9Ssck54RzIBwyYBnY/edit)
 
-I set up an Org for solar components and systems vendor with about 200 employees.
-I was responsible for configuring and customizing Salesforce to meet the company's needs.
 
-As the developer and administrator of the console, I created an object and custom fields that :
+EIGENSONNE GmbH
+Neue Grünstraße 27,
+10179 Berlin,
+Germany
+Subject: Application for the Salesforce Specialist position. 
+ 	Equipped with seven hands-on certifications (Superbadges) in configuring and managing the SFDC platform, alongside multiple years of cumulative experience in working with Salesforce’s Sales and Service Cloud for various industries, I am confident in tweaking your organization to analyze and act on data, allowing you to make smart decisions (Internet Of Things) and ordering the individual and automated planning of solar power systems.
+In 2020, - as a project -, I established an Org for a solar components supplier with about 200 employees.
+As both a developer and administrator of the Salesforce Console, the accomplishment has been the elaboration of a series of Custom Objects and Fields that:
 - Provide information about panel energy production, economic viability, and maintenance needs (customized and automated solar energy system scheduling).
 - Inform technicians in different geographical areas about possible technical incidents or sales requests.
 - Facilitate customer support throughout the contract period.
-- They organize special assistance to major customers.
-- They set up a sales channel adapted to the specificities of the market.
+- Help organize assists and follow-ups for specific customers.
+- Assist agents with proper information distribution.
+I enjoy building and determining solutions that enable the development of a suitable tool and ensure a smooth user experience; convinced that “listening” and “engagement” alongside analytical skills, are key qualities to translating business requirements adequately.
+Bringing my dynamism, versatility, and skills to the forefront, I am capable of working within a team as well as across, and will build strong relationships with all departments.
+	My expertise and interest in the renewable energy sector make me a strong candidate for the Salesforce Specialist role at EIGENSONNE GmbH.
+I am eager to learn more about this job opening and show you how I can help EIGENSONNE’s mission to deliver excellence.
+Respectfully yours,
 
-From 2020 until today, my curiosity led me to be interested in the business model of your company, "EIGENSONNE GmbH", and its potential needs. I observed the growth of your company, but also the difficulty of finding a Salesforce specialist to meet your needs.
 
-I firmly believe that listening is essential to enable the development of a suitable tool. My dedication to good work helps me not to count the hours.
-In your company, I will bring my dynamism, versatility, and acquired skills to the forefront.
-I would be happy to have a conversation with you to exchange more information.
-
-I remain with kind regards
+Jean-Luc TURQUIN.

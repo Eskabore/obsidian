@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Salesforce/Administrator/Interviews/Dimabay_salesforceAdmin.md",
+            "file": "Drafts/Cover Letter EIGENSONNE GmbH.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cover",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salesforce/Administrator/Interviews/Dimabay_salesforceAdmin.md",
+                "file": "Drafts/Cover Letter EIGENSONNE GmbH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salesforce/Administrator/Interviews/Dimabay_salesforceAdmin.md"
+                "file": "Drafts/Cover Letter EIGENSONNE GmbH.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "3200fabaf7bb5fd5",
   "lastOpenFiles": [
+    "Drafts/Cover Letter EIGENSONNE GmbH.md",
+    "Agenda/Organizer/Pele-Mele/21032022.md",
     "Salesforce/Administrator/Interviews/Dimabay_salesforceAdmin.md",
     "Drafts/Pardot.md",
     "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
@@ -164,8 +166,6 @@
     "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
     "Drafts/Create & Edit Visualforce Pages.md",
     "Drafts/Visualforce.md",
-    "Drafts/Test Data for Apex Tests.md",
-    "Drafts/Apex Testing.md",
-    "Drafts/SOQL for Admins.md"
+    "Drafts/Test Data for Apex Tests.md"
   ]
 }
