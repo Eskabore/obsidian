@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/Cover Letter EIGENSONNE GmbH.md",
+            "file": "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.01219177246094
+    "width": 263.01219177246094
   },
   "right": {
     "id": "47a9f8560bd91d21",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/Cover Letter EIGENSONNE GmbH.md",
+                "file": "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/Cover Letter EIGENSONNE GmbH.md"
+                "file": "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md"
               }
             }
           },
@@ -157,15 +157,15 @@
   },
   "active": "3200fabaf7bb5fd5",
   "lastOpenFiles": [
-    "Drafts/Cover Letter EIGENSONNE GmbH.md",
-    "Agenda/Organizer/Pele-Mele/21032022.md",
-    "Salesforce/Administrator/Interviews/Dimabay_salesforceAdmin.md",
-    "Drafts/Pardot.md",
-    "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md",
+    "Drafts/Update Reminders.md",
     "Salesforce/Administrator/Routine/Mynotes.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
-    "Drafts/Create & Edit Visualforce Pages.md",
-    "Drafts/Visualforce.md",
-    "Drafts/Test Data for Apex Tests.md"
+    "Drafts/Case Team.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
+    "Drafts/Data and analytics management.md",
+    "Drafts/Tabular, Summary and Matrix Salesforce Reports.md",
+    "Salesforce/Administrator/Cover Letters/Cover Letter (DE).md",
+    "Salesforce/Administrator/Cover Letters/Cover Letter (EN).md",
+    "Drafts/Cover Letter EIGENSONNE GmbH.md"
   ]
 }

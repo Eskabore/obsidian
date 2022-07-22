@@ -27,8 +27,6 @@ In order to resolve these errors users will either need to disable the extension
 
 ### Custom Fields
 > A **custom field** name and label **==must be unique for that object to avoid merge and display issues==**. For example, if you create a field label called Email and a standard field labeled Email already exists, the merge field may be unable to distinguish between them. Adding a character or a qualifier to the custom field name makes it unique. For example, Email2 or Email Leads.
-
-
 ### Secure User's Identity:
 Trailhead - [page](https://trailhead.salesforce.com/content/learn/modules/identity_login/identity_login_2fa?trailmix_creator_id=mpetroro&trailmix_slug=configuration-and-setup)
 
@@ -178,4 +176,4 @@ On the job, you would also **create a project plan** to **_guide the project_**,
 
 
 ### [[Approval Process|Build a Discount Approval Process]]
-
+### [[Update Reminders]]

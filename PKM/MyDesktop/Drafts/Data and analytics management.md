@@ -21,6 +21,7 @@
 - External ID
 - Data Export
 - Report creation
+  - [[Tabular, Summary and Matrix Salesforce Reports|Difference between Tabular, Summary and Matrix Salesforce Reports]] 
 -  Custom reports
 -  Editing and customizing reports
 - Dashboard components
