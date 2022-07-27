@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md",
+            "file": "Road to Fullstack/Front-End/Cover Letter for smartly.io.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md",
+                "file": "Road to Fullstack/Front-End/Cover Letter for smartly.io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md"
+                "file": "Road to Fullstack/Front-End/Cover Letter for smartly.io.md"
               }
             }
           },
@@ -155,17 +155,17 @@
     "width": 743.0950927734375,
     "collapsed": true
   },
-  "active": "3200fabaf7bb5fd5",
+  "active": "ca8ef80322d1be54",
   "lastOpenFiles": [
+    "Road to Fullstack/Front-End/Cover Letter for smartly.io.md",
+    "Projects/DiFfrenzZ/Footer 5colors.md",
+    "Projects/DiFfrenzZ/28-03-2021 Coronavirus widget.md",
+    "Projects/DiFfrenzZ/Sfax/Activity History.md",
+    "Presume/Readme.md",
     "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md",
     "Drafts/Update Reminders.md",
     "Salesforce/Administrator/Routine/Mynotes.md",
     "Drafts/Case Team.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
-    "Drafts/Data and analytics management.md",
-    "Drafts/Tabular, Summary and Matrix Salesforce Reports.md",
-    "Salesforce/Administrator/Cover Letters/Cover Letter (DE).md",
-    "Salesforce/Administrator/Cover Letters/Cover Letter (EN).md",
-    "Drafts/Cover Letter EIGENSONNE GmbH.md"
+    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
   ]
 }
