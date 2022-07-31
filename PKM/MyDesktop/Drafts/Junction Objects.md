@@ -1,0 +1,1 @@
+A junction object is a custom object with two master-detail relationships, and it is the key to making a [[many-to-many relationship]].

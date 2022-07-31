@@ -177,3 +177,14 @@ On the job, you would also **create a project plan** to **_guide the project_**,
 
 ### [[Approval Process|Build a Discount Approval Process]]
 ### [[Update Reminders]]
+### [[Junction Objects]]
+### [[Self-Relationship]]
+#### !! [Create Custom Recruiting Fields](https://trailhead.salesforce.com/content/learn/projects/build-a-data-model-for-a-recruiting-app/create-custom-recruiting-fields)
+### Customize the User Interface for a Recruiting App
+##### [Create tabs, quick actions, record types, and customized page layouts on an existing app for a more streamlined user experience](https://trailhead.salesforce.com/de/content/learn/projects/customize-the-ui-for-a-recruiting-app/create-tab-review-object)
+##### [[Object-specific Quick Action|Create an Object-Specific Quick Action]]
+#### Create a Custom Candidate Record Page
+##### Add a Lightning Component
+##### Create a Custom Candidate Compact Layout
+##### Create Record Types on the Position Object 
+### Splash Page

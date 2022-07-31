@@ -1,0 +1,2 @@
+# Create a Self Relationship with the Position Object
+Link to [trailhead](https://trailhead.salesforce.com/content/learn/projects/build-a-data-model-for-a-recruiting-app/self-relationship-positions-object)

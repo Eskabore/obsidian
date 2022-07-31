@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Mynotes",
+      "path": "Salesforce/Administrator/Routine/Mynotes.md"
+    },
+    {
+      "basename": "dim., 31 07 2022",
+      "path": "Daily Notes/dim., 31 07 2022.md"
+    },
+    {
+      "basename": "Photos Turquin Joseph-Antoine",
+      "path": "Drafts/Photos Turquin Joseph-Antoine.md"
+    },
+    {
+      "basename": "Object-specific Quick Action",
+      "path": "Drafts/Object-specific Quick Action.md"
+    },
+    {
+      "basename": "Quick Actions",
+      "path": "Drafts/Quick Actions.md"
+    },
+    {
+      "basename": "ven., 29 07 2022",
+      "path": "Daily Notes/ven., 29 07 2022.md"
+    },
+    {
+      "basename": "Self-Relationship",
+      "path": "Drafts/Self-Relationship.md"
+    },
+    {
+      "basename": "many-to-many relationship",
+      "path": "Drafts/many-to-many relationship.md"
+    },
+    {
+      "basename": "factless fact table",
+      "path": "Drafts/factless fact table.md"
+    },
+    {
+      "basename": "Junction Objects",
+      "path": "Drafts/Junction Objects.md"
+    },
+    {
+      "basename": "ReactJS Tic Tac Toe",
+      "path": "IT/ReactJS/Calepin/ReactJS Tic Tac Toe.md"
+    },
+    {
+      "basename": "271220 Notes  ReactJS",
+      "path": "IT/ReactJS/Calepin/271220 Notes  ReactJS.md"
+    },
+    {
+      "basename": "Cover-Letter_smartly.io",
+      "path": "Road to Fullstack/Work/Cover - Letters/Cover-Letter_smartly.io.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Road to Fullstack/Work/Notes/Untitled.md"
+    },
+    {
       "basename": "Cover Letter for smartly.io",
       "path": "Road to Fullstack/Front-End/Cover Letter for smartly.io.md"
+    },
+    {
+      "basename": "Second email to Fred",
+      "path": "Road to Fullstack/Front-End/Second email to Fred.md"
     },
     {
       "basename": "Footer 5colors",
@@ -27,10 +87,6 @@
     {
       "basename": "Update Reminders",
       "path": "Drafts/Update Reminders.md"
-    },
-    {
-      "basename": "Mynotes",
-      "path": "Salesforce/Administrator/Routine/Mynotes.md"
     },
     {
       "basename": "Case Team",
@@ -143,46 +199,6 @@
     {
       "basename": "Workflow and Automation",
       "path": "Drafts/Workflow and Automation.md"
-    },
-    {
-      "basename": "Object Manager and Lightning App Builder",
-      "path": "Drafts/Object Manager and Lightning App Builder.md"
-    },
-    {
-      "basename": "Configuration and setup",
-      "path": "Drafts/Configuration and setup.md"
-    },
-    {
-      "basename": "NOTABENE",
-      "path": "Salesforce/Administrator/NOTABENE.md"
-    },
-    {
-      "basename": "User Acceptance Testing",
-      "path": "Drafts/User Acceptance Testing.md"
-    },
-    {
-      "basename": "List views",
-      "path": "Drafts/List views.md"
-    },
-    {
-      "basename": "Validation Rules",
-      "path": "Drafts/Validation Rules.md"
-    },
-    {
-      "basename": "Formula Fields",
-      "path": "Drafts/Formula Fields.md"
-    },
-    {
-      "basename": "Using Flow to Create a Custom Report Link",
-      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Using Flow to Create a Custom Report Link.md"
-    },
-    {
-      "basename": "Take Action Directly from a Report",
-      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Take Action Directly from a Report.md"
-    },
-    {
-      "basename": "Test Flows and Processes Without Updating Live Data",
-      "path": "Salesforce/Administrator/Certification/Hands-on/Challenges/How-I-Solved/Test Flows and Processes Without Updating Live Data.md"
     }
   ],
   "omittedPaths": [],
