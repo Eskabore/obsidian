@@ -1,3 +1,5 @@
+#validation  #rules #salesforce 
+
 # Create Validation Rules
 ## Learning Objectives
 

@@ -179,6 +179,8 @@ On the job, you would also **create a project plan** to **_guide the project_**,
 ### [[Update Reminders]]
 ### [[Junction Objects]]
 ### [[Self-Relationship]]
+
+## Build Platform Apps in Lightning Experience
 #### !! [Create Custom Recruiting Fields](https://trailhead.salesforce.com/content/learn/projects/build-a-data-model-for-a-recruiting-app/create-custom-recruiting-fields)
 ### Customize the User Interface for a Recruiting App
 ##### [Create tabs, quick actions, record types, and customized page layouts on an existing app for a more streamlined user experience](https://trailhead.salesforce.com/de/content/learn/projects/customize-the-ui-for-a-recruiting-app/create-tab-review-object)
@@ -186,5 +188,47 @@ On the job, you would also **create a project plan** to **_guide the project_**,
 #### Create a Custom Candidate Record Page
 ##### Add a Lightning Component
 ##### Create a Custom Candidate Compact Layout
-##### Create Record Types on the Position Object 
+##### Create Record Types on the Position Object
+#### Customize the Position Page Layout
+##### Create Fields on the Position Object
+##### Work with Page Layouts
+NB:  
+- Difficulty met: Field usage should not be activated with no specified data, Otherwise, picklist could become unselctable.
+#### Enable Chatter on the Review Object
+##### Enable Chatter Feed Tracking
+### Improve Data Quality for a recruiting App
+#### [[Create Cross-Object Formulas]]
+- Set formulas and validation rules in an existing Recruiting app so users keep their data consistent.
+- Create roll-up summary fields to calculate the information users enter in the app.
+#### [[Validation Rules|Create Validation Rules]]
+#####  Create Custom Objects
+Ling’s mismatched state and zip code issue requires a little work before setting up the validation rule.
+First, you create custom objects for zip code and state, and add fields to each of them.
+##### Also:
+- **Append tab to users’ existing personal customizations**
+- Custom Tabs
+#### Create Formula and Roll-Up Summary Fields
+- A rollup summary is kind of the reverse of a cross-object formula.
+> Instead of getting data from a parent (or grandparent) object, it gets data from records on a child object and stores that data—results are recalculated and stored whenever any record on the detail record is saved.
+
+Formula fields take input from other fields, values, functions, and operators to produce results. They can reference standard fields, custom fields, and other formula fields. Formula results are not stored—the formula expression is stored as metadata. But the result of that expression is calculated on the fly whenever a user views a record or runs a report containing the formula field.
+##### Create a Formula
+##### !!Create a formula field to show a ==green, yellow, or red light== on a job application record, depending on the Average Review Score.!!
+- Review indicator
+### Keep Data Secure in a Recruiting App
+#### Create Custom Profiles
+- Update field-level security and create permission sets in an HR recruiting app so that sensitive data can be viewed only by those who need it.
+- Further restrict data access in the app by changing sharing settings.
+- The first step is creating an HR Recruiter profile and setting up the required data access according to Ling’s specifications.
+- **It’s best practice to not assign standard profiles to users. Instead, even if you’re not making any changes, clone the Standard Profiles and assign the clones to users**.
+-> ==That way, if a user needs permissions or access to a custom object in the future, the cloned profiles can be updated easily==.
+#### Restrict Data Access with Field-Level Security, Permission Sets, and Sharing Settings
+##### Create Permission Sets
+#### Modify Field-Level Security
+All standard objects have a predefined set of fields to capture common business information. While they can’t be deleted, field-level security can make them invisible. Field-level security controls which fields a profile or permission set can view and edit, overrides any less-restrictive field access, and controls settings in page layouts and search layouts.
+
+##### Create Sharing Settings
+In order to access a record, users must have the appropriate object permission on their profile or a permission set. By changing sharing settings from the organization-wide defaults, you set the default level of access users have to records they do not own in each object. 
+
 ### Splash Page
+### [[Chatter]]

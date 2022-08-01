@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Kunernetes",
+                "query": "validation rules",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,17 +156,17 @@
     "width": 743.0950927734375,
     "collapsed": true
   },
-  "active": "ca8ef80322d1be54",
+  "active": "bb18f80bb6573cc2",
   "lastOpenFiles": [
+    "Drafts/Validation Rules.md",
+    "Salesforce/Administrator/Routine/Mynotes.md",
+    "Drafts/Create Cross-Object Formulas.md",
+    "Drafts/Chatter.md",
     "Daily Notes/dim., 31 07 2022.md",
     "Drafts/Photos Turquin Joseph-Antoine.md",
     "Drafts/Object-specific Quick Action.md",
     "Drafts/Quick Actions.md",
-    "Salesforce/Administrator/Routine/Mynotes.md",
     "Daily Notes/ven., 29 07 2022.md",
-    "Drafts/Self-Relationship.md",
-    "Drafts/many-to-many relationship.md",
-    "Drafts/factless fact table.md",
-    "Drafts/Junction Objects.md"
+    "Drafts/Self-Relationship.md"
   ]
 }

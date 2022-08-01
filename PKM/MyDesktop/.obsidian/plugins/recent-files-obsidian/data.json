@@ -5,6 +5,18 @@
       "path": "Salesforce/Administrator/Routine/Mynotes.md"
     },
     {
+      "basename": "Validation Rules",
+      "path": "Drafts/Validation Rules.md"
+    },
+    {
+      "basename": "Create Cross-Object Formulas",
+      "path": "Drafts/Create Cross-Object Formulas.md"
+    },
+    {
+      "basename": "Chatter",
+      "path": "Drafts/Chatter.md"
+    },
+    {
       "basename": "dim., 31 07 2022",
       "path": "Daily Notes/dim., 31 07 2022.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Math.random()",
       "path": "Drafts/Math.random().md"
-    },
-    {
-      "basename": "Salesforce Flow",
-      "path": "Drafts/Salesforce Flow.md"
-    },
-    {
-      "basename": "JobCenter Info 01.020",
-      "path": "Drafts/JobCenter Info 01.020.md"
-    },
-    {
-      "basename": "Workflow and Automation",
-      "path": "Drafts/Workflow and Automation.md"
     }
   ],
   "omittedPaths": [],
