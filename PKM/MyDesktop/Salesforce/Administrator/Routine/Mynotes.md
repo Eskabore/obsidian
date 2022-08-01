@@ -179,7 +179,8 @@ On the job, you would also **create a project plan** to **_guide the project_**,
 ### [[Update Reminders]]
 ### [[Junction Objects]]
 ### [[Self-Relationship]]
-
+### Splash Page
+### [[Chatter]]
 ## Build Platform Apps in Lightning Experience
 #### !! [Create Custom Recruiting Fields](https://trailhead.salesforce.com/content/learn/projects/build-a-data-model-for-a-recruiting-app/create-custom-recruiting-fields)
 ### Customize the User Interface for a Recruiting App
@@ -230,5 +231,42 @@ All standard objects have a predefined set of fields to capture common business 
 ##### Create Sharing Settings
 In order to access a record, users must have the appropriate object permission on their profile or a permission set. By changing sharing settings from the organization-wide defaults, you set the default level of access users have to records they do not own in each object. 
 
-### Splash Page
-### [[Chatter]]
+## Automate Business Process for a Recruiting App
+### Build a Process for Creating Interview
+
+#### Learning Objectives
+
+- Build processes in an HR recruiting app that _streamline workflow_ for creating interviewer records and approving new positions.
+- Create a flow for the app to simplify the process of rating candidates and make the rating process consistent.
+
+##### Set Up a Process with [[Process Builder]]
+
+### Lay the Groundwork for an Approval Process
+
+#### Create a Folder and Email Templates
+####  Create Fields
+- Build a few fields on the Position object to use in the approval process.
+- Edit the Position Layout.
+
+### Create an Approval Process
+#### Set Up a Multistep [[Approval Process]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
