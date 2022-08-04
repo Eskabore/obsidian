@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/Approval Process.md",
+            "file": "Drafts/Advanced Currency Management.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "validation rules",
+                "query": "#flow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/Approval Process.md",
+                "file": "Drafts/Advanced Currency Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/Approval Process.md"
+                "file": "Drafts/Advanced Currency Management.md"
               }
             }
           },
@@ -158,14 +158,14 @@
   "active": "ca8ef80322d1be54",
   "lastOpenFiles": [
     "Salesforce/Administrator/Routine/Mynotes.md",
+    "Drafts/Field-To-Field Filters.md",
+    "Drafts/Salesforce Flow.md",
+    "Drafts/Approval Process.md",
     "Drafts/Process Builder.md",
     "Drafts/Validation Rules.md",
     "Drafts/Create Cross-Object Formulas.md",
     "Drafts/Chatter.md",
     "Daily Notes/dim., 31 07 2022.md",
-    "Drafts/Photos Turquin Joseph-Antoine.md",
-    "Drafts/Object-specific Quick Action.md",
-    "Drafts/Quick Actions.md",
-    "Daily Notes/ven., 29 07 2022.md"
+    "Drafts/Photos Turquin Joseph-Antoine.md"
   ]
 }

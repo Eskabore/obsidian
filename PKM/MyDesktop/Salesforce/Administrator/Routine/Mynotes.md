@@ -250,23 +250,72 @@ In order to access a record, users must have the appropriate object permission o
 
 ### Create an Approval Process
 #### Set Up a Multistep [[Approval Process]]
+##### Set Up a Multistep Approval Process
+##### Create Approval Steps
+- You’ve created the basic approval process. Next, create **initial submission actions**.
+- Now create approval steps.
+  - Now create approval steps.
+  - Create the second step.
+  - Create the third approval step.
+  - Create the fourth approval step.
+##### Create the Final Actions
+- Now create the final actions: approval or rejection, along with their associated email alerts.
+- Fill in the details of the second field update.
+- Set up email alerts.
+- Now create final rejection actions.
+- Fill in the details for the next field update.
+- Now set up an email alert.
+- Set up another field update.
 
+#### Create a Process for Submitting Positions for Approval 
+##### Use Process Builder to Create a New Process
+#### Create a Candidate Rating Flow
+##### Create Radio Buttons for Experience
+##### Create Radio Buttons for Leadership Skills
+##### Create Radio Buttons for Core Competencies
 
+#### Add Screen Elements
+#### Set a Start Element
+- Now that you’ve created the flow, set its start element.
+- Next add a Create Records element to the flow.
 
+#### Add Screen Elements
+#### Deploy the Flow
+- **Now that the New Review Flow is set up, create a custom button for launching it.**
 
+### Data Import Wizard & Data Loader
+A good example is using Data Import Wizard and Data Loader. Data Import Wizard is a point-and-click tool, part of Salesforce org, to manifest data. And Data Loader is a separate application that uses Salesforce API to send a request based on the operation we select and provide us with a response regarding the change completed.
 
+### Identity  & Security
+Let users verify their identity with a built-in authenticator such as Touch ID or Windows Hello
+#### Find your Salesforce Organization ID
+##### Description
 
+Your Salesforce Organization ID is the unique identifier for your Salesforce identity. Include this ID when opening cases with Salesforce Support, especially when requesting to enable new features.
+ 
+The Organization ID of your production environment is different than your Sandbox Organization ID. Whenever a Sandbox is refreshed, a new ID is established.
 
+##### Resolution
+Find your Salesforce Organization ID
 
+    For Classic: Click on Setup | Under Administer | Company Profile | Company Information
+    For Lightning: Click on Gear Icon | Setup | Company Settings | Company information
 
+### Considerations for Enabling Multiple Currencies
 
+> **Enabling multiple currencies introduces permanent changes in your organization. Before proceeding, be aware of these implications to ensure a smooth transition for your organization.**
 
-
-
-
-
-
-
-
-
-
+- After enabled, multiple currencies can’t be disabled for your organization.
+- If multiple currencies is enabled, [[Field-To-Field Filters|field-to-field filters]] in reports don't support currency fields, like amount.
+- Upon enablement, existing records are stamped with a default currency code that you provide in your enablement request. For example, if your organization contains records using USD and EUR, switch them all to the same default currency before enablement. Support for this type of conversion is also available as a Salesforce paid implementation service.
+- Standard and custom objects, such as Account, Lead, Case, Opportunities, Opportunity Products, Opportunity Product Schedules, and Campaign Opportunities, have currency fields that support multiple currencies. Reports related to these objects and fields also support multiple currencies. By default, page layouts for these objects have multi-currency-compatible fields in which you can specify the currency for the record. Typically, these fields are available only when creating a record or editing an existing record. The selected currency is used for the primary amount field.
+- After enablement, the number of decimal places defined in a custom currency field is ignored. Instead set decimal places per currency through Manage Currencies in Setup.
+- After enablement, the primary currency displays as usual and, optionally, a secondary currency amount appears in parentheses. The primary currency is typically the default corporate currency, unless it’s overridden at the record level. The amount shown in parentheses is the user’s personal default currency, calculated based on the conversion rate settings defined in your organization. To control whether the converted currency amount appears, enable or disable parenthetical currency conversion from the Manage Currencies page.
+- In reports, the primary currency reflects either the default corporate currency or the currency selected for the record. The secondary currency reflects the personal default currency of the user running the report, or the currency specified in the report criteria.
+- Users can specify a personal default currency on their personal information page. If parenthetical currency conversion is enabled, the personal default currency displays as the secondary currency amount (converted amount). Changing the personal default currency updates the converted amount in real time.
+- After a currency is added to an organization’s list of supported currencies, it can’t be deleted from the administrator’s list of currencies, even when it’s deactivated. The presence of inactive currencies in the administrator’s list is a cosmetic issue that doesn’t affect end users. A deactivated currency isn’t visible to end users, but remains visible to administrators. Salesforce recommends that you keep this issue in mind during testing and use only those currencies that you eventually plan to use in your organization.
+- After enablement, all currency fields display the ISO code of the currency before the amount. For example, $100 displays as USD 100.
+-  By default, all converted amounts in your organization rely on the current conversion rates defined for your organization. Conversion rates must be set and updated manually. Changing the exchange rate automatically updates converted amounts on all records, including on closed opportunities.
+You can opt to use dated exchange rates by using [[Advanced Currency Management|advanced currency management]] to track historical exchange rates. Advanced currency management allows you to maintain a list of exchange rates by date range. Converted currency amounts on opportunities display based on the specified Close Date, regardless of the opportunity stage. If the Close Date changes to a different exchange rate period, changing the Close Date impacts converted amounts. 
+> NOTE
+ ==Dated exchange rates== aren’t used in forecasting, currency fields in other objects, or currency fields in other types of reports. 

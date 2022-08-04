@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Approval Process",
-      "path": "Drafts/Approval Process.md"
+      "basename": "Advanced Currency Management",
+      "path": "Drafts/Advanced Currency Management.md"
     },
     {
       "basename": "Mynotes",
       "path": "Salesforce/Administrator/Routine/Mynotes.md"
+    },
+    {
+      "basename": "Field-To-Field Filters",
+      "path": "Drafts/Field-To-Field Filters.md"
+    },
+    {
+      "basename": "Salesforce Flow",
+      "path": "Drafts/Salesforce Flow.md"
+    },
+    {
+      "basename": "Approval Process",
+      "path": "Drafts/Approval Process.md"
     },
     {
       "basename": "Process Builder",
@@ -187,18 +199,6 @@
     {
       "basename": "Apex Basics",
       "path": "Drafts/Apex Basics.md"
-    },
-    {
-      "basename": "Salesforce Administrator Checklist",
-      "path": "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md"
-    },
-    {
-      "basename": "II.Questions & Scenarii",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
-    },
-    {
-      "basename": "Nota-Bene",
-      "path": "Drafts/Nota-Bene.md"
     }
   ],
   "omittedPaths": [],
