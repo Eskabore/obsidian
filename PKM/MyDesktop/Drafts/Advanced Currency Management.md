@@ -3,3 +3,5 @@ Advanced currency management allows you to manage dated exchange rates within op
 Dated exchange rates are defined using a start date and a conversion rate. Each rate is in effect until either the end of time or the day before the next start date for that currency. The time between one start date and the next start date is called the exchange rate date range. These ranges can be as small as a day and as large as all time.
 
 > When advanced currency management is first enabled, your existing exchange rates automatically become the first set of dated exchange rates. These rates are valid for all time, until you define another set of exchange rates. 
+
+_BA-Jobcenter-Berlin-Mitte-Team-323 <Jobcenter-Berlin-Mitte.Team-318@jobcenter-ge.de>
