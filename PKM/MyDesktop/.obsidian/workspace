@@ -4,7 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3200fabaf7bb5fd5",
+        "id": "451fc5dca2a1f3b7",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "431c67c5af6283dd",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -157,15 +165,15 @@
   },
   "active": "ca8ef80322d1be54",
   "lastOpenFiles": [
+    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+    "Drafts/Pasted image 20220810192201.png1000.md",
     "Salesforce/Administrator/Certification/Prep-Exam/Focus-on-Force/Exams Notes.md",
     "Salesforce/Administrator/NOTABENE.md",
     "Daily Notes/lun., 08 08 2022.md",
     "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md",
     "Salesforce/Administrator/Routine/Mynotes.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
     "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md",
-    "Daily Notes/dim., 07 08 2022.md"
+    "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md"
   ]
 }

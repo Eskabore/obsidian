@@ -5,6 +5,10 @@
       "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
     },
     {
+      "basename": "II.Questions & Scenarii",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
+    },
+    {
       "basename": "Exams Notes",
       "path": "Salesforce/Administrator/Certification/Prep-Exam/Focus-on-Force/Exams Notes.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Mynotes",
       "path": "Salesforce/Administrator/Routine/Mynotes.md"
-    },
-    {
-      "basename": "II.Questions & Scenarii",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
     },
     {
       "basename": "I.Table of Content",
@@ -195,10 +195,6 @@
     {
       "basename": "Create & Edit Visualforce Pages",
       "path": "Drafts/Create & Edit Visualforce Pages.md"
-    },
-    {
-      "basename": "Visualforce",
-      "path": "Drafts/Visualforce.md"
     }
   ],
   "omittedPaths": [],

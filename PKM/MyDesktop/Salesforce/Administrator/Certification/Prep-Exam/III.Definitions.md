@@ -119,25 +119,25 @@ To use inbound change sets: | Deploy Change Sets AND Modify Metadata Through Met
 ![[Pasted image 20220810184859.png]]
 ![[Pasted image 20220810184914.png|1000]]
 
-- Personal data is **==any data regarding a person that can be used to identify an individual person==**, including location data and online identifiers. Sensitive data is a subcategory of personal data and encompasses race, ethnic origin, genetic data, religious and political views, sexual orientation, and more. Salesforce has several objects that can contain personal data, which include but are not limited to: Leads, Contacts, Accounts, Opportunities, and Custom Objects. Additional protection needs to be provided to sensitive data as unauthorized access could lead to damage, harm and loss. 
+- Personal data is **==any data regarding a person that can be used to identify an individual person==**, including _location data_ and _online identifiers_. 
+  ==Sensitive data== is a <u>subcategory of personal data</u> and _==encompasses race, ethnic origin, genetic data, religious and political views, sexual orientation==_, and more. 
+  Salesforce has several objects that can contain personal data, which include but are not limited to: **Leads, Contacts, Accounts, Opportunities, and Custom Objects**. Additional protection needs to be provided to sensitive data as unauthorized access could lead to damage, harm and loss. 
+
+- A list view can be shared with a public group of users by selecting 'Sharing Settings' from the 'List View Controls' menu in Lightning Experience. It can be used to quickly share a particular list view with users. Exporting a list view or creating a report is not an efficient solution for this use case. Also, a sharing button is not used to share a list view.
+
+- A Salesforce Administrator could modify the access to a tab for a profile but not for an individual user. There is no auto-hide feature for rarely used tabs. Each app can have a different set of tabs. Users can be assigned to different apps. In Lightning Experience, the App Launcher can be utilized to switch between apps.
+  > Users can add, remove, rename, and reorder tabs that are displayed by default by personalizing the navigation bar of an app in Lightning Experience. Default tabs that are specified by the Salesforce Administrator cannot be removed or renamed.
+
+- If both inline editing and enhanced lists are enabled, records can be directly edited in a list.
+    > If the user has the '**Mass Edits from Lists**' permission, the value for a common field in up to 200 selected records can be updated.  If 'Enhanced Profile User Interface' is enabled, then this setting can be found under 'System Permissions'. The permission matters in the Salesforce Classic UI, but it has no impact in Lightning Experience. Whether or not the permission is available for a user in Lightning Experience, the user can edit multiple records at a time in a list view, provided they all refer to a single record type.
+![[Pasted image 20220810192201.png|1000]]
+
+- A lookup filter limits search results, restricting the valid values and lookup dialog results for lookup, master-detail, and hierarchical relationship fields. Use lookup filters to improve data quality by enforcing data consistency.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- List Email????
+- Salesforce Baseline Standard
 
 
 
