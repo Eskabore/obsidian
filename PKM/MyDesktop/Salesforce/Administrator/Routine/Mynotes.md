@@ -319,3 +319,4 @@ Find your Salesforce Organization ID
 You can opt to use dated exchange rates by using [[Advanced Currency Management|advanced currency management]] to track historical exchange rates. Advanced currency management allows you to maintain a list of exchange rates by date range. Converted currency amounts on opportunities display based on the specified Close Date, regardless of the opportunity stage. If the Close Date changes to a different exchange rate period, changing the Close Date impacts converted amounts. 
 > NOTE
  ==Dated exchange rates== aren’t used in forecasting, currency fields in other objects, or currency fields in other types of reports. 
+

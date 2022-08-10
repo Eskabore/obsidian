@@ -1,19 +1,20 @@
 ---
 folder: "Daily Notes"
 title: "What for today ?"
-date: 2022-07-31, dimanche
-time: 17:52
-updated: '2022-07-31, 17:52'
+date: 2022-08-07, dimanche
+time: 19:13
+updated: '2022-08-07, 19:13'
 ---
 
 tags: #todo 
 
 ## Tasks
-- [x] Salesforce: Complete trail " Build a recruiting App"
-- [ ] Practice Exams : 2 
+- [ ] Reply to locksmith that contacted me via eBay
+
 ## Review
+- [x] Practice Exams : 2 
 - [ ] Salesforce : 2 hours exam Certification
-- [ ] Salesforce : Finish project Recruitment app
+- [x] Salesforce : Finish project Recruitment app
 - [ ] Contact AOK 
 - [ ] Update portfolio
 - [ ] Check interesting projects in my Github and write detailed descriptions

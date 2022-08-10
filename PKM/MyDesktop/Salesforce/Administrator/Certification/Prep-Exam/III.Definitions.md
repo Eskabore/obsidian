@@ -77,3 +77,67 @@ Prospect: An anonymous visitor that has converted and is now identified. A recor
 Lead nurturing: Sending targeted messages at specific intervals based on a prospect's actions and whether or not they’ve met certain qualifying criteria. 
 
 Lead qualification: You probably have thousands (or even hundreds of thousands) of people interacting with your organization. Your sales teams can’t contact each of them, so as marketers it’s your job to help send them the best prospects. This process of finding the gold needles in the haystack of prospects is called lead qualification. You decide the threshold for when a prospect is ready to be assigned to a salesperson for them to follow up.
+
+### Level Of Effort (LOE)
+
+**Level of effort (LOE) is a project management term that refers to a specific type of project activity called support activities.** Support activities do not yield deliverables, but rather fuel tasks that do. Therefore, the level of effort is how much work these tasks will take to complete.
+This work can take many forms, such as ==_updating project documents, maintaining equipment, submitting expenses, etc==._
+> The unifying characteristic of **this work is that it must be done regularly to support a greater task**.
+
+**EX**:
+- Managing Stakeholders
+- Updating Reports
+- Communicating with Customers
+  #### Why Is Calculating the Level of Effort Important?
+  Effort is a resource like anything else. When we think about resources, our minds go to tangible things like money and materials, but it is just as important to consider effort.
+  As you can imagine, achieving some deliverables will require more work than others. This means they have a higher level of effort, but it doesn’t necessarily mean they need to be more difficult. In fact, when we know the LOE for deliverables, you can anticipate how much work tasks will require and be better prepared. Resource scheduling tools help with this process.
+  #### When Should LOE Be Calculated?
+  The level of effort should be calculated during the planning phase of a project when tasks are being created. Tasks with a higher level of effort require more work to be completed. Generally, this work takes place at regular intervals throughout the task or project, so it’s important to understand how much total effort it will require.
+Establishing the level of effort during the planning phase helps spread workload evenly and allows for a more accurate schedule. If certain team members are assigned to too many high LOE tasks in their workflow, it may be time to redistribute tasks.
+#### What Is Effort Estimation?
+In order to know a task’s LOE, you must practice something called effort estimation. Effort estimation is the process through which we approximate how much time, energy or money deliverables will demand so that we can rank this on a scale.
+Effort estimation is one the core components of project estimation, along with resource estimation and cost estimation. These estimations are the foundation of sound project planning. The more accurate your estimations are, the more accurate your overall project plan will be, and the fewer variances you will need to deal with.
+
+### WSDL
+To access the Lightning Platform Web service, you need a Web Service Description Language (WSDL) file.
+The WSDL file defines the Web service that is available to you. Your development platform uses this WSDL to generate an API to access the Lightning Platform Web service it defines. You can either obtain the WSDL file from your organization’s Salesforce administrator or you can generate it yourself if you have access to the WSDL download page in the Salesforce user interface. You can navigate to the most recent WSDL for your organization from Setup by entering API in the Quick Find box, then selecting API.
+
+### Change Sets
+Use change sets to send customizations from one Salesforce org to another. For example, you can create and test a new object in a sandbox org, then send it to your production org using a change set. Change sets can contain only modifications you can make through the Setup menu. For example, you can’t use a change set to upload a list of contact records. Change sets contain information about the org. They don’t contain data, such as records.
+
+ User Permissions Needed | \
+:------|------:
+To edit deployment connections: | Deploy Change Sets AND Modify Metadata Through Metadata API Functions
+To use outbound change sets: | Create and Upload Change Sets
+To use inbound change sets: | Deploy Change Sets AND Modify Metadata Through Metadata API Functions
+
+- Unlike global quick actions, object-specific quick actions support Lightning web components. To create a Lightning web component quick action, the 'Lightning Web Component' action type is selected.
+- The 'Lightning Component' option is selected when creating a quick action using an Aura component. The 'Flow' option is selected in order to launch a flow using a quick action. A "Custom Component" is not a valid Action Type option.
+![[Pasted image 20220810184538.png|1000]]
+
+- The 'Default Locale' setting determines the format of dates, times, numbers, names, addresses, and phone numbers in Salesforce. The default currency for single currency orgs is set using the 'Currency Locale' field, a separate field to the 'Default Locale'.
+![[Pasted image 20220810184859.png]]
+![[Pasted image 20220810184914.png|1000]]
+
+- Personal data is **==any data regarding a person that can be used to identify an individual person==**, including location data and online identifiers. Sensitive data is a subcategory of personal data and encompasses race, ethnic origin, genetic data, religious and political views, sexual orientation, and more. Salesforce has several objects that can contain personal data, which include but are not limited to: Leads, Contacts, Accounts, Opportunities, and Custom Objects. Additional protection needs to be provided to sensitive data as unauthorized access could lead to damage, harm and loss. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

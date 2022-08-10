@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Advanced Currency Management",
-      "path": "Drafts/Advanced Currency Management.md"
+      "basename": "III.Definitions",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+    },
+    {
+      "basename": "Exams Notes",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/Focus-on-Force/Exams Notes.md"
+    },
+    {
+      "basename": "NOTABENE",
+      "path": "Salesforce/Administrator/NOTABENE.md"
+    },
+    {
+      "basename": "lun., 08 08 2022",
+      "path": "Daily Notes/lun., 08 08 2022.md"
+    },
+    {
+      "basename": "Salesforce Administrator Checklist",
+      "path": "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md"
     },
     {
       "basename": "Mynotes",
       "path": "Salesforce/Administrator/Routine/Mynotes.md"
+    },
+    {
+      "basename": "II.Questions & Scenarii",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
+    },
+    {
+      "basename": "I.Table of Content",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
+    },
+    {
+      "basename": "21072002",
+      "path": "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md"
+    },
+    {
+      "basename": "dim., 07 08 2022",
+      "path": "Daily Notes/dim., 07 08 2022.md"
+    },
+    {
+      "basename": "dim., 31 07 2022",
+      "path": "Daily Notes/dim., 31 07 2022.md"
+    },
+    {
+      "basename": "Photos Turquin Joseph-Antoine",
+      "path": "Drafts/Photos Turquin Joseph-Antoine.md"
+    },
+    {
+      "basename": "Advanced Currency Management",
+      "path": "Drafts/Advanced Currency Management.md"
     },
     {
       "basename": "Field-To-Field Filters",
@@ -35,14 +79,6 @@
     {
       "basename": "Chatter",
       "path": "Drafts/Chatter.md"
-    },
-    {
-      "basename": "dim., 31 07 2022",
-      "path": "Daily Notes/dim., 31 07 2022.md"
-    },
-    {
-      "basename": "Photos Turquin Joseph-Antoine",
-      "path": "Drafts/Photos Turquin Joseph-Antoine.md"
     },
     {
       "basename": "Object-specific Quick Action",
@@ -113,20 +149,12 @@
       "path": "Presume/Readme.md"
     },
     {
-      "basename": "21072002",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md"
-    },
-    {
       "basename": "Update Reminders",
       "path": "Drafts/Update Reminders.md"
     },
     {
       "basename": "Case Team",
       "path": "Drafts/Case Team.md"
-    },
-    {
-      "basename": "I.Table of Content",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
     },
     {
       "basename": "Data and analytics management",
@@ -165,40 +193,12 @@
       "path": "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md"
     },
     {
-      "basename": "III.Definitions",
-      "path": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
-    },
-    {
       "basename": "Create & Edit Visualforce Pages",
       "path": "Drafts/Create & Edit Visualforce Pages.md"
     },
     {
       "basename": "Visualforce",
       "path": "Drafts/Visualforce.md"
-    },
-    {
-      "basename": "Test Data for Apex Tests",
-      "path": "Drafts/Test Data for Apex Tests.md"
-    },
-    {
-      "basename": "Apex Testing",
-      "path": "Drafts/Apex Testing.md"
-    },
-    {
-      "basename": "SOQL for Admins",
-      "path": "Drafts/SOQL for Admins.md"
-    },
-    {
-      "basename": "Support Process",
-      "path": "Drafts/Support Process.md"
-    },
-    {
-      "basename": "dim., 07 03 2021",
-      "path": "Daily Notes/dim., 07 03 2021.md"
-    },
-    {
-      "basename": "Apex Basics",
-      "path": "Drafts/Apex Basics.md"
     }
   ],
   "omittedPaths": [],
