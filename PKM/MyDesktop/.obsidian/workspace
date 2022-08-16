@@ -17,7 +17,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+            "file": "Drafts/Focus on Force - Workflow and Process Automation (Objectives 2,3).md",
             "mode": "source",
             "source": false
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+                "file": "Drafts/Focus on Force - Workflow and Process Automation (Objectives 2,3).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md"
+                "file": "Drafts/Focus on Force - Workflow and Process Automation (Objectives 2,3).md"
               }
             }
           },
@@ -163,17 +163,17 @@
     "width": 743.0950927734375,
     "collapsed": true
   },
-  "active": "ca8ef80322d1be54",
+  "active": "431c67c5af6283dd",
   "lastOpenFiles": [
-    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
     "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+    "Drafts/Focus on Force - Workflow and Process Automation (Objectives 2,3).md",
+    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md",
     "Drafts/Pasted image 20220810192201.png1000.md",
     "Salesforce/Administrator/Certification/Prep-Exam/Focus-on-Force/Exams Notes.md",
     "Salesforce/Administrator/NOTABENE.md",
     "Daily Notes/lun., 08 08 2022.md",
     "Salesforce/Administrator/Routine/Salesforce Administrator Checklist.md",
     "Salesforce/Administrator/Routine/Mynotes.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/White Exams/21072002.md"
+    "Salesforce/Administrator/Certification/Prep-Exam/I.Table of Content.md"
   ]
 }
