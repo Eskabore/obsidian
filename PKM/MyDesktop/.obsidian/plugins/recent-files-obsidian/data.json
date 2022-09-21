@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Project Planning",
+      "path": "Drafts/Project Planning.md"
+    },
+    {
+      "basename": "Productivity and collaboration",
+      "path": "Drafts/Productivity and collaboration.md"
+    },
+    {
+      "basename": "Deliverables",
+      "path": "Google Cloud/Cloud Engineer/Road to Certification/Project Management/Deliverables.md"
+    },
+    {
+      "basename": "Project Schedule",
+      "path": "Google Cloud/Cloud Engineer/Road to Certification/Project Management/Project Schedule.md"
+    },
+    {
+      "basename": "Goals and Objectives",
+      "path": "Google Cloud/Cloud Engineer/Road to Certification/Project Management/Goals and Objectives.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Google Cloud/Cloud Engineer/Road to Certification/Summary.md"
+    },
+    {
+      "basename": "Kubernetes engine",
+      "path": "Google Cloud/Cloud Engineer/Road to Certification/Resource/Kubernetes/Kubernetes engine.md"
+    },
+    {
       "basename": "Focus on Force - Workflow and Process Automation (Objectives 2,3)",
       "path": "Drafts/Focus on Force - Workflow and Process Automation (Objectives 2,3).md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Cover Letter (DE)",
       "path": "Salesforce/Administrator/Cover Letters/Cover Letter (DE).md"
-    },
-    {
-      "basename": "Cover Letter (EN)",
-      "path": "Salesforce/Administrator/Cover Letters/Cover Letter (EN).md"
-    },
-    {
-      "basename": "Cover Letter EIGENSONNE GmbH",
-      "path": "Drafts/Cover Letter EIGENSONNE GmbH.md"
-    },
-    {
-      "basename": "21032022",
-      "path": "Agenda/Organizer/Pele-Mele/21032022.md"
-    },
-    {
-      "basename": "Dimabay_salesforceAdmin",
-      "path": "Salesforce/Administrator/Interviews/Dimabay_salesforceAdmin.md"
-    },
-    {
-      "basename": "Pardot",
-      "path": "Drafts/Pardot.md"
-    },
-    {
-      "basename": "Plan",
-      "path": "Salesforce/Administrator/Certification/Hands-on/Console1/Plan.md"
-    },
-    {
-      "basename": "Create & Edit Visualforce Pages",
-      "path": "Drafts/Create & Edit Visualforce Pages.md"
     }
   ],
   "omittedPaths": [],
