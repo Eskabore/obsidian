@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "451fc5dca2a1f3b7",
+        "id": "24932f22b1b1d2f4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Drafts/Project Planning.md",
+            "file": "IT/JavaScript/Definitions/02JAN21.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#flow",
+                "query": "memo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drafts/Project Planning.md",
+                "file": "IT/JavaScript/Definitions/02JAN21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Drafts/Project Planning.md"
+                "file": "IT/JavaScript/Definitions/02JAN21.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Drafts/Project Planning.md",
+                "file": "IT/JavaScript/Definitions/02JAN21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,15 +169,15 @@
   },
   "active": "ca8ef80322d1be54",
   "lastOpenFiles": [
-    "Drafts/Productivity and collaboration.md",
+    "Daily Notes/jeu., 29 09 2022.md",
+    "Drafts/Swarming.md",
+    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
+    "YAML_F/Dump.md",
+    "Google Cloud/Cloud Engineer/Road to Certification/Resource/Kubernetes/Kubernetes engine.md",
     "Drafts/Project Planning.md",
+    "Drafts/Productivity and collaboration.md",
     "Google Cloud/Cloud Engineer/Road to Certification/Project Management/Deliverables.md",
     "Google Cloud/Cloud Engineer/Road to Certification/Project Management/Project Schedule.md",
-    "Google Cloud/Cloud Engineer/Road to Certification/Project Management/Goals and Objectives.md",
-    "Google Cloud/Cloud Engineer/Road to Certification/Summary.md",
-    "Google Cloud/Cloud Engineer/Road to Certification/Resource/Kubernetes/Kubernetes engine.md",
-    "Drafts/Focus on Force - Workflow and Process Automation (Objectives 2,3).md",
-    "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
-    "Salesforce/Administrator/Certification/Prep-Exam/II.Questions & Scenarii.md"
+    "Google Cloud/Cloud Engineer/Road to Certification/Project Management/Goals and Objectives.md"
   ]
 }
