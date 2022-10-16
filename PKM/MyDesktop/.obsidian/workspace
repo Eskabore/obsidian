@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/JavaScript/Definitions/02JAN21.md",
+            "file": "Daily Notes/mar., 04 10 2022.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memo",
+                "query": "javascript",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/JavaScript/Definitions/02JAN21.md",
+                "file": "Daily Notes/mar., 04 10 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/JavaScript/Definitions/02JAN21.md"
+                "file": "Daily Notes/mar., 04 10 2022.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/JavaScript/Definitions/02JAN21.md",
+                "file": "Daily Notes/mar., 04 10 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,15 +169,15 @@
   },
   "active": "ca8ef80322d1be54",
   "lastOpenFiles": [
+    "IT/JavaScript/Definitions/02JAN21.md",
+    "Daily Notes/mar., 04 10 2022.md",
+    "FreeCodeCamp/FrontEndDevelopmentLibrairies/Projects/C-Random-Quote-Machine/random-quote-machine-fcc-2/node_modules/send/node_modules/debug/CHANGELOG.md",
+    "Daily Notes/ven., 30 09 2022.md",
     "Daily Notes/jeu., 29 09 2022.md",
     "Drafts/Swarming.md",
     "Salesforce/Administrator/Certification/Prep-Exam/III.Definitions.md",
     "YAML_F/Dump.md",
     "Google Cloud/Cloud Engineer/Road to Certification/Resource/Kubernetes/Kubernetes engine.md",
-    "Drafts/Project Planning.md",
-    "Drafts/Productivity and collaboration.md",
-    "Google Cloud/Cloud Engineer/Road to Certification/Project Management/Deliverables.md",
-    "Google Cloud/Cloud Engineer/Road to Certification/Project Management/Project Schedule.md",
-    "Google Cloud/Cloud Engineer/Road to Certification/Project Management/Goals and Objectives.md"
+    "Drafts/Project Planning.md"
   ]
 }

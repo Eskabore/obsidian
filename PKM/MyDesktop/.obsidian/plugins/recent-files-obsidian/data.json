@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "mar., 04 10 2022",
+      "path": "Daily Notes/mar., 04 10 2022.md"
+    },
+    {
       "basename": "02JAN21",
       "path": "IT/JavaScript/Definitions/02JAN21.md"
+    },
+    {
+      "basename": "CHANGELOG",
+      "path": "FreeCodeCamp/FrontEndDevelopmentLibrairies/Projects/C-Random-Quote-Machine/random-quote-machine-fcc-2/node_modules/send/node_modules/debug/CHANGELOG.md"
+    },
+    {
+      "basename": "ven., 30 09 2022",
+      "path": "Daily Notes/ven., 30 09 2022.md"
     },
     {
       "basename": "jeu., 29 09 2022",
@@ -187,14 +199,6 @@
     {
       "basename": "Data and analytics management",
       "path": "Drafts/Data and analytics management.md"
-    },
-    {
-      "basename": "Tabular, Summary and Matrix Salesforce Reports",
-      "path": "Drafts/Tabular, Summary and Matrix Salesforce Reports.md"
-    },
-    {
-      "basename": "Cover Letter (DE)",
-      "path": "Salesforce/Administrator/Cover Letters/Cover Letter (DE).md"
     }
   ],
   "omittedPaths": [],
