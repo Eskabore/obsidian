@@ -18,7 +18,7 @@ As a next step let's make our webpage display nicely on phones.
 
 Last but not least, let's look at how we can allow our users to pick a dark color scheme.
 
-![[Pasted image 20230119003428.png | Dark mode version]]
+![[desktop-animated.gif]]
 
 [Follow these instructions](https://stackoverflow.com/a/59223868) to toggle between light and dark mode in the developer tools.
 

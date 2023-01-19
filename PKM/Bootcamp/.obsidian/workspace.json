@@ -4,179 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "b10323ed34ad83f4",
+        "id": "991d13232f617a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "8b5c7e45ec4f1def",
+            "id": "128e7ea6844a166a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Day 2/HTML_CSS_Lab.md",
+                "file": "Week 5/Day 2/`fs`.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d61f6eeec22a87b",
+            "id": "3004fc860dd1fa1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1/Day 2/Control Flow.md",
+                "file": "Week 5/Day 3/HTTP Request Listener.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5fc7eb2032c2a865",
+            "id": "10f1dc23877524dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Week 1/Day 1/Install Git Node.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42e79b85cffe5fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 1/SSH setup for Github.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cbe08dba69a3f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 1/Indentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a3bb85e4a5200ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 2/Control Flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "856fccac30c245db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 3/Functions and Scope.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c26ed8219d1bdcdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 3/Semantic Markup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab241c7380b6c70d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 3/CSS Selectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f32f7a37bb004bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 3/HTML_CSS_Lab.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "536a09df662cdbb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 4/Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9fd54391a84de42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 4/Objects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5f2d68825070483",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 2/Control Flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be19f1800277d1bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 1/Day 2/Data Types.md",
-                "mode": "source",
-                "source": false
+                "file": "Folders/files/part1/a/images/cats.png"
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1/Day 4/Objects.md",
+                "file": "Week 5/Day 3/HTTP Request Listener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1/Day 4/Objects.md",
+                "file": "Week 5/Day 3/HTTP Request Listener.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1/Day 4/Objects.md"
+                "file": "Week 5/Day 3/HTTP Request Listener.md"
               }
             }
           }
@@ -290,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -303,17 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9fd54391a84de42",
+  "active": "3004fc860dd1fa1f",
   "lastOpenFiles": [
-    "Week 1/Day 4/Arrays.md",
-    "Week 1/Day 3/HTML_CSS_Lab.md",
-    "Week 1/Day 3/CSS Selectors.md",
-    "Week 1/Day 3/Semantic Markup.md",
-    "Week 1/Day 3/Functions and Scope.md",
-    "Week 1/Day 2/Control Flow.md",
-    "Week 1/Day 1/SSH setup for Github.md",
-    "Week 1/Day 1/Install Git Node.md",
-    "Week 1/Day 1/Indentation.md",
-    "Attachments/Pasted image 20230119002551.png"
+    "Week 5/Day 2/`fs`.md",
+    "Week 5/Day 1/Text Adventure.md",
+    "Folders/files/part1/a/images/cats.png",
+    "Folders/files/part1/a/images/kitty1_150x150.jpg",
+    "Week 5/Day 1/Node Modules.md",
+    "Week 5/Day 1/Event Emitters.md",
+    "Countdown.md",
+    "Week 5/Day 1/Callbacks.md",
+    "Week 2/Day 4/Hamburger Menu.md",
+    "Week 2/Day 4/Canvas.md"
   ]
 }
