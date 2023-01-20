@@ -1,0 +1,28 @@
+### Key-words/-phrases:
+- Team of bright, ambitious and caring people.
+- Culture
+- Transparency and feedback
+- future of digital marketing
+- talented group of people
+- React,
+- Mindful coordination
+- central owned product area (by Senators)
+- work intertwines with that of many other development teams
+- within your engineering organization
+- Team Senators works hand in hand with the other development teams within the Meta Product Group
+- the teams now share a common architecture that allows them to share the load, collaboratively implementing the customers’ use cases into the new framework.
+- Designing a tool like Workspaces isn’t exactly a piece of cake, since it has to support the highly diverse setups and workflows our customers rely on in their day-to-day work.
+-  Listening closely to the feedback we get from the testing phase
+-  being quick to devise solutions to customers’ needs
+- setting Workspaces up for success
+- **Connect to Facebook API - automate Data Extraction**
+-  The team’s bug investigator is in touch with Facebook’s technical support to see where the issues customers flag originate. - Each team member rotates in the bug investigator role for one week at a time,
+  - for seeing how customers use the platform, 
+  - pinpointing problematic areas in the legacy system, 
+  - and learning how to avoid similar pitfalls in Workspaces. 
+-  Kanban
+- As an open governance structure under the Linux Foundation, the OAI is focused on creating, evolving and promoting a vendor neutral description format
+  - consumer can understand and interact with the remote service with a minimal amount of implementation logic.
+  -  Similar to what interface descriptions have done for lower-level programming, the OpenAPI Specification removes guesswork in calling a service.
+---
+With several years of Web Development experience for global businesses, I offer the diligence and l expertise 

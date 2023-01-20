@@ -7,12 +7,8 @@
         "id": "ddcedd9fa94886ec",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gestion de configuration.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 332,
+    "collapsed": true
   },
   "right": {
     "id": "e5ccc6660886db9c",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion de configuration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Gestion de configuration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,6 +127,7 @@
   },
   "active": "ddcedd9fa94886ec",
   "lastOpenFiles": [
+    "Zettelkasten/202209231041.md",
     "Gestion de configuration.md",
     "computer engineering.md",
     "computer architecture.md",
@@ -141,7 +136,6 @@
     "Deployment diagram.md",
     "concurrent programming.md",
     "Component diagram.md",
-    "automatic baud rate detection.md",
-    "application software.md"
+    "automatic baud rate detection.md"
   ]
 }

@@ -1,0 +1,2 @@
+#filter #salesforce  
+Field-to-field filters let you filter a report by comparing the values of two different report fields. For example, see cases modified after closing date by filtering on cases with a last modified date after the closed date.
