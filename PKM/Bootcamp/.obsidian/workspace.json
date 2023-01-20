@@ -4,177 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "991d13232f617a3b",
+        "id": "aa360dc929a3485c",
         "type": "tabs",
         "children": [
           {
-            "id": "e434f70dc720cea2",
+            "id": "0509f8a2ff72dbbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 6/Day 3/Twitter API.md",
+                "file": "Week 8/Day 3/`fetch`.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "edaec52817cc4cf0",
+            "id": "cfba7c271cce737c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 7/Day 2/SQL.md",
+                "file": "Week 8/Day 3/`import` and `export`.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "68f5f2f7b6615691",
+            "id": "35cbe63ee31133b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 7/Day 2/spiced-pg.md",
+                "file": "Week 8/Day 4/Vue.js.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dac7439cc04ccfe2",
+            "id": "30579141ed6de2b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 7/Day 2/Petition Part - 1.md",
+                "file": "Week 8/Day 5/Image Board - Part 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5905eb80097bc8e4",
+            "id": "a5e46343f50d2e37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 7/Day 3/Petition - Part 2.md",
+                "file": "Week 8/Day 5/Image Upload.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "9d92452ed12c8146",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7/Day 3/Vulnerabilities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01757b7e989a01db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7/Day 4/Auth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fec1b5d3dd128a5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7/Day 5/Petition - Part 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10f75e58fb41bdcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 8/Day 1/Petition - Part 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e110c498e439a092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 8/Day 1/Render.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8e513a07bf4a497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7/Day 4/Petition - Part 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48184496573e681a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 7/Day 1/Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd67cf2062c4de30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Credentials/Twittter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10f1dc23877524dc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Folders/files/part1/a/images/cats.png"
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 8/Day 1/Render.md",
+                "file": "Week 8/Day 4/Vue.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 8/Day 1/Render.md",
+                "file": "Week 8/Day 4/Vue.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 8/Day 1/Render.md"
+                "file": "Week 8/Day 4/Vue.js.md"
               }
             }
           }
@@ -301,17 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e110c498e439a092",
+  "active": "de234c682ee7b55f",
   "lastOpenFiles": [
-    "Week 8/Day 1/Petition - Part 5.md",
-    "Week 7/Day 5/Petition - Part 4.md",
-    "Week 7/Day 5/More SQL.md",
-    "Week 7/Day 4/Auth.md",
-    "Week 7/Day 4/Petition - Part 3.md",
-    "Week 7/Day 3/Vulnerabilities.md",
-    "Week 7/Day 3/Petition - Part 2.md",
-    "Week 7/Day 2/Petition Part - 1.md",
-    "Week 7/Day 2/spiced-pg.md",
-    "Week 7/Day 2/SQL.md"
+    "Week 8/Day 4/Image Board - Part 1.md",
+    "Week 8/Day 5/Image Board - Part 2.md",
+    "Week 8/Day 5/S3.md",
+    "Week 8/Day 5/Image Upload.md",
+    "Credentials/AWS.md",
+    "Week 8/Day 4/Vue.js.md",
+    "Week 8/Day 3/`import` and `export`.md",
+    "Week 8/Day 3/`fetch`.md",
+    "Week 8/Day 2/Route Middleware.md",
+    "Week 8/Day 2/Expreess Router.md"
   ]
 }
