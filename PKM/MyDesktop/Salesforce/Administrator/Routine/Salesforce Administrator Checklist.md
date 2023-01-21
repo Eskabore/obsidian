@@ -8,6 +8,7 @@
 
 
 ## What to monitor:
+
 - Daily
 - Weekly
 - Monthly

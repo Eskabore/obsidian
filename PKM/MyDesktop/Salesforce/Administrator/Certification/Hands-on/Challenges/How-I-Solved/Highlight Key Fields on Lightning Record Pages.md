@@ -1,9 +1,13 @@
 #salesforce #admin #challenge #lightning 
 
+
 # How I Solved This: Highlight Key Fields on [[Lightning App Builder|Lightning Record Pages]]
 Link to [webpage](https://admin.salesforce.com/blog/2020/how-i-solved-this-highlight-key-fields-on-lightning-record-pages)
 
 Link to [Playground](https://brave-wolf-opg027-dev-ed.lightning.force.com/lightning/page/home)
+
+# How I Solved This: Highlight Key Fields on Lightning Record Pages
+Link to [webpage](https://admin.salesforce.com/blog/2020/how-i-solved-this-highlight-key-fields-on-lightning-record-pages)
 
 ### Key Business Problem
 I want my users to quickly see key information on a record without having to scroll down or click through endless screens of fields.
@@ -25,7 +29,9 @@ In the image below, I am conditionally displaying fields for a volunteer in Penn
 
 ### How did I build it?
 
-1. ==Create an Update Records Action on the object you want to highlight key fields on==. 
+1. ==Create an Update Records Action on the object you want to highlight key fields on==
+
+
 
 Go the **Object Manager,** find your desired object, and choose **Buttons, Links, and Actions > New Action**.
 
@@ -45,7 +51,7 @@ This is where you’re going to put the fields you want to show. You can start b
 
 ![[LRP5.png]]
 
-2. Place the Related Record Component on your Lightning Record Page
+1. Place the Related Record Component on your Lightning Record Page
 
 Go into the Lightning Record Page for your object and click Edit Page to start the Lightning App Builder. You’re going to add a Related Record component to the page.
 
@@ -62,3 +68,5 @@ Save and activate your Lightning Record Page!
 ### Business results
 
 Now my users can see their important information at a glance with a minimum of scrolling, and in separate tabs if required. 
+
+### How I solved it
